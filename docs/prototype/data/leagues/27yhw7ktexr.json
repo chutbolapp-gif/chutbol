@@ -1,0 +1,2309 @@
+{
+  "adjust": {
+    "עונה 26/27": {
+      "02v1odnqz6f": {
+        "rounds": 1
+      },
+      "17ug7dgurfn": {
+        "rounds": 3,
+        "seconds": 1,
+        "titles": 1
+      },
+      "1f48c8f1arv": {
+        "rounds": 4,
+        "titles": 2
+      },
+      "1pcc3xntq7u": {
+        "rounds": 5,
+        "seconds": 3
+      },
+      "1ujsmcph59r": {
+        "rounds": 3,
+        "seconds": 0,
+        "titles": 1
+      },
+      "2i29lvdtl7t": {
+        "rounds": 4,
+        "seconds": 1,
+        "titles": 3
+      },
+      "34ds6z8zoc1": {
+        "rounds": 3,
+        "titles": 1
+      },
+      "3b15k7kxd41": {
+        "rounds": 3,
+        "seconds": 1,
+        "titles": 1
+      },
+      "414xzk0xnha": {
+        "rounds": 1,
+        "titles": 1
+      },
+      "501z1iqp5zb": {
+        "rounds": 1
+      },
+      "54jloiph59r": {
+        "rounds": 1,
+        "titles": 1
+      },
+      "6kfvvyvuyl1": {
+        "rounds": 2,
+        "seconds": 1
+      },
+      "7ztgzlhumty": {
+        "rounds": 4,
+        "titles": 3
+      },
+      "8ppg4b0h59r": {
+        "rounds": 2,
+        "seconds": 1
+      },
+      "9vmkqfxwfg6": {
+        "rounds": 1,
+        "seconds": 1
+      },
+      "bo8ffiqzlny": {
+        "rounds": 1
+      },
+      "c2fzla4h59r": {
+        "rounds": 1,
+        "seconds": 1
+      },
+      "c2u2g0el8s7": {
+        "rounds": 1
+      },
+      "c3unvq2twnh": {
+        "rounds": 2,
+        "seconds": 1,
+        "titles": 1
+      },
+      "cd0aqiuw0tj": {
+        "rounds": 3,
+        "seconds": 1,
+        "titles": 2
+      },
+      "eu68xcpvg1w": {
+        "rounds": 4,
+        "seconds": 2,
+        "titles": 2
+      },
+      "hq3qc9tzr2p": {
+        "rounds": 1
+      },
+      "if1m0z6u98w": {
+        "rounds": 2,
+        "titles": 1
+      },
+      "j1oa5xgh59r": {
+        "rounds": 1,
+        "seconds": 1
+      },
+      "jixjjwvvjxb": {
+        "rounds": 3,
+        "seconds": 3
+      },
+      "kx3tc10vmnl": {
+        "rounds": 2,
+        "seconds": 2
+      },
+      "lskqb1qh59r": {
+        "rounds": 2,
+        "titles": 2
+      },
+      "lunzvcjz6rw": {
+        "rounds": 3,
+        "seconds": 1,
+        "titles": 1
+      },
+      "nrwl330h59r": {
+        "rounds": 1
+      },
+      "od6r0b9xqkg": {
+        "rounds": 1,
+        "titles": 1
+      },
+      "s19yt5ih59r": {
+        "rounds": 1
+      },
+      "uy0fw20p5zb": {
+        "rounds": 1,
+        "seconds": 0
+      },
+      "y5wyg7wp5zb": {
+        "rounds": 2
+      },
+      "yvzxz01va8o": {
+        "rounds": 4,
+        "seconds": 3,
+        "titles": 1
+      }
+    }
+  },
+  "balances": {
+    "17ug7dgurfn": -10,
+    "54jloiph59r": -60,
+    "6kfvvyvuyl1": 20,
+    "c2fzla4h59r": -20
+  },
+  "bylaws": "בכל משחק יש שופט. השופט אמור לעזור רק במצב של מחלוקת. מה שהשופט אומר זה מה שקובע (בהתאם לחוקה). במקרים קריטיים בודקים ב-VAR.\nשחקן שלא יקבל את החלטת השופט ויתנהג שלא בהתאם יורחק לצמיתות.\nכל משחק 7 דקות.\nאחרי שעברו 7 דקות משחקים התקפה אחרונה. המשחק נגמר כשהכדור יוצא החוצה או כשהשוער תופס ביד. אם יש קרן, פנדל או גול, ההתקפה האחרונה לא נגמרה.\nאחרי כל גול מתחילים מהחצי.\nשחקן שעושה עבירה או יד מכוונת שעוצרת גול בטוח מקבל כרטיס אדום ויוצא החוצה ללא אפשרות לחזור.\nהשופט יכול לקבוע 2 נגיעות בתוך הרחבה, אם נגיעת היד או העבירה לא מנעו מצב מסוכן.\nחומה במרחק 5 מטר.\nמשחק אחרון עד השעה 22:50.\nחל איסור מוחלט על גליצ'ים מסוכנים: בתנופה ובמהירות שיכולים לסכן את בריאות השחקן, גם אם הגליץ' נקי. גליץ' ללא תנופה מותר.",
+  "bylawsAt": 1792054800000,
+  "created": 1791864430047,
+  "id": "27yhw7ktexr",
+  "lastEnd": "23:00",
+  "lastTime": "19:30",
+  "lastVenue": "מתנ\"ס גני אביב לוד",
+  "name": "מתנ\"ס גני אביב לוד",
+  "ovrPub": {
+    "02v1odnqz6f": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 80,
+          "dribbling": 79,
+          "mental": 80,
+          "pace": 78,
+          "passing": 79,
+          "physical": 79,
+          "shooting": 78
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 85,
+        "pos": "מאוזן",
+        "rounds": 0,
+        "stamina": 77
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 80,
+          "gkFeet": 80,
+          "mental": 80,
+          "physical": 80,
+          "reflexes": 80
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 85,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "17ug7dgurfn": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 79,
+          "dribbling": 95,
+          "mental": 83,
+          "pace": 87,
+          "passing": 77,
+          "physical": 84,
+          "shooting": 88
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "מאוזן",
+        "rounds": 0,
+        "stamina": 87
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "1f48c8f1arv": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 90,
+          "dribbling": 94,
+          "mental": 92,
+          "pace": 93,
+          "passing": 84,
+          "physical": 79,
+          "shooting": 88
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 94,
+        "pos": "שחקן שלם",
+        "rounds": 0,
+        "stamina": 91
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 89,
+          "gkFeet": 89,
+          "mental": 89,
+          "physical": 89,
+          "reflexes": 89
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 94,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 96
+      }
+    },
+    "1pcc3xntq7u": {
+      "f": {
+        "at": 1792156534274,
+        "att": {
+          "defending": 87,
+          "dribbling": 76,
+          "mental": 84,
+          "pace": 76,
+          "passing": 80,
+          "physical": 83,
+          "shooting": 84
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 88,
+        "pos": "שחקן שלם",
+        "rounds": 1,
+        "stamina": 78
+      },
+      "g": {
+        "at": 1792156534274,
+        "att": {
+          "gkConc": 87,
+          "gkFeet": 82,
+          "mental": 82,
+          "physical": 82,
+          "reflexes": 80
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 89
+      }
+    },
+    "1ujsmcph59r": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 89,
+          "dribbling": 67,
+          "mental": 79,
+          "pace": 80,
+          "passing": 75,
+          "physical": 80,
+          "shooting": 77
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 83,
+        "pos": "מאוזן",
+        "rounds": 0,
+        "stamina": 80
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 78,
+          "gkFeet": 78,
+          "mental": 78,
+          "physical": 78,
+          "reflexes": 78
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 83,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "2i29lvdtl7t": {
+      "f": {
+        "at": 1792156959098,
+        "att": {
+          "defending": 83,
+          "dribbling": 82,
+          "mental": 92,
+          "pace": 84,
+          "passing": 90,
+          "physical": 88,
+          "shooting": 84
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 86,
+        "pos": "שחקן שלם",
+        "rounds": 1,
+        "stamina": 84
+      },
+      "g": {
+        "at": 1792156534274,
+        "att": {
+          "gkConc": 81,
+          "gkFeet": 81,
+          "mental": 81,
+          "physical": 81,
+          "reflexes": 81
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 86,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 88
+      }
+    },
+    "34ds6z8zoc1": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 80,
+          "dribbling": 87,
+          "mental": 80,
+          "pace": 91,
+          "passing": 85,
+          "physical": 79,
+          "shooting": 82
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "התקפי",
+        "rounds": 0,
+        "stamina": 75
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 82,
+          "gkFeet": 82,
+          "mental": 82,
+          "physical": 82,
+          "reflexes": 82
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "3b15k7kxd41": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 88,
+          "dribbling": 85,
+          "mental": 79,
+          "pace": 87,
+          "passing": 80,
+          "physical": 80,
+          "shooting": 81
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "הגנתי",
+        "rounds": 1,
+        "stamina": 90
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 82,
+          "gkFeet": 89,
+          "mental": 87,
+          "physical": 84,
+          "reflexes": 89
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 1,
+        "stamina": 91
+      }
+    },
+    "3vqbnihm0wf": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 84,
+          "dribbling": 88,
+          "mental": 85,
+          "pace": 85,
+          "passing": 82,
+          "physical": 83,
+          "shooting": 89
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "התקפי",
+        "rounds": 0,
+        "stamina": 82
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "414xzk0xnha": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 91,
+          "dribbling": 80,
+          "mental": 80,
+          "pace": 88,
+          "passing": 86,
+          "physical": 82,
+          "shooting": 89
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 90,
+        "pos": "שחקן שלם",
+        "rounds": 1,
+        "stamina": 89
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 81,
+          "gkFeet": 85,
+          "mental": 90,
+          "physical": 85,
+          "reflexes": 83
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 90,
+        "pos": "שוער",
+        "rounds": 1,
+        "stamina": 92
+      }
+    },
+    "501z1iqp5zb": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 80,
+          "dribbling": 82,
+          "mental": 87,
+          "pace": 80,
+          "passing": 83,
+          "physical": 85,
+          "shooting": 92
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "התקפי",
+        "rounds": 0,
+        "stamina": 75
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "54jloiph59r": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 94,
+          "dribbling": 79,
+          "mental": 83,
+          "pace": 80,
+          "passing": 84,
+          "physical": 94,
+          "shooting": 80
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 88,
+        "pos": "הגנתי",
+        "rounds": 0,
+        "stamina": 86
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 83,
+          "gkFeet": 83,
+          "mental": 83,
+          "physical": 83,
+          "reflexes": 83
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 88,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 90
+      }
+    },
+    "6kfvvyvuyl1": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 93,
+          "dribbling": 65,
+          "mental": 83,
+          "pace": 71,
+          "passing": 79,
+          "physical": 95,
+          "shooting": 86
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 86,
+        "pos": "הגנתי",
+        "rounds": 1,
+        "stamina": 71
+      },
+      "g": {
+        "at": 1792156994803,
+        "att": {
+          "gkConc": 90,
+          "gkFeet": 81,
+          "mental": 85,
+          "physical": 90,
+          "reflexes": 85
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 86,
+        "pos": "שוער",
+        "rounds": 1,
+        "stamina": null
+      }
+    },
+    "7ztgzlhumty": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 82,
+          "dribbling": 93,
+          "mental": 83,
+          "pace": 85,
+          "passing": 83,
+          "physical": 74,
+          "shooting": 85
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 92,
+        "pos": "שחקן שלם",
+        "rounds": 1,
+        "stamina": 83
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 89,
+          "gkFeet": 87,
+          "mental": 91,
+          "physical": 87,
+          "reflexes": 85
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 92,
+        "pos": "שוער",
+        "rounds": 1,
+        "stamina": 94
+      }
+    },
+    "8ppg4b0h59r": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 84,
+          "dribbling": 92,
+          "mental": 85,
+          "pace": 89,
+          "passing": 82,
+          "physical": 75,
+          "shooting": 88
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "התקפי",
+        "rounds": 0,
+        "stamina": 89
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 91
+      }
+    },
+    "9vmkqfxwfg6": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 75,
+          "dribbling": 88,
+          "mental": 78,
+          "pace": 78,
+          "passing": 78,
+          "physical": 78,
+          "shooting": 79
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "התקפי",
+        "rounds": 1,
+        "stamina": 73
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 82,
+          "gkFeet": 82,
+          "mental": 82,
+          "physical": 82,
+          "reflexes": 82
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "acyd628za4z": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 82,
+          "dribbling": 89,
+          "mental": 79,
+          "pace": 82,
+          "passing": 82,
+          "physical": 88,
+          "shooting": 85
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "התקפי",
+        "rounds": 1,
+        "stamina": 82
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 86,
+          "gkFeet": 84,
+          "mental": 82,
+          "physical": 84,
+          "reflexes": 82
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 1,
+        "stamina": null
+      }
+    },
+    "bo8ffiqzlny": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 74,
+          "dribbling": 86,
+          "mental": 76,
+          "pace": 86,
+          "passing": 83,
+          "physical": 78,
+          "shooting": 78
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "התקפי",
+        "rounds": 0,
+        "stamina": 81
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 82,
+          "gkFeet": 82,
+          "mental": 82,
+          "physical": 82,
+          "reflexes": 82
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "c2fzla4h59r": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 94,
+          "dribbling": 94,
+          "mental": 79,
+          "pace": 96,
+          "passing": 86,
+          "physical": 95,
+          "shooting": 92
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 96,
+        "pos": "שחקן שלם",
+        "rounds": 0,
+        "stamina": 92
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 91,
+          "gkFeet": 91,
+          "mental": 91,
+          "physical": 91,
+          "reflexes": 91
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 96,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 98
+      }
+    },
+    "c2u2g0el8s7": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 94,
+          "dribbling": 94,
+          "mental": 98,
+          "pace": 91,
+          "passing": 93,
+          "physical": 95,
+          "shooting": 93
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 96,
+        "pos": "שחקן שלם",
+        "rounds": 0,
+        "stamina": 96
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 91,
+          "gkFeet": 91,
+          "mental": 91,
+          "physical": 91,
+          "reflexes": 91
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 96,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 98
+      }
+    },
+    "c3unvq2twnh": {
+      "f": {
+        "at": 1792156534274,
+        "att": {
+          "defending": 67,
+          "dribbling": 77,
+          "mental": 89,
+          "pace": 70,
+          "passing": 76,
+          "physical": 88,
+          "shooting": 92
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 86,
+        "pos": "התקפי",
+        "rounds": 1,
+        "stamina": 66
+      },
+      "g": {
+        "at": 1792156534274,
+        "att": {
+          "gkConc": 78,
+          "gkFeet": 80,
+          "mental": 76,
+          "physical": 80,
+          "reflexes": 78
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 85,
+        "pos": "שוער",
+        "rounds": 1,
+        "stamina": null
+      }
+    },
+    "cd0aqiuw0tj": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 77,
+          "dribbling": 87,
+          "mental": 86,
+          "pace": 82,
+          "passing": 85,
+          "physical": 77,
+          "shooting": 79
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "התקפי",
+        "rounds": 1,
+        "stamina": 85
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 77,
+          "gkFeet": 82,
+          "mental": 78,
+          "physical": 82,
+          "reflexes": 80
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "שוער",
+        "rounds": 1,
+        "stamina": 89
+      }
+    },
+    "eu68xcpvg1w": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 70,
+          "dribbling": 73,
+          "mental": 85,
+          "pace": 68,
+          "passing": 83,
+          "physical": 85,
+          "shooting": 95
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "התקפי",
+        "rounds": 1,
+        "stamina": 70
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 85,
+          "gkFeet": 82,
+          "mental": 85,
+          "physical": 82,
+          "reflexes": 80
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "שוער",
+        "rounds": 1,
+        "stamina": null
+      }
+    },
+    "hq3qc9tzr2p": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 95,
+          "dribbling": 77,
+          "mental": 90,
+          "pace": 84,
+          "passing": 85,
+          "physical": 90,
+          "shooting": 77
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "הגנתי",
+        "rounds": 0,
+        "stamina": 86
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 91
+      }
+    },
+    "if1m0z6u98w": {
+      "f": {
+        "at": 1792156534274,
+        "att": {
+          "defending": 78,
+          "dribbling": 83,
+          "mental": 97,
+          "pace": 75,
+          "passing": 98,
+          "physical": 74,
+          "shooting": 85
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 88,
+        "pos": "שחקן שלם",
+        "rounds": 0,
+        "stamina": null
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 83,
+          "gkFeet": 83,
+          "mental": 83,
+          "physical": 83,
+          "reflexes": 83
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 88,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "j1oa5xgh59r": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 94,
+          "dribbling": 88,
+          "mental": 88,
+          "pace": 92,
+          "passing": 86,
+          "physical": 93,
+          "shooting": 80
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 90,
+        "pos": "הגנתי",
+        "rounds": 0,
+        "stamina": 86
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 85,
+          "gkFeet": 85,
+          "mental": 85,
+          "physical": 85,
+          "reflexes": 85
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 90,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 92
+      }
+    },
+    "jixjjwvvjxb": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 97,
+          "dribbling": 79,
+          "mental": 87,
+          "pace": 85,
+          "passing": 84,
+          "physical": 92,
+          "shooting": 82
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 90,
+        "pos": "הגנתי",
+        "rounds": 0,
+        "stamina": 86
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 85,
+          "gkFeet": 85,
+          "mental": 85,
+          "physical": 85,
+          "reflexes": 85
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 90,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 92
+      }
+    },
+    "kx3tc10vmnl": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 88,
+          "dribbling": 90,
+          "mental": 87,
+          "pace": 89,
+          "passing": 89,
+          "physical": 95,
+          "shooting": 92
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 96,
+        "pos": "שחקן שלם",
+        "rounds": 1,
+        "stamina": 92
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 90,
+          "gkFeet": 91,
+          "mental": 88,
+          "physical": 91,
+          "reflexes": 94
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 96,
+        "pos": "שוער",
+        "rounds": 1,
+        "stamina": 98
+      }
+    },
+    "lskqb1qh59r": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 80,
+          "dribbling": 90,
+          "mental": 83,
+          "pace": 83,
+          "passing": 81,
+          "physical": 83,
+          "shooting": 88
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שחקן שלם",
+        "rounds": 0,
+        "stamina": 75
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 91
+      }
+    },
+    "lunzvcjz6rw": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 75,
+          "dribbling": 89,
+          "mental": 75,
+          "pace": 89,
+          "passing": 78,
+          "physical": 70,
+          "shooting": 87
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שחקן שלם",
+        "rounds": 1,
+        "stamina": 82
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 89,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 82
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 91
+      }
+    },
+    "nrwl330h59r": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 81,
+          "dribbling": 87,
+          "mental": 70,
+          "pace": 69,
+          "passing": 70,
+          "physical": 85,
+          "shooting": 83
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 85,
+        "pos": "מאוזן",
+        "rounds": 0,
+        "stamina": 75
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 80,
+          "gkFeet": 80,
+          "mental": 80,
+          "physical": 80,
+          "reflexes": 80
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 85,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "od6r0b9xqkg": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 94,
+          "dribbling": 73,
+          "mental": 92,
+          "pace": 85,
+          "passing": 81,
+          "physical": 85,
+          "shooting": 85
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "הגנתי",
+        "rounds": 1,
+        "stamina": 92
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 91
+      }
+    },
+    "s19yt5ih59r": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 82,
+          "dribbling": 84,
+          "mental": 75,
+          "pace": 82,
+          "passing": 82,
+          "physical": 91,
+          "shooting": 91
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "מאוזן",
+        "rounds": 0,
+        "stamina": 81
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "sw12v72zxeb": {
+      "f": {
+        "at": 1792156595776,
+        "att": {
+          "defending": 79,
+          "dribbling": 73,
+          "mental": 78,
+          "pace": 86,
+          "passing": 74,
+          "physical": 78,
+          "shooting": 74
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 86,
+        "pos": "מאוזן",
+        "rounds": 1,
+        "stamina": 76
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 80,
+          "gkFeet": 80,
+          "mental": 80,
+          "physical": 80,
+          "reflexes": 80
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 85,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "uy0fw20p5zb": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 82,
+          "dribbling": 77,
+          "mental": 78,
+          "pace": 85,
+          "passing": 79,
+          "physical": 78,
+          "shooting": 77
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 85,
+        "pos": "מאוזן",
+        "rounds": 0,
+        "stamina": 79
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 80,
+          "gkFeet": 80,
+          "mental": 80,
+          "physical": 80,
+          "reflexes": 80
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 85,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "y5wyg7wp5zb": {
+      "f": {
+        "at": 1792156534276,
+        "att": {
+          "defending": 81,
+          "dribbling": 88,
+          "mental": 80,
+          "pace": 83,
+          "passing": 80,
+          "physical": 77,
+          "shooting": 81
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "מאוזן",
+        "rounds": 0,
+        "stamina": 85
+      },
+      "g": {
+        "at": 1792156534276,
+        "att": {
+          "gkConc": 82,
+          "gkFeet": 82,
+          "mental": 82,
+          "physical": 82,
+          "reflexes": 82
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 87,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "yrw1x5nwyvu": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 88,
+          "dribbling": 90,
+          "mental": 88,
+          "pace": 76,
+          "passing": 77,
+          "physical": 82,
+          "shooting": 87
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שחקן שלם",
+        "rounds": 0,
+        "stamina": 69
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": null
+      }
+    },
+    "yvzxz01va8o": {
+      "f": {
+        "at": 1792156534275,
+        "att": {
+          "defending": 84,
+          "dribbling": 86,
+          "mental": 82,
+          "pace": 87,
+          "passing": 82,
+          "physical": 75,
+          "shooting": 81
+        },
+        "keys": [
+          "pace",
+          "shooting",
+          "passing",
+          "dribbling",
+          "defending",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "מנוע",
+        "rounds": 0,
+        "stamina": 93
+      },
+      "g": {
+        "at": 1792156534275,
+        "att": {
+          "gkConc": 84,
+          "gkFeet": 84,
+          "mental": 84,
+          "physical": 84,
+          "reflexes": 84
+        },
+        "keys": [
+          "gkConc",
+          "reflexes",
+          "gkFeet",
+          "physical",
+          "mental"
+        ],
+        "ovr": 89,
+        "pos": "שוער",
+        "rounds": 0,
+        "stamina": 91
+      }
+    }
+  },
+  "players": [
+    {
+      "cards": [
+        "att",
+        "def",
+        "fit"
+      ],
+      "core": true,
+      "id": "2i29lvdtl7t",
+      "name": "ישראל לוי"
+    },
+    {
+      "cards": [
+        "def",
+        "fit",
+        "att"
+      ],
+      "core": true,
+      "id": "1pcc3xntq7u",
+      "name": "איציק וידל"
+    },
+    {
+      "cards": [
+        "att"
+      ],
+      "id": "c3unvq2twnh",
+      "name": "אלמוג שריקי"
+    },
+    {
+      "cards": [
+        "att",
+        "def"
+      ],
+      "core": true,
+      "freeze": {
+        "reason": "פציעה",
+        "since": 1792258438046
+      },
+      "id": "if1m0z6u98w",
+      "name": "ליאור בן תורה"
+    },
+    {
+      "cards": [
+        "att",
+        "def",
+        "fit"
+      ],
+      "id": "7ztgzlhumty",
+      "name": "עדיאל חבז"
+    },
+    {
+      "id": "17ug7dgurfn",
+      "name": "אליהו נישלי"
+    },
+    {
+      "cards": [
+        "def"
+      ],
+      "core": true,
+      "id": "6kfvvyvuyl1",
+      "name": "עמוס מסיקה"
+    },
+    {
+      "cards": [
+        "fit"
+      ],
+      "freeze": {
+        "reason": "לימודים",
+        "since": 1792258410666
+      },
+      "id": "yvzxz01va8o",
+      "name": "דוד פרץ"
+    },
+    {
+      "cards": [
+        "att"
+      ],
+      "core": true,
+      "id": "eu68xcpvg1w",
+      "name": "ג'רמי זוארי"
+    },
+    {
+      "cards": [
+        "def",
+        "fit"
+      ],
+      "id": "jixjjwvvjxb",
+      "name": "נועם אטויל"
+    },
+    {
+      "cards": [
+        "fit",
+        "def",
+        "att"
+      ],
+      "id": "kx3tc10vmnl",
+      "name": "טל אולבסקו"
+    },
+    {
+      "cards": [
+        "att",
+        "fit"
+      ],
+      "id": "cd0aqiuw0tj",
+      "name": "משה אלקובי"
+    },
+    {
+      "cards": [
+        "att"
+      ],
+      "id": "9vmkqfxwfg6",
+      "name": "אביתר"
+    },
+    {
+      "cards": [
+        "att",
+        "def"
+      ],
+      "core": true,
+      "freeze": {
+        "reason": "עבודה",
+        "since": 1792157041698
+      },
+      "id": "yrw1x5nwyvu",
+      "name": "אליהו חיון"
+    },
+    {
+      "cards": [
+        "def",
+        "fit"
+      ],
+      "id": "3b15k7kxd41",
+      "name": "אושרי בכר"
+    },
+    {
+      "cards": [
+        "fit",
+        "def",
+        "att"
+      ],
+      "core": true,
+      "id": "414xzk0xnha",
+      "name": "בניה אביבי"
+    },
+    {
+      "cards": [
+        "def",
+        "fit"
+      ],
+      "id": "od6r0b9xqkg",
+      "name": "בניהו"
+    },
+    {
+      "cards": [
+        "att",
+        "fit"
+      ],
+      "id": "lunzvcjz6rw",
+      "name": "נחמן סלוקי"
+    },
+    {
+      "cards": [
+        "att"
+      ],
+      "id": "acyd628za4z",
+      "name": "אוריה"
+    },
+    {
+      "cards": [
+        "att"
+      ],
+      "id": "bo8ffiqzlny",
+      "name": "אור"
+    },
+    {
+      "cards": [
+        "att"
+      ],
+      "id": "34ds6z8zoc1",
+      "name": "דניאל דסה"
+    },
+    {
+      "cards": [
+        "def",
+        "fit"
+      ],
+      "id": "hq3qc9tzr2p",
+      "name": "יעקב ביאדגלין"
+    },
+    {
+      "id": "sw12v72zxeb",
+      "name": "אלי נעים"
+    },
+    {
+      "cards": [
+        "att",
+        "fit"
+      ],
+      "freeze": {
+        "reason": "צבא",
+        "since": 1792258467137
+      },
+      "id": "8ppg4b0h59r",
+      "name": "ג'ובאני"
+    },
+    {
+      "cards": [
+        "fit",
+        "def",
+        "att"
+      ],
+      "core": true,
+      "freeze": {
+        "reason": "מילואים",
+        "since": 1792157019898
+      },
+      "id": "c2fzla4h59r",
+      "name": "שלומי"
+    },
+    {
+      "cards": [
+        "def",
+        "fit"
+      ],
+      "id": "54jloiph59r",
+      "name": "נחמן"
+    },
+    {
+      "id": "1ujsmcph59r",
+      "name": "אורן בראל"
+    },
+    {
+      "cards": [
+        "def",
+        "fit"
+      ],
+      "id": "j1oa5xgh59r",
+      "name": "אוראל סמנדיויב"
+    },
+    {
+      "id": "nrwl330h59r",
+      "name": "דניאל פורמוזה"
+    },
+    {
+      "cards": [
+        "att",
+        "fit",
+        "def"
+      ],
+      "id": "lskqb1qh59r",
+      "name": "מרדכי"
+    },
+    {
+      "id": "s19yt5ih59r",
+      "name": "גיא אשכנזי"
+    },
+    {
+      "cards": [
+        "fit",
+        "def",
+        "att"
+      ],
+      "id": "c2u2g0el8s7",
+      "name": "ברק צנגאוקר"
+    },
+    {
+      "cards": [
+        "att"
+      ],
+      "freeze": {
+        "reason": "מילואים",
+        "since": 1792257878805
+      },
+      "id": "3vqbnihm0wf",
+      "name": "עידן יוסף"
+    },
+    {
+      "id": "y5wyg7wp5zb",
+      "name": "יינון"
+    },
+    {
+      "id": "uy0fw20p5zb",
+      "name": "סמהאון"
+    },
+    {
+      "cards": [
+        "att"
+      ],
+      "id": "501z1iqp5zb",
+      "name": "יוהנס"
+    },
+    {
+      "id": "02v1odnqz6f",
+      "name": "גנטו"
+    },
+    {
+      "cards": [
+        "att",
+        "def",
+        "fit"
+      ],
+      "core": true,
+      "id": "1f48c8f1arv",
+      "name": "אורון ברדה"
+    }
+  ],
+  "roundOffset": {
+    "עונה 26/27": 5
+  },
+  "season": "עונה 26/27",
+  "settings": {
+    "fee": 20,
+    "goalLimit": 2,
+    "lead": 10,
+    "minHours": 2,
+    "minMatches": 10,
+    "minutes": 7,
+    "payLink": "https://links.payboxapp.com/PnrYORENJUb",
+    "perTeam": 5,
+    "pts1": 3,
+    "pts2": 1,
+    "seasonRounds": 25,
+    "skin": "night",
+    "teams": 3,
+    "tieRule": "fewer"
+  }
+}

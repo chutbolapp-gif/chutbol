@@ -1,0 +1,34 @@
+{
+ "gkOrder": null,
+ "leagueId": "v2qbymr09us",
+ "nextGk": {},
+ "nextPair": [
+  "1yu28cn1zbl",
+  "b2alnp03r12"
+ ],
+ "roundId": "d7o74sa1zbk",
+ "status": "done",
+ "teams": {
+  "0ohlrx71zbl": {
+   "auto": null,
+   "counts": {
+    "dv45mie1ck5": 1
+   }
+  },
+  "1yu28cn1zbl": {
+   "auto": null,
+   "counts": {
+    "4jerivf0w49": 1
+   }
+  },
+  "81aj0jn1zbl": {
+   "auto": null,
+   "counts": {}
+  },
+  "b2alnp03r12": {
+   "auto": null,
+   "counts": {}
+  }
+ },
+ "voided": true
+}

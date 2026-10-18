@@ -1,0 +1,118 @@
+{
+  "attendees": [
+    "eu68xcpvg1w",
+    "2i29lvdtl7t",
+    "6kfvvyvuyl1",
+    "c3unvq2twnh",
+    "1f48c8f1arv",
+    "lunzvcjz6rw",
+    "7ztgzlhumty",
+    "34ds6z8zoc1",
+    "1pcc3xntq7u",
+    "3b15k7kxd41",
+    "jixjjwvvjxb",
+    "od6r0b9xqkg",
+    "kx3tc10vmnl",
+    "hq3qc9tzr2p",
+    "9vmkqfxwfg6"
+  ],
+  "created": 1792255341190,
+  "declined": [
+    "if1m0z6u98w",
+    "414xzk0xnha",
+    "yvzxz01va8o",
+    "17ug7dgurfn",
+    "cd0aqiuw0tj"
+  ],
+  "duties": {
+    "ball": [
+      "2i29lvdtl7t"
+    ],
+    "camera": [
+      "2i29lvdtl7t"
+    ],
+    "shirts": [
+      "2i29lvdtl7t"
+    ]
+  },
+  "fee": 20,
+  "gameDay": "2026-10-21",
+  "id": "heu5vz8jzwm",
+  "invited": {
+    "17ug7dgurfn": 1792255653806,
+    "1f48c8f1arv": 1792255471133,
+    "1pcc3xntq7u": 1792255452643,
+    "3b15k7kxd41": 1792255519882,
+    "3vqbnihm0wf": 1792257780246,
+    "414xzk0xnha": 1792255490431,
+    "54jloiph59r": 1792259268800,
+    "6kfvvyvuyl1": 1792255477910,
+    "7ztgzlhumty": 1792255507642,
+    "c3unvq2twnh": 1792255556452,
+    "cd0aqiuw0tj": 1792256724851,
+    "eu68xcpvg1w": 1792255464581,
+    "hq3qc9tzr2p": 1792257237909,
+    "if1m0z6u98w": 1792255500795,
+    "jixjjwvvjxb": 1792257017685,
+    "kx3tc10vmnl": 1792258272244,
+    "lskqb1qh59r": 1792257111680,
+    "lunzvcjz6rw": 1792255540528,
+    "od6r0b9xqkg": 1792257032019,
+    "yvzxz01va8o": 1792255549139
+  },
+  "leagueId": "27yhw7ktexr",
+  "liveId": null,
+  "manualOrder": [],
+  "matches": [],
+  "nextPair": [],
+  "number": 7,
+  "paid": {
+    "1f48c8f1arv": 1792321560746,
+    "1pcc3xntq7u": 1792319935263,
+    "2i29lvdtl7t": 1792319970280,
+    "34ds6z8zoc1": 1792303233046,
+    "6kfvvyvuyl1": 1792315928974,
+    "9vmkqfxwfg6": 1792315926951,
+    "c3unvq2twnh": 1792303227140,
+    "hq3qc9tzr2p": 1792303238847,
+    "kx3tc10vmnl": 1792314813442,
+    "lunzvcjz6rw": 1792303194261,
+    "od6r0b9xqkg": 1792303234412
+  },
+  "paidAmt": {
+    "1pcc3xntq7u": 20,
+    "2i29lvdtl7t": 40
+  },
+  "queue": [],
+  "season": "עונה 26/27",
+  "status": "setup",
+  "streak": {},
+  "teams": [
+    {
+      "color": "#3BA7F5",
+      "gk": null,
+      "id": "d8a57sijzwm",
+      "name": "כחולים",
+      "players": []
+    },
+    {
+      "color": "#EF4B4B",
+      "gk": null,
+      "id": "zu95j9ejzwm",
+      "name": "אדומים",
+      "players": []
+    },
+    {
+      "color": "#F7D23E",
+      "gk": null,
+      "id": "qivs3ysjzwm",
+      "name": "צהובים",
+      "players": []
+    }
+  ],
+  "waitlist": [
+    "acyd628za4z",
+    "1ujsmcph59r",
+    "8ppg4b0h59r"
+  ]
+}

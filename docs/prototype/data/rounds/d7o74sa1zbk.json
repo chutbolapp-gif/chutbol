@@ -1,0 +1,189 @@
+{
+  "attendees": [
+    "cbqqz6d0kb7",
+    "w0k8zrh0och",
+    "kempvz40qu0",
+    "x9b39ir0tn7",
+    "4jerivf0w49",
+    "bnk4jmk0zaf",
+    "rjuvxyf12lw",
+    "4eo7c9e158z",
+    "j4gjjbo19sg",
+    "dv45mie1ck5",
+    "tbm4rnf1fcl",
+    "tmbr9ar1hza",
+    "8kir9it1krl",
+    "zp95osq1ngt",
+    "bfe8fkc1rww",
+    "htbsh0c37rw",
+    "x3pbgt83c03",
+    "ax4iy7s3fpi",
+    "wo0v5l13kbq",
+    "4syq3s63olp"
+  ],
+  "created": 1792259539472,
+  "endTime": "22:00",
+  "gameTime": "20:00",
+  "id": "d7o74sa1zbk",
+  "lastGk": {
+    "0ohlrx71zbl": "dv45mie1ck5",
+    "1yu28cn1zbl": "4jerivf0w49"
+  },
+  "leagueId": "v2qbymr09us",
+  "liveId": null,
+  "manualOrder": [],
+  "matches": [
+    {
+      "away": "1yu28cn1zbl",
+      "dur": 7,
+      "endedAt": 1792259722737,
+      "events": [
+        {
+          "a": "ax4iy7s3fpi",
+          "at": 1792259673046,
+          "gka": "4jerivf0w49",
+          "id": "x1of86751ka",
+          "min": 1,
+          "p": "cbqqz6d0kb7",
+          "pen": false,
+          "team": "0ohlrx71zbl",
+          "type": "goal"
+        },
+        {
+          "a": "4jerivf0w49",
+          "at": 1792259683096,
+          "gka": "dv45mie1ck5",
+          "id": "cm4bkif56mz",
+          "min": 1,
+          "p": "4syq3s63olp",
+          "pen": false,
+          "team": "1yu28cn1zbl",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "0ohlrx71zbl": "dv45mie1ck5",
+        "1yu28cn1zbl": "4jerivf0w49"
+      },
+      "home": "0ohlrx71zbl",
+      "id": "8fmo1xb45yb",
+      "lu": {
+        "0ohlrx71zbl": {
+          "gk": "dv45mie1ck5",
+          "on": [
+            "dv45mie1ck5",
+            "cbqqz6d0kb7",
+            "kempvz40qu0",
+            "ax4iy7s3fpi",
+            "tbm4rnf1fcl"
+          ]
+        },
+        "1yu28cn1zbl": {
+          "gk": "4jerivf0w49",
+          "on": [
+            "zp95osq1ngt",
+            "4jerivf0w49",
+            "x3pbgt83c03",
+            "wo0v5l13kbq",
+            "4syq3s63olp"
+          ]
+        }
+      },
+      "n": 1,
+      "ratings": {
+        "4jerivf0w49": 6,
+        "4syq3s63olp": 6,
+        "ax4iy7s3fpi": 5.5,
+        "cbqqz6d0kb7": 6,
+        "dv45mie1ck5": 5.5,
+        "kempvz40qu0": 5,
+        "tbm4rnf1fcl": 5,
+        "wo0v5l13kbq": 5,
+        "x3pbgt83c03": 5,
+        "zp95osq1ngt": 5
+      },
+      "startedAt": 1792259641380,
+      "status": "done",
+      "str": {
+        "0ohlrx71zbl": 300,
+        "1yu28cn1zbl": 300
+      },
+      "timer": {
+        "acc": 70229,
+        "run": false
+      }
+    }
+  ],
+  "nextGk": {},
+  "nextOut": {},
+  "nextPair": [
+    "1yu28cn1zbl",
+    "b2alnp03r12"
+  ],
+  "number": 1,
+  "queue": [
+    "81aj0jn1zbl",
+    "0ohlrx71zbl"
+  ],
+  "season": "עונה 26/27",
+  "status": "done",
+  "streak": {
+    "0ohlrx71zbl": 0,
+    "1yu28cn1zbl": 1
+  },
+  "teams": [
+    {
+      "color": "#3BA7F5",
+      "gk": null,
+      "id": "81aj0jn1zbl",
+      "name": "כחולים",
+      "players": [
+        "tmbr9ar1hza",
+        "w0k8zrh0och",
+        "8kir9it1krl",
+        "rjuvxyf12lw",
+        "bnk4jmk0zaf"
+      ]
+    },
+    {
+      "color": "#EF4B4B",
+      "gk": null,
+      "id": "0ohlrx71zbl",
+      "name": "אדומים",
+      "players": [
+        "dv45mie1ck5",
+        "cbqqz6d0kb7",
+        "kempvz40qu0",
+        "ax4iy7s3fpi",
+        "tbm4rnf1fcl"
+      ]
+    },
+    {
+      "color": "#F7D23E",
+      "gk": null,
+      "id": "1yu28cn1zbl",
+      "name": "צהובים",
+      "players": [
+        "zp95osq1ngt",
+        "4jerivf0w49",
+        "x3pbgt83c03",
+        "wo0v5l13kbq",
+        "4syq3s63olp"
+      ]
+    },
+    {
+      "color": "#41C46B",
+      "gk": null,
+      "id": "b2alnp03r12",
+      "name": "ירוקים",
+      "players": [
+        "4eo7c9e158z",
+        "x9b39ir0tn7",
+        "j4gjjbo19sg",
+        "bfe8fkc1rww",
+        "htbsh0c37rw"
+      ]
+    }
+  ],
+  "voided": true
+}

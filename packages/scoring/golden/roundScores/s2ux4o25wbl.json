@@ -1,0 +1,375 @@
+{
+ "all": {
+  "4eo7c9e158z": {
+   "avg": 6,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.15,
+   "sv": 0
+  },
+  "4jerivf0w49": {
+   "avg": 5.5,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 0.5,
+   "n": 1,
+   "score": 5.8,
+   "sv": 0
+  },
+  "4syq3s63olp": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "8kir9it1krl": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "ax4iy7s3fpi": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "bfe8fkc1rww": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "bnk4jmk0zaf": {
+   "avg": 7,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 2,
+   "n": 1,
+   "score": 7.3,
+   "sv": 0
+  },
+  "cbqqz6d0kb7": {
+   "avg": 6.5,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1.5,
+   "n": 1,
+   "score": 6.8,
+   "sv": 0
+  },
+  "dv45mie1ck5": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "htbsh0c37rw": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "j4gjjbo19sg": {
+   "avg": 7,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 2,
+   "n": 1,
+   "score": 7.3,
+   "sv": 0
+  },
+  "kempvz40qu0": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "rjuvxyf12lw": {
+   "avg": 6.5,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1.5,
+   "n": 1,
+   "score": 6.8,
+   "sv": 0
+  },
+  "tbm4rnf1fcl": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "tmbr9ar1hza": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "w0k8zrh0och": {
+   "avg": 5.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0.5,
+   "n": 1,
+   "score": 5.65,
+   "sv": 0
+  },
+  "wo0v5l13kbq": {
+   "avg": 5.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0.5,
+   "n": 1,
+   "score": 5.65,
+   "sv": 0
+  },
+  "x3pbgt83c03": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "x9b39ir0tn7": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "zp95osq1ngt": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  }
+ },
+ "field": {
+  "4syq3s63olp": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "8kir9it1krl": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "ax4iy7s3fpi": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "bfe8fkc1rww": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "bnk4jmk0zaf": {
+   "avg": 7,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 2,
+   "n": 1,
+   "score": 7.3,
+   "sv": 0
+  },
+  "cbqqz6d0kb7": {
+   "avg": 6.5,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1.5,
+   "n": 1,
+   "score": 6.8,
+   "sv": 0
+  },
+  "dv45mie1ck5": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "htbsh0c37rw": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "j4gjjbo19sg": {
+   "avg": 7,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 2,
+   "n": 1,
+   "score": 7.3,
+   "sv": 0
+  },
+  "kempvz40qu0": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "rjuvxyf12lw": {
+   "avg": 6.5,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1.5,
+   "n": 1,
+   "score": 6.8,
+   "sv": 0
+  },
+  "tbm4rnf1fcl": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "tmbr9ar1hza": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "w0k8zrh0och": {
+   "avg": 5.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0.5,
+   "n": 1,
+   "score": 5.65,
+   "sv": 0
+  },
+  "x3pbgt83c03": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 1,
+   "score": 6.3,
+   "sv": 0
+  },
+  "x9b39ir0tn7": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  },
+  "zp95osq1ngt": {
+   "avg": 4.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 1,
+   "score": 4.65,
+   "sv": 0
+  }
+ },
+ "gk": {
+  "4eo7c9e158z": {
+   "avg": 6,
+   "bonus": 0.15,
+   "conc": 1,
+   "contrib": 1,
+   "n": 1,
+   "q": true,
+   "score": 6.15,
+   "sv": 0
+  },
+  "4jerivf0w49": {
+   "avg": 5.5,
+   "bonus": 0.3,
+   "conc": 1,
+   "contrib": 0.5,
+   "n": 1,
+   "q": true,
+   "score": 5.8,
+   "sv": 0
+  },
+  "wo0v5l13kbq": {
+   "avg": 5.5,
+   "bonus": 0.15,
+   "conc": 1,
+   "contrib": 0.5,
+   "n": 1,
+   "q": true,
+   "score": 5.65,
+   "sv": 0
+  }
+ },
+ "leagueId": "v2qbymr09us",
+ "roundId": "s2ux4o25wbl",
+ "status": "done",
+ "voided": false
+}

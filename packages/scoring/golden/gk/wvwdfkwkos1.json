@@ -1,0 +1,40 @@
+{
+ "gkOrder": null,
+ "leagueId": "27yhw7ktexr",
+ "nextGk": {},
+ "nextPair": [
+  "eodwllgkos2",
+  "uafr8yekos2"
+ ],
+ "roundId": "wvwdfkwkos1",
+ "status": "done",
+ "teams": {
+  "eodwllgkos2": {
+   "auto": null,
+   "counts": {
+    "1pcc3xntq7u": 1,
+    "6kfvvyvuyl1": 3,
+    "7ztgzlhumty": 2,
+    "lunzvcjz6rw": 1
+   }
+  },
+  "ovscw0ekos2": {
+   "auto": null,
+   "counts": {
+    "3b15k7kxd41": 3,
+    "414xzk0xnha": 2,
+    "eu68xcpvg1w": 3
+   }
+  },
+  "uafr8yekos2": {
+   "auto": null,
+   "counts": {
+    "acyd628za4z": 2,
+    "c3unvq2twnh": 2,
+    "cd0aqiuw0tj": 2,
+    "kx3tc10vmnl": 2
+   }
+  }
+ },
+ "voided": false
+}

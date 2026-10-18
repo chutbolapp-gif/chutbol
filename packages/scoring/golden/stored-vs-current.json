@@ -1,0 +1,922 @@
+{
+ "policy": "current-formula",
+ "rounds": {
+  "d7o74sa1zbk": {
+   "mismatches": 0,
+   "rows": [],
+   "storedRatings": 10
+  },
+  "s2ux4o25wbl": {
+   "mismatches": 0,
+   "rows": [],
+   "storedRatings": 20
+  },
+  "wvwdfkwkos1": {
+   "mismatches": 53,
+   "rows": [
+    {
+     "current": 5.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "1pcc3xntq7u",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "3b15k7kxd41",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "414xzk0xnha",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "6kfvvyvuyl1",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "7ztgzlhumty",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "9vmkqfxwfg6",
+     "stored": 5
+    },
+    {
+     "current": 6.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 שער נקי, שוחקו 100% מהמשחק",
+       1.5
+      ]
+     ],
+     "player": "cd0aqiuw0tj",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "lunzvcjz6rw",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "od6r0b9xqkg",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "9ecxi9sysvm",
+     "n": 1,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "sw12v72zxeb",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "64pzjonfjss",
+     "n": 2,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "6kfvvyvuyl1",
+     "stored": 4
+    },
+    {
+     "current": 6.5,
+     "match": "64pzjonfjss",
+     "n": 2,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 שער נקי, שוחקו 100% מהמשחק",
+       1.5
+      ]
+     ],
+     "player": "acyd628za4z",
+     "stored": 7
+    },
+    {
+     "current": 6.5,
+     "match": "i899fvbuzrf",
+     "n": 3,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 שער נקי, שוחקו 100% מהמשחק",
+       1.5
+      ]
+     ],
+     "player": "7ztgzlhumty",
+     "stored": 7
+    },
+    {
+     "current": 5.5,
+     "match": "i899fvbuzrf",
+     "n": 3,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "c3unvq2twnh",
+     "stored": 4
+    },
+    {
+     "current": 5.5,
+     "match": "u0437ll92vc",
+     "n": 4,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "1pcc3xntq7u",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "u0437ll92vc",
+     "n": 4,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "414xzk0xnha",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "u0437ll92vc",
+     "n": 4,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "6kfvvyvuyl1",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "u0437ll92vc",
+     "n": 4,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "7ztgzlhumty",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "u0437ll92vc",
+     "n": 4,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "9vmkqfxwfg6",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "u0437ll92vc",
+     "n": 4,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "eu68xcpvg1w",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "u0437ll92vc",
+     "n": 4,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "od6r0b9xqkg",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "u0437ll92vc",
+     "n": 4,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "sw12v72zxeb",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "j89qjigky3u",
+     "n": 5,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "414xzk0xnha",
+     "stored": 5
+    },
+    {
+     "current": 5,
+     "match": "j89qjigky3u",
+     "n": 5,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ]
+     ],
+     "player": "cd0aqiuw0tj",
+     "stored": 4
+    },
+    {
+     "current": 5.5,
+     "match": "5c70ebuvs8h",
+     "n": 6,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "1pcc3xntq7u",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "5c70ebuvs8h",
+     "n": 6,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "3b15k7kxd41",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "5c70ebuvs8h",
+     "n": 6,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "414xzk0xnha",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "5c70ebuvs8h",
+     "n": 6,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "7ztgzlhumty",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "5c70ebuvs8h",
+     "n": 6,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "9vmkqfxwfg6",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "5c70ebuvs8h",
+     "n": 6,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "eu68xcpvg1w",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "5c70ebuvs8h",
+     "n": 6,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "lunzvcjz6rw",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "5c70ebuvs8h",
+     "n": 6,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "od6r0b9xqkg",
+     "stored": 5
+    },
+    {
+     "current": 5.5,
+     "match": "5c70ebuvs8h",
+     "n": 6,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "תיקו 0-0: בסיס 5.5",
+       0.5
+      ]
+     ],
+     "player": "sw12v72zxeb",
+     "stored": 5
+    },
+    {
+     "current": 5,
+     "match": "wchmiiv8g2p",
+     "n": 7,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ]
+     ],
+     "player": "414xzk0xnha",
+     "stored": 4
+    },
+    {
+     "current": 5.5,
+     "match": "wchmiiv8g2p",
+     "n": 7,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "kx3tc10vmnl",
+     "stored": 5
+    },
+    {
+     "current": 7,
+     "match": "3mvpp8kkaqn",
+     "n": 8,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ],
+      [
+       "🧤 3 הצלות",
+       1.5
+      ]
+     ],
+     "player": "6kfvvyvuyl1",
+     "stored": 6
+    },
+    {
+     "current": 6.5,
+     "match": "3mvpp8kkaqn",
+     "n": 8,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ],
+      [
+       "⚽ 1 גולים",
+       1
+      ]
+     ],
+     "player": "eu68xcpvg1w",
+     "stored": 5.5
+    },
+    {
+     "current": 5.5,
+     "match": "6tpyc7nzeh6",
+     "n": 9,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "414xzk0xnha",
+     "stored": 4.5
+    },
+    {
+     "current": 5.5,
+     "match": "6tpyc7nzeh6",
+     "n": 9,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "acyd628za4z",
+     "stored": 4.5
+    },
+    {
+     "current": 5,
+     "match": "w425xkgehyu",
+     "n": 10,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ]
+     ],
+     "player": "1pcc3xntq7u",
+     "stored": 5.5
+    },
+    {
+     "current": 5.5,
+     "match": "w425xkgehyu",
+     "n": 10,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "7ztgzlhumty",
+     "stored": 4.5
+    },
+    {
+     "current": 5.5,
+     "match": "w425xkgehyu",
+     "n": 10,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "kx3tc10vmnl",
+     "stored": 4.5
+    },
+    {
+     "current": 6.5,
+     "match": "5yxltacqust",
+     "n": 11,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ],
+      [
+       "🧤 2 הצלות",
+       1
+      ]
+     ],
+     "player": "3b15k7kxd41",
+     "stored": 5.5
+    },
+    {
+     "current": 5.5,
+     "match": "5yxltacqust",
+     "n": 11,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "c3unvq2twnh",
+     "stored": 4.5
+    },
+    {
+     "current": 5.5,
+     "match": "it3gjzw4vu6",
+     "n": 12,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "414xzk0xnha",
+     "stored": 4.5
+    },
+    {
+     "current": 5.5,
+     "match": "it3gjzw4vu6",
+     "n": 12,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "cd0aqiuw0tj",
+     "stored": 4.5
+    },
+    {
+     "current": 5.5,
+     "match": "zazdsdrk7z5",
+     "n": 13,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "414xzk0xnha",
+     "stored": 4.5
+    },
+    {
+     "current": 5.5,
+     "match": "zazdsdrk7z5",
+     "n": 13,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ]
+     ],
+     "player": "6kfvvyvuyl1",
+     "stored": 4.5
+    },
+    {
+     "current": 6,
+     "match": "n8davpe2089",
+     "n": 14,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 שער נקי, שוחקו 45% מהמשחק",
+       0.5
+      ],
+      [
+       "🧤 1 הצלות",
+       0.5
+      ]
+     ],
+     "player": "6kfvvyvuyl1",
+     "stored": 7.5
+    },
+    {
+     "current": 5,
+     "match": "n8davpe2089",
+     "n": 14,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ]
+     ],
+     "player": "kx3tc10vmnl",
+     "stored": 4
+    },
+    {
+     "current": 5.5,
+     "match": "bumacsoa3mz",
+     "n": 15,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "👟 1 בישולים",
+       0.5
+      ]
+     ],
+     "player": "3b15k7kxd41",
+     "stored": 4
+    },
+    {
+     "current": 6,
+     "match": "bumacsoa3mz",
+     "n": 15,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ],
+      [
+       "🧤 ספג 1 (שער אחד = 5.5, כל שער נוסף −0.5)",
+       0.5
+      ],
+      [
+       "🧤 1 הצלות",
+       0.5
+      ]
+     ],
+     "player": "6kfvvyvuyl1",
+     "stored": 5.5
+    },
+    {
+     "current": 5,
+     "match": "bumacsoa3mz",
+     "n": 15,
+     "parts": [
+      [
+       "בסיס",
+       5
+      ]
+     ],
+     "player": "eu68xcpvg1w",
+     "stored": 5.5
+    }
+   ],
+   "storedRatings": 160
+  }
+ }
+}

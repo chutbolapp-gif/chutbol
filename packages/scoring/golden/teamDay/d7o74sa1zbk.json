@@ -1,0 +1,16 @@
+{
+ "leagueId": "v2qbymr09us",
+ "roundId": "d7o74sa1zbk",
+ "status": "done",
+ "teamDay": {
+  "score": {
+   "0ohlrx71zbl": 1,
+   "1yu28cn1zbl": 0.8333333333333333,
+   "81aj0jn1zbl": 0.5833333333333334,
+   "b2alnp03r12": 0.4166666666666667
+  },
+  "spread": 0.3333333333333333,
+  "tight": false
+ },
+ "voided": true
+}

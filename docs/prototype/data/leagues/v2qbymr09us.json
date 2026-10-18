@@ -1,0 +1,134 @@
+{
+  "created": 1792259459812,
+  "crest": {
+    "preset": "crown"
+  },
+  "id": "v2qbymr09us",
+  "lastEnd": "22:00",
+  "lastTime": "20:00",
+  "name": "ליגה ניסיון",
+  "players": [
+    {
+      "id": "cbqqz6d0kb7",
+      "name": "ישראל"
+    },
+    {
+      "id": "w0k8zrh0och",
+      "name": "אבי"
+    },
+    {
+      "id": "kempvz40qu0",
+      "name": "דוד"
+    },
+    {
+      "id": "x9b39ir0tn7",
+      "name": "יוסי"
+    },
+    {
+      "id": "4jerivf0w49",
+      "name": "אורי"
+    },
+    {
+      "id": "bnk4jmk0zaf",
+      "name": "אוראל"
+    },
+    {
+      "id": "rjuvxyf12lw",
+      "name": "אורון"
+    },
+    {
+      "id": "4eo7c9e158z",
+      "name": "דורון"
+    },
+    {
+      "id": "j4gjjbo19sg",
+      "name": "שיר"
+    },
+    {
+      "id": "dv45mie1ck5",
+      "name": "אלמוג"
+    },
+    {
+      "id": "tbm4rnf1fcl",
+      "name": "אלי"
+    },
+    {
+      "id": "tmbr9ar1hza",
+      "name": "איציק"
+    },
+    {
+      "id": "8kir9it1krl",
+      "name": "יעקב"
+    },
+    {
+      "id": "zp95osq1ngt",
+      "name": "יצחק"
+    },
+    {
+      "id": "bfe8fkc1rww",
+      "name": "שמעון"
+    },
+    {
+      "id": "htbsh0c37rw",
+      "name": "דודי"
+    },
+    {
+      "id": "x3pbgt83c03",
+      "name": "קובי"
+    },
+    {
+      "id": "ax4iy7s3fpi",
+      "name": "אוהד"
+    },
+    {
+      "id": "wo0v5l13kbq",
+      "name": "אביתר"
+    },
+    {
+      "id": "4syq3s63olp",
+      "name": "עמוס"
+    }
+  ],
+  "season": "עונה 27/28",
+  "seasonsDone": {
+    "עונה 26/27": {
+      "assister": {
+        "p": "cbqqz6d0kb7",
+        "v": 1
+      },
+      "champion": {
+        "p": "cbqqz6d0kb7",
+        "v": 5
+      },
+      "endedAt": 1792262232537,
+      "gk": {
+        "p": "4jerivf0w49"
+      },
+      "mvp": {
+        "p": "cbqqz6d0kb7"
+      },
+      "rounds": 2,
+      "scorer": {
+        "p": "cbqqz6d0kb7",
+        "v": 1
+      },
+      "second": {
+        "p": "bnk4jmk0zaf",
+        "v": 4
+      },
+      "third": {
+        "p": "j4gjjbo19sg",
+        "v": 4
+      }
+    }
+  },
+  "settings": {
+    "goalLimit": 2,
+    "minutes": 7,
+    "perTeam": 10,
+    "pts1": 3,
+    "pts2": 1,
+    "teams": 2,
+    "tieRule": "fewer"
+  }
+}

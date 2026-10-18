@@ -1,0 +1,27 @@
+{
+ "gkOrder": null,
+ "leagueId": "v2qbymr09us",
+ "nextGk": {},
+ "nextPair": [
+  "3ycunyn5wbl",
+  "k5re88i5wbl"
+ ],
+ "roundId": "s2ux4o25wbl",
+ "status": "done",
+ "teams": {
+  "3ycunyn5wbl": {
+   "auto": null,
+   "counts": {
+    "4jerivf0w49": 1
+   }
+  },
+  "k5re88i5wbl": {
+   "auto": null,
+   "counts": {
+    "4eo7c9e158z": 1,
+    "wo0v5l13kbq": 1
+   }
+  }
+ },
+ "voided": false
+}

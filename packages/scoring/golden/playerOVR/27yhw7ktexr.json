@@ -1,0 +1,9329 @@
+{
+ "leagueId": "27yhw7ktexr",
+ "players": {
+  "02v1odnqz6f": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 80,
+      "dribbling": 79,
+      "mental": 80,
+      "pace": 78,
+      "passing": 79,
+      "physical": 79,
+      "shooting": 78,
+      "stamina": 77
+     },
+     "ovr": 85,
+     "pos": "מאוזן",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 77,
+     "stars": 1,
+     "stats": {
+      "defending": 80,
+      "dribbling": 79,
+      "mental": 80,
+      "pace": 78,
+      "passing": 79,
+      "physical": 79,
+      "shooting": 78
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "מאוזן",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "defending": 80,
+      "dribbling": 80,
+      "mental": 80,
+      "pace": 80,
+      "passing": 80,
+      "physical": 80,
+      "shooting": 80
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "שוער",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 80,
+      "gkFeet": 80,
+      "mental": 80,
+      "physical": 80,
+      "reflexes": 80
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "שוער",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 80,
+      "gkFeet": 80,
+      "mental": 80,
+      "physical": 80,
+      "reflexes": 80
+     },
+     "top": {}
+    }
+   }
+  },
+  "17ug7dgurfn": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 79,
+      "dribbling": 95,
+      "mental": 83,
+      "pace": 87,
+      "passing": 77,
+      "physical": 84,
+      "shooting": 88,
+      "stamina": 87
+     },
+     "ovr": 89,
+     "pos": "מאוזן",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 87,
+     "stars": 3,
+     "stats": {
+      "defending": 79,
+      "dribbling": 95,
+      "mental": 83,
+      "pace": 87,
+      "passing": 77,
+      "physical": 84,
+      "shooting": 88
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "מאוזן",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "defending": 84,
+      "dribbling": 84,
+      "mental": 84,
+      "pace": 84,
+      "passing": 84,
+      "physical": 84,
+      "shooting": 84
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "1f48c8f1arv": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 94,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 90,
+      "dribbling": 94,
+      "mental": 92,
+      "pace": 93,
+      "passing": 84,
+      "physical": 79,
+      "shooting": 88,
+      "stamina": 91
+     },
+     "ovr": 94,
+     "pos": "שחקן שלם",
+     "raw": 94,
+     "rounds": 0,
+     "scaled": 94,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 91,
+     "stars": 4.5,
+     "stats": {
+      "defending": 90,
+      "dribbling": 94,
+      "mental": 92,
+      "pace": 93,
+      "passing": 84,
+      "physical": 79,
+      "shooting": 88
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 94,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 94,
+     "pos": "שחקן שלם",
+     "raw": 94,
+     "rounds": 0,
+     "scaled": 94,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 96,
+     "stars": 4.5,
+     "stats": {
+      "defending": 97,
+      "dribbling": 95,
+      "mental": 87,
+      "pace": 96,
+      "passing": 87,
+      "physical": 98,
+      "shooting": 96
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 94,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 94,
+     "pos": "שוער",
+     "raw": 94,
+     "rounds": 0,
+     "scaled": 94,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 96,
+     "stars": 4.5,
+     "stats": {
+      "gkConc": 89,
+      "gkFeet": 89,
+      "mental": 89,
+      "physical": 89,
+      "reflexes": 89
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 94,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 94,
+     "pos": "שוער",
+     "raw": 94,
+     "rounds": 0,
+     "scaled": 94,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 96,
+     "stars": 4.5,
+     "stats": {
+      "gkConc": 89,
+      "gkFeet": 89,
+      "mental": 89,
+      "physical": 89,
+      "reflexes": 89
+     },
+     "top": {}
+    }
+   }
+  },
+  "1pcc3xntq7u": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 88,
+      "mental": 76,
+      "passing": 80,
+      "shooting": 82
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.719047619047619,
+       "d": 1,
+       "e": 0.3928571428571429,
+       "ovr": 87,
+       "personal": 0.7880952380952381,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 87,
+      "dribbling": 76,
+      "mental": 84,
+      "pace": 76,
+      "passing": 80,
+      "physical": 83,
+      "shooting": 84,
+      "stamina": 78
+     },
+     "ovr": 87,
+     "pos": "שחקן שלם",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 78,
+     "stars": 1.5,
+     "stats": {
+      "defending": 87,
+      "dribbling": 76,
+      "mental": 84,
+      "pace": 76,
+      "passing": 80,
+      "physical": 83,
+      "shooting": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 88,
+      "mental": 76,
+      "passing": 80,
+      "shooting": 82
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.719047619047619,
+       "d": 1,
+       "e": 0.3928571428571429,
+       "ovr": 87,
+       "personal": 0.7880952380952381,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "שחקן שלם",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": 89,
+     "stars": 1.5,
+     "stats": {
+      "defending": 93,
+      "dribbling": 88,
+      "mental": 81,
+      "pace": 89,
+      "passing": 82,
+      "physical": 91,
+      "shooting": 91
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 96,
+      "gkFeet": 67,
+      "mental": 67,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 88,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 86,
+      "gkFeet": 81,
+      "mental": 81,
+      "physical": 81,
+      "reflexes": 79
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 96,
+      "gkFeet": 67,
+      "mental": 67,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 88,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 86,
+      "gkFeet": 81,
+      "mental": 81,
+      "physical": 81,
+      "reflexes": 79
+     },
+     "top": {}
+    }
+   }
+  },
+  "1ujsmcph59r": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 83,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 89,
+      "dribbling": 67,
+      "mental": 79,
+      "pace": 80,
+      "passing": 75,
+      "physical": 80,
+      "shooting": 77,
+      "stamina": 80
+     },
+     "ovr": 83,
+     "pos": "מאוזן",
+     "raw": 83,
+     "rounds": 0,
+     "scaled": 83,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 80,
+     "stars": 0.5,
+     "stats": {
+      "defending": 89,
+      "dribbling": 67,
+      "mental": 79,
+      "pace": 80,
+      "passing": 75,
+      "physical": 80,
+      "shooting": 77
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 83,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 83,
+     "pos": "מאוזן",
+     "raw": 83,
+     "rounds": 0,
+     "scaled": 83,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 0.5,
+     "stats": {
+      "defending": 78,
+      "dribbling": 78,
+      "mental": 78,
+      "pace": 78,
+      "passing": 78,
+      "physical": 78,
+      "shooting": 78
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 83,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 83,
+     "pos": "שוער",
+     "raw": 83,
+     "rounds": 0,
+     "scaled": 83,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 0.5,
+     "stats": {
+      "gkConc": 78,
+      "gkFeet": 78,
+      "mental": 78,
+      "physical": 78,
+      "reflexes": 78
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 83,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 83,
+     "pos": "שוער",
+     "raw": 83,
+     "rounds": 0,
+     "scaled": 83,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 0.5,
+     "stats": {
+      "gkConc": 78,
+      "gkFeet": 78,
+      "mental": 78,
+      "physical": 78,
+      "reflexes": 78
+     },
+     "top": {}
+    }
+   }
+  },
+  "2i29lvdtl7t": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 48,
+      "mental": 48,
+      "passing": 63,
+      "shooting": 44
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.35000000000000003,
+       "d": 0,
+       "e": 0.3928571428571429,
+       "ovr": 86,
+       "personal": 0.31666666666666665,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "attack": 78,
+      "control": 60,
+      "defence": 73,
+      "defending": 83,
+      "dribbling": 82,
+      "level": 80,
+      "mental": 92,
+      "pace": 84,
+      "passing": 90,
+      "physical": 88,
+      "scoring": 79,
+      "shooting": 84,
+      "stamina": 84
+     },
+     "ovr": 86,
+     "pos": "שחקן שלם",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 84,
+     "stars": 1.5,
+     "stats": {
+      "defending": 83,
+      "dribbling": 82,
+      "mental": 92,
+      "pace": 84,
+      "passing": 90,
+      "physical": 88,
+      "shooting": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 48,
+      "mental": 48,
+      "passing": 63,
+      "shooting": 44
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.35000000000000003,
+       "d": 0,
+       "e": 0.3928571428571429,
+       "ovr": 86,
+       "personal": 0.31666666666666665,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שחקן שלם",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": 88,
+     "stars": 1.5,
+     "stats": {
+      "defending": 85,
+      "dribbling": 87,
+      "mental": 75,
+      "pace": 88,
+      "passing": 78,
+      "physical": 90,
+      "shooting": 84
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 88,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 81,
+      "gkFeet": 81,
+      "mental": 81,
+      "physical": 81,
+      "reflexes": 81
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 88,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 81,
+      "gkFeet": 81,
+      "mental": 81,
+      "physical": 81,
+      "reflexes": 81
+     },
+     "top": {}
+    }
+   }
+  },
+  "34ds6z8zoc1": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 80,
+      "dribbling": 87,
+      "mental": 80,
+      "pace": 91,
+      "passing": 85,
+      "physical": 79,
+      "shooting": 82,
+      "stamina": 75
+     },
+     "ovr": 86,
+     "pos": "התקפי",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 75,
+     "stars": 1.5,
+     "stats": {
+      "defending": 80,
+      "dribbling": 87,
+      "mental": 80,
+      "pace": 91,
+      "passing": 85,
+      "physical": 79,
+      "shooting": 82
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "התקפי",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 1.5,
+     "stats": {
+      "defending": 79,
+      "dribbling": 87,
+      "mental": 79,
+      "pace": 79,
+      "passing": 79,
+      "physical": 79,
+      "shooting": 88
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 81,
+      "gkFeet": 81,
+      "mental": 81,
+      "physical": 81,
+      "reflexes": 81
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 81,
+      "gkFeet": 81,
+      "mental": 81,
+      "physical": 81,
+      "reflexes": 81
+     },
+     "top": {}
+    }
+   }
+  },
+  "3b15k7kxd41": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 97,
+      "mental": 97,
+      "passing": 70,
+      "shooting": 63
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.6464285714285714,
+       "d": 0,
+       "e": 0.6285714285714286,
+       "ovr": 89,
+       "personal": 0.8261904761904761,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 88,
+      "dribbling": 85,
+      "mental": 79,
+      "pace": 87,
+      "passing": 80,
+      "physical": 80,
+      "shooting": 81,
+      "stamina": 90
+     },
+     "ovr": 89,
+     "pos": "הגנתי",
+     "raw": 89,
+     "rounds": 1,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 90,
+     "stars": 3,
+     "stats": {
+      "defending": 88,
+      "dribbling": 85,
+      "mental": 79,
+      "pace": 87,
+      "passing": 80,
+      "physical": 80,
+      "shooting": 81
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 97,
+      "mental": 97,
+      "passing": 70,
+      "shooting": 63
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.6464285714285714,
+       "d": 0,
+       "e": 0.6285714285714286,
+       "ovr": 89,
+       "personal": 0.8261904761904761,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "הגנתי",
+     "raw": 89,
+     "rounds": 1,
+     "scaled": 89,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "defending": 97,
+      "dribbling": 82,
+      "mental": 87,
+      "pace": 91,
+      "passing": 82,
+      "physical": 93,
+      "shooting": 81
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 52,
+      "gkFeet": 99,
+      "mental": 84,
+      "reflexes": 99
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.6533333333333333,
+       "d": 0,
+       "e": 0.5900000000000001,
+       "ovr": 89,
+       "personal": 0.84,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 1,
+     "scaled": 89,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 81,
+      "gkFeet": 89,
+      "mental": 87,
+      "physical": 84,
+      "reflexes": 89
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 52,
+      "gkFeet": 99,
+      "mental": 84,
+      "reflexes": 99
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.6533333333333333,
+       "d": 0,
+       "e": 0.5900000000000001,
+       "ovr": 89,
+       "personal": 0.84,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 1,
+     "scaled": 89,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 81,
+      "gkFeet": 89,
+      "mental": 87,
+      "physical": 84,
+      "reflexes": 89
+     },
+     "top": {}
+    }
+   }
+  },
+  "3vqbnihm0wf": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 84,
+      "dribbling": 88,
+      "mental": 85,
+      "pace": 85,
+      "passing": 82,
+      "physical": 83,
+      "shooting": 89,
+      "stamina": 82
+     },
+     "ovr": 89,
+     "pos": "התקפי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 82,
+     "stars": 3,
+     "stats": {
+      "defending": 84,
+      "dribbling": 88,
+      "mental": 85,
+      "pace": 85,
+      "passing": 82,
+      "physical": 83,
+      "shooting": 89
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "התקפי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "defending": 82,
+      "dribbling": 90,
+      "mental": 82,
+      "pace": 82,
+      "passing": 82,
+      "physical": 82,
+      "shooting": 91
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "414xzk0xnha": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 88,
+      "mental": 82,
+      "passing": 80,
+      "shooting": 93
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 90,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.6607142857142858,
+       "d": 0,
+       "e": 0.7142857142857142,
+       "ovr": 90,
+       "personal": 0.8547619047619048,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 91,
+      "dribbling": 80,
+      "mental": 80,
+      "pace": 88,
+      "passing": 86,
+      "physical": 82,
+      "shooting": 89,
+      "stamina": 89
+     },
+     "ovr": 90,
+     "pos": "שחקן שלם",
+     "raw": 90,
+     "rounds": 1,
+     "scaled": 90,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 89,
+     "stars": 3.5,
+     "stats": {
+      "defending": 91,
+      "dribbling": 80,
+      "mental": 80,
+      "pace": 88,
+      "passing": 86,
+      "physical": 82,
+      "shooting": 89
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 88,
+      "mental": 82,
+      "passing": 80,
+      "shooting": 93
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 90,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.6607142857142858,
+       "d": 0,
+       "e": 0.7142857142857142,
+       "ovr": 90,
+       "personal": 0.8547619047619048,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 90,
+     "pos": "שחקן שלם",
+     "raw": 90,
+     "rounds": 1,
+     "scaled": 90,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": 92,
+     "stars": 3.5,
+     "stats": {
+      "defending": 96,
+      "dribbling": 91,
+      "mental": 85,
+      "pace": 92,
+      "passing": 85,
+      "physical": 94,
+      "shooting": 96
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 40,
+      "gkFeet": 67,
+      "mental": 99,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 90,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.3733333333333333,
+       "d": 0,
+       "e": 0.6799999999999999,
+       "ovr": 90,
+       "personal": 0.27999999999999997,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 90,
+     "pos": "שוער",
+     "raw": 90,
+     "rounds": 1,
+     "scaled": 90,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 92,
+     "stars": 3.5,
+     "stats": {
+      "gkConc": 80,
+      "gkFeet": 85,
+      "mental": 90,
+      "physical": 85,
+      "reflexes": 83
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 40,
+      "gkFeet": 67,
+      "mental": 99,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 90,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.3733333333333333,
+       "d": 0,
+       "e": 0.6799999999999999,
+       "ovr": 90,
+       "personal": 0.27999999999999997,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 90,
+     "pos": "שוער",
+     "raw": 90,
+     "rounds": 1,
+     "scaled": 90,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 92,
+     "stars": 3.5,
+     "stats": {
+      "gkConc": 80,
+      "gkFeet": 85,
+      "mental": 90,
+      "physical": 85,
+      "reflexes": 83
+     },
+     "top": {}
+    }
+   }
+  },
+  "501z1iqp5zb": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 80,
+      "dribbling": 82,
+      "mental": 87,
+      "pace": 80,
+      "passing": 83,
+      "physical": 85,
+      "shooting": 92,
+      "stamina": 75
+     },
+     "ovr": 89,
+     "pos": "התקפי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 75,
+     "stars": 3,
+     "stats": {
+      "defending": 80,
+      "dribbling": 82,
+      "mental": 87,
+      "pace": 80,
+      "passing": 83,
+      "physical": 85,
+      "shooting": 92
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "התקפי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "defending": 82,
+      "dribbling": 90,
+      "mental": 82,
+      "pace": 82,
+      "passing": 82,
+      "physical": 82,
+      "shooting": 91
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "54jloiph59r": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 94,
+      "dribbling": 79,
+      "mental": 83,
+      "pace": 80,
+      "passing": 84,
+      "physical": 94,
+      "shooting": 80,
+      "stamina": 86
+     },
+     "ovr": 88,
+     "pos": "הגנתי",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 86,
+     "stars": 2.5,
+     "stats": {
+      "defending": 94,
+      "dribbling": 79,
+      "mental": 83,
+      "pace": 80,
+      "passing": 84,
+      "physical": 94,
+      "shooting": 80
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 88,
+     "pos": "הגנתי",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 90,
+     "stars": 2.5,
+     "stats": {
+      "defending": 91,
+      "dribbling": 81,
+      "mental": 81,
+      "pace": 90,
+      "passing": 81,
+      "physical": 92,
+      "shooting": 81
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 88,
+     "pos": "שוער",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 90,
+     "stars": 2.5,
+     "stats": {
+      "gkConc": 83,
+      "gkFeet": 83,
+      "mental": 83,
+      "physical": 83,
+      "reflexes": 83
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 88,
+     "pos": "שוער",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 90,
+     "stars": 2.5,
+     "stats": {
+      "gkConc": 83,
+      "gkFeet": 83,
+      "mental": 83,
+      "physical": 83,
+      "reflexes": 83
+     },
+     "top": {}
+    }
+   }
+  },
+  "6kfvvyvuyl1": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 78,
+      "mental": 65,
+      "passing": 48,
+      "shooting": 44
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.575,
+       "d": 1,
+       "e": 0.2642857142857143,
+       "ovr": 86,
+       "personal": 0.5,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 93,
+      "dribbling": 65,
+      "mental": 83,
+      "pace": 71,
+      "passing": 79,
+      "physical": 95,
+      "shooting": 86,
+      "stamina": 71
+     },
+     "ovr": 86,
+     "pos": "הגנתי",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 71,
+     "stars": 1,
+     "stats": {
+      "defending": 93,
+      "dribbling": 65,
+      "mental": 83,
+      "pace": 71,
+      "passing": 79,
+      "physical": 95,
+      "shooting": 86
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 78,
+      "mental": 65,
+      "passing": 48,
+      "shooting": 44
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.575,
+       "d": 1,
+       "e": 0.2642857142857143,
+       "ovr": 86,
+       "personal": 0.5,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "הגנתי",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "defending": 90,
+      "dribbling": 79,
+      "mental": 78,
+      "pace": 79,
+      "passing": 75,
+      "physical": 84,
+      "shooting": 75
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 70,
+      "gkFeet": 67,
+      "mental": 75,
+      "reflexes": 93
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.7350000000000001,
+       "d": 1,
+       "e": 0.23,
+       "ovr": 86,
+       "personal": 0.8200000000000001,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "gkConc": 90,
+      "mental": 85,
+      "physical": 90
+     },
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "gkConc": "man",
+      "gkFeet": "auto",
+      "mental": "man",
+      "physical": "man",
+      "reflexes": "auto"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 90,
+      "gkFeet": 81,
+      "mental": 85,
+      "physical": 90,
+      "reflexes": 85
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 70,
+      "gkFeet": 67,
+      "mental": 75,
+      "reflexes": 93
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.7350000000000001,
+       "d": 1,
+       "e": 0.23,
+       "ovr": 86,
+       "personal": 0.8200000000000001,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 81,
+      "gkFeet": 81,
+      "mental": 82,
+      "physical": 81,
+      "reflexes": 85
+     },
+     "top": {}
+    }
+   }
+  },
+  "7ztgzlhumty": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 65,
+      "mental": 61,
+      "passing": 99,
+      "shooting": 44
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 92,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.7250000000000001,
+       "d": 0,
+       "e": 0.7571428571428571,
+       "ovr": 92,
+       "personal": 0.8,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "attack": 59,
+      "defence": 79,
+      "defending": 82,
+      "dribbling": 93,
+      "level": 90,
+      "mental": 83,
+      "pace": 85,
+      "passing": 83,
+      "physical": 74,
+      "scoring": 84,
+      "shooting": 85,
+      "stamina": 83
+     },
+     "ovr": 92,
+     "pos": "שחקן שלם",
+     "raw": 92,
+     "rounds": 1,
+     "scaled": 92,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 83,
+     "stars": 4,
+     "stats": {
+      "defending": 82,
+      "dribbling": 93,
+      "mental": 83,
+      "pace": 85,
+      "passing": 83,
+      "physical": 74,
+      "shooting": 85
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 65,
+      "mental": 61,
+      "passing": 99,
+      "shooting": 44
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 92,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.7250000000000001,
+       "d": 0,
+       "e": 0.7571428571428571,
+       "ovr": 92,
+       "personal": 0.8,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 92,
+     "pos": "שחקן שלם",
+     "raw": 92,
+     "rounds": 1,
+     "scaled": 92,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": 94,
+     "stars": 4,
+     "stats": {
+      "defending": 94,
+      "dribbling": 93,
+      "mental": 84,
+      "pace": 94,
+      "passing": 90,
+      "physical": 96,
+      "shooting": 90
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 78,
+      "gkFeet": 67,
+      "mental": 93,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 92,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.6200000000000001,
+       "d": 0,
+       "e": 0.74,
+       "ovr": 92,
+       "personal": 0.5900000000000001,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 92,
+     "pos": "שוער",
+     "raw": 92,
+     "rounds": 1,
+     "scaled": 92,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 94,
+     "stars": 4,
+     "stats": {
+      "gkConc": 89,
+      "gkFeet": 87,
+      "mental": 91,
+      "physical": 87,
+      "reflexes": 85
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 78,
+      "gkFeet": 67,
+      "mental": 93,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 92,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def",
+      "fit"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.6200000000000001,
+       "d": 0,
+       "e": 0.74,
+       "ovr": 92,
+       "personal": 0.5900000000000001,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 92,
+     "pos": "שוער",
+     "raw": 92,
+     "rounds": 1,
+     "scaled": 92,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 94,
+     "stars": 4,
+     "stats": {
+      "gkConc": 89,
+      "gkFeet": 87,
+      "mental": 91,
+      "physical": 87,
+      "reflexes": 85
+     },
+     "top": {}
+    }
+   }
+  },
+  "8ppg4b0h59r": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 84,
+      "dribbling": 92,
+      "mental": 85,
+      "pace": 89,
+      "passing": 82,
+      "physical": 75,
+      "shooting": 88,
+      "stamina": 89
+     },
+     "ovr": 89,
+     "pos": "התקפי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 89,
+     "stars": 3,
+     "stats": {
+      "defending": 84,
+      "dribbling": 92,
+      "mental": 85,
+      "pace": 89,
+      "passing": 82,
+      "physical": 75,
+      "shooting": 88
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "התקפי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "defending": 82,
+      "dribbling": 90,
+      "mental": 82,
+      "pace": 91,
+      "passing": 82,
+      "physical": 90,
+      "shooting": 91
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "9vmkqfxwfg6": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 82,
+      "mental": 70,
+      "passing": 57,
+      "shooting": 78
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.6488095238095237,
+       "d": 0,
+       "e": 0.5214285714285714,
+       "ovr": 87,
+       "personal": 0.6476190476190475,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 75,
+      "dribbling": 88,
+      "mental": 78,
+      "pace": 78,
+      "passing": 78,
+      "physical": 78,
+      "shooting": 79,
+      "stamina": 73
+     },
+     "ovr": 87,
+     "pos": "התקפי",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 73,
+     "stars": 2,
+     "stats": {
+      "defending": 75,
+      "dribbling": 88,
+      "mental": 78,
+      "pace": 78,
+      "passing": 78,
+      "physical": 78,
+      "shooting": 79
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 82,
+      "mental": 70,
+      "passing": 57,
+      "shooting": 78
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.6488095238095237,
+       "d": 0,
+       "e": 0.5214285714285714,
+       "ovr": 87,
+       "personal": 0.6476190476190475,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "התקפי",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": null,
+     "stars": 2,
+     "stats": {
+      "defending": 82,
+      "dribbling": 88,
+      "mental": 80,
+      "pace": 80,
+      "passing": 78,
+      "physical": 80,
+      "shooting": 90
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "שוער",
+     "raw": 87,
+     "rounds": 0,
+     "scaled": 87,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 2,
+     "stats": {
+      "gkConc": 82,
+      "gkFeet": 82,
+      "mental": 82,
+      "physical": 82,
+      "reflexes": 82
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "שוער",
+     "raw": 87,
+     "rounds": 0,
+     "scaled": 87,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 2,
+     "stats": {
+      "gkConc": 82,
+      "gkFeet": 82,
+      "mental": 82,
+      "physical": 82,
+      "reflexes": 82
+     },
+     "top": {}
+    }
+   }
+  },
+  "acyd628za4z": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 40,
+      "mental": 40,
+      "passing": 93,
+      "shooting": 72
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.5547619047619048,
+       "d": 0,
+       "e": 0.5214285714285714,
+       "ovr": 87,
+       "personal": 0.7261904761904762,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 82,
+      "dribbling": 89,
+      "mental": 79,
+      "passing": 82,
+      "physical": 88,
+      "shooting": 85,
+      "stamina": 82
+     },
+     "ovr": 87,
+     "pos": "התקפי",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "card",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 82,
+     "stars": 2,
+     "stats": {
+      "defending": 82,
+      "dribbling": 89,
+      "mental": 79,
+      "pace": 80,
+      "passing": 82,
+      "physical": 88,
+      "shooting": 85
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 40,
+      "mental": 40,
+      "passing": 93,
+      "shooting": 72
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.5547619047619048,
+       "d": 0,
+       "e": 0.5214285714285714,
+       "ovr": 87,
+       "personal": 0.7261904761904762,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "התקפי",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": null,
+     "stars": 2,
+     "stats": {
+      "defending": 75,
+      "dribbling": 88,
+      "mental": 75,
+      "pace": 80,
+      "passing": 84,
+      "physical": 80,
+      "shooting": 89
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 78,
+      "gkFeet": 67,
+      "mental": 58,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.48666666666666675,
+       "d": 0,
+       "e": 0.5,
+       "ovr": 87,
+       "personal": 0.5900000000000001,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "שוער",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": null,
+     "stars": 2,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 82,
+      "mental": 80,
+      "physical": 82,
+      "reflexes": 80
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 78,
+      "gkFeet": 67,
+      "mental": 58,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.48666666666666675,
+       "d": 0,
+       "e": 0.5,
+       "ovr": 87,
+       "personal": 0.5900000000000001,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "שוער",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": null,
+     "stars": 2,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 82,
+      "mental": 80,
+      "physical": 82,
+      "reflexes": 80
+     },
+     "top": {}
+    }
+   }
+  },
+  "bo8ffiqzlny": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 74,
+      "dribbling": 86,
+      "mental": 76,
+      "pace": 86,
+      "passing": 83,
+      "physical": 78,
+      "shooting": 78,
+      "stamina": 81
+     },
+     "ovr": 86,
+     "pos": "התקפי",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 81,
+     "stars": 1.5,
+     "stats": {
+      "defending": 74,
+      "dribbling": 86,
+      "mental": 76,
+      "pace": 86,
+      "passing": 83,
+      "physical": 78,
+      "shooting": 78
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "התקפי",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 1.5,
+     "stats": {
+      "defending": 79,
+      "dribbling": 87,
+      "mental": 79,
+      "pace": 79,
+      "passing": 79,
+      "physical": 79,
+      "shooting": 88
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 81,
+      "gkFeet": 81,
+      "mental": 81,
+      "physical": 81,
+      "reflexes": 81
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 0,
+     "scaled": 86,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 81,
+      "gkFeet": 81,
+      "mental": 81,
+      "physical": 81,
+      "reflexes": 81
+     },
+     "top": {}
+    }
+   }
+  },
+  "c2fzla4h59r": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 94,
+      "dribbling": 94,
+      "mental": 79,
+      "pace": 96,
+      "passing": 86,
+      "physical": 95,
+      "shooting": 92,
+      "stamina": 92
+     },
+     "ovr": 96,
+     "pos": "שחקן שלם",
+     "raw": 96,
+     "rounds": 0,
+     "scaled": 96,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 92,
+     "stars": 5,
+     "stats": {
+      "defending": 94,
+      "dribbling": 94,
+      "mental": 79,
+      "pace": 96,
+      "passing": 86,
+      "physical": 95,
+      "shooting": 92
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 96,
+     "pos": "שחקן שלם",
+     "raw": 96,
+     "rounds": 0,
+     "scaled": 96,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 98,
+     "stars": 5,
+     "stats": {
+      "defending": 99,
+      "dribbling": 97,
+      "mental": 89,
+      "pace": 98,
+      "passing": 89,
+      "physical": 99,
+      "shooting": 98
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 96,
+     "pos": "שוער",
+     "raw": 96,
+     "rounds": 0,
+     "scaled": 96,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 98,
+     "stars": 5,
+     "stats": {
+      "gkConc": 91,
+      "gkFeet": 91,
+      "mental": 91,
+      "physical": 91,
+      "reflexes": 91
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 96,
+     "pos": "שוער",
+     "raw": 96,
+     "rounds": 0,
+     "scaled": 96,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 98,
+     "stars": 5,
+     "stats": {
+      "gkConc": 91,
+      "gkFeet": 91,
+      "mental": 91,
+      "physical": 91,
+      "reflexes": 91
+     },
+     "top": {}
+    }
+   }
+  },
+  "c2u2g0el8s7": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 94,
+      "dribbling": 94,
+      "mental": 98,
+      "pace": 91,
+      "passing": 93,
+      "physical": 95,
+      "shooting": 93,
+      "stamina": 96
+     },
+     "ovr": 96,
+     "pos": "שחקן שלם",
+     "raw": 96,
+     "rounds": 0,
+     "scaled": 96,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 96,
+     "stars": 5,
+     "stats": {
+      "defending": 94,
+      "dribbling": 94,
+      "mental": 98,
+      "pace": 91,
+      "passing": 93,
+      "physical": 95,
+      "shooting": 93
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 96,
+     "pos": "שחקן שלם",
+     "raw": 96,
+     "rounds": 0,
+     "scaled": 96,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 98,
+     "stars": 5,
+     "stats": {
+      "defending": 99,
+      "dribbling": 97,
+      "mental": 89,
+      "pace": 98,
+      "passing": 89,
+      "physical": 99,
+      "shooting": 98
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 96,
+     "pos": "שוער",
+     "raw": 96,
+     "rounds": 0,
+     "scaled": 96,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 98,
+     "stars": 5,
+     "stats": {
+      "gkConc": 91,
+      "gkFeet": 91,
+      "mental": 91,
+      "physical": 91,
+      "reflexes": 91
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 96,
+     "pos": "שוער",
+     "raw": 96,
+     "rounds": 0,
+     "scaled": 96,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 98,
+     "stars": 5,
+     "stats": {
+      "gkConc": 91,
+      "gkFeet": 91,
+      "mental": 91,
+      "physical": 91,
+      "reflexes": 91
+     },
+     "top": {}
+    }
+   }
+  },
+  "c3unvq2twnh": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 44,
+      "mental": 55,
+      "passing": 42,
+      "shooting": 99
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.5654761904761905,
+       "d": 1,
+       "e": 0.2642857142857143,
+       "ovr": 86,
+       "personal": 0.7476190476190476,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 67,
+      "dribbling": 77,
+      "mental": 89,
+      "pace": 70,
+      "passing": 76,
+      "physical": 88,
+      "shooting": 92,
+      "stamina": 66
+     },
+     "ovr": 86,
+     "pos": "התקפי",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 66,
+     "stars": 1,
+     "stats": {
+      "defending": 67,
+      "dribbling": 77,
+      "mental": 89,
+      "pace": 70,
+      "passing": 76,
+      "physical": 88,
+      "shooting": 92
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 44,
+      "mental": 55,
+      "passing": 42,
+      "shooting": 99
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.5654761904761905,
+       "d": 1,
+       "e": 0.2642857142857143,
+       "ovr": 86,
+       "personal": 0.7476190476190476,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "התקפי",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "defending": 75,
+      "dribbling": 87,
+      "mental": 77,
+      "pace": 79,
+      "passing": 74,
+      "physical": 79,
+      "shooting": 93
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 52,
+      "gkFeet": 67,
+      "mental": 40,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.3516666666666667,
+       "d": 0,
+       "e": 0.23,
+       "ovr": 85,
+       "personal": 0.32,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "שוער",
+     "raw": 85,
+     "rounds": 1,
+     "scaled": 85,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 77,
+      "gkFeet": 80,
+      "mental": 75,
+      "physical": 80,
+      "reflexes": 78
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 52,
+      "gkFeet": 67,
+      "mental": 40,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.3516666666666667,
+       "d": 0,
+       "e": 0.23,
+       "ovr": 85,
+       "personal": 0.32,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "שוער",
+     "raw": 85,
+     "rounds": 1,
+     "scaled": 85,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 77,
+      "gkFeet": 80,
+      "mental": 75,
+      "physical": 80,
+      "reflexes": 78
+     },
+     "top": {}
+    }
+   }
+  },
+  "cd0aqiuw0tj": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 55,
+      "mental": 55,
+      "passing": 93,
+      "shooting": 72
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.5714285714285714,
+       "d": 0,
+       "e": 0.3928571428571429,
+       "ovr": 86,
+       "personal": 0.7595238095238095,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 77,
+      "dribbling": 87,
+      "mental": 86,
+      "pace": 82,
+      "passing": 85,
+      "physical": 77,
+      "shooting": 79,
+      "stamina": 85
+     },
+     "ovr": 86,
+     "pos": "התקפי",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 85,
+     "stars": 1.5,
+     "stats": {
+      "defending": 77,
+      "dribbling": 87,
+      "mental": 86,
+      "pace": 82,
+      "passing": 85,
+      "physical": 77,
+      "shooting": 79
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 55,
+      "mental": 55,
+      "passing": 93,
+      "shooting": 72
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.5714285714285714,
+       "d": 0,
+       "e": 0.3928571428571429,
+       "ovr": 86,
+       "personal": 0.7595238095238095,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "התקפי",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": 88,
+     "stars": 1.5,
+     "stats": {
+      "defending": 77,
+      "dribbling": 87,
+      "mental": 77,
+      "pace": 88,
+      "passing": 83,
+      "physical": 87,
+      "shooting": 88
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 52,
+      "gkFeet": 67,
+      "mental": 46,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.3516666666666667,
+       "d": 0,
+       "e": 0.38,
+       "ovr": 86,
+       "personal": 0.32,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 88,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 78,
+      "gkFeet": 81,
+      "mental": 77,
+      "physical": 81,
+      "reflexes": 79
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 52,
+      "gkFeet": 67,
+      "mental": 46,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.3516666666666667,
+       "d": 0,
+       "e": 0.38,
+       "ovr": 86,
+       "personal": 0.32,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 86,
+     "pos": "שוער",
+     "raw": 86,
+     "rounds": 1,
+     "scaled": 86,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 88,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 78,
+      "gkFeet": 81,
+      "mental": 77,
+      "physical": 81,
+      "reflexes": 79
+     },
+     "top": {}
+    }
+   }
+  },
+  "eu68xcpvg1w": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 97,
+      "mental": 97,
+      "passing": 86,
+      "shooting": 63
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.6654761904761906,
+       "d": 1,
+       "e": 0.3928571428571429,
+       "ovr": 87,
+       "personal": 0.8642857142857143,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 70,
+      "dribbling": 73,
+      "mental": 85,
+      "pace": 68,
+      "passing": 83,
+      "physical": 85,
+      "shooting": 95,
+      "stamina": 70
+     },
+     "ovr": 87,
+     "pos": "התקפי",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 70,
+     "stars": 1.5,
+     "stats": {
+      "defending": 70,
+      "dribbling": 73,
+      "mental": 85,
+      "pace": 68,
+      "passing": 83,
+      "physical": 85,
+      "shooting": 95
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 97,
+      "mental": 97,
+      "passing": 86,
+      "shooting": 63
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.6654761904761906,
+       "d": 1,
+       "e": 0.3928571428571429,
+       "ovr": 87,
+       "personal": 0.8642857142857143,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "התקפי",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": null,
+     "stars": 1.5,
+     "stats": {
+      "defending": 85,
+      "dribbling": 88,
+      "mental": 85,
+      "pace": 80,
+      "passing": 83,
+      "physical": 80,
+      "shooting": 88
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 87,
+      "gkFeet": 67,
+      "mental": 84,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.5883333333333334,
+       "d": 1,
+       "e": 0.38,
+       "ovr": 87,
+       "personal": 0.71,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "שוער",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": null,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 85,
+      "gkFeet": 82,
+      "mental": 85,
+      "physical": 82,
+      "reflexes": 80
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 87,
+      "gkFeet": 67,
+      "mental": 84,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 86,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.5883333333333334,
+       "d": 1,
+       "e": 0.38,
+       "ovr": 87,
+       "personal": 0.71,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "שוער",
+     "raw": 87,
+     "rounds": 1,
+     "scaled": 87,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": null,
+     "stars": 1.5,
+     "stats": {
+      "gkConc": 85,
+      "gkFeet": 82,
+      "mental": 85,
+      "physical": 82,
+      "reflexes": 80
+     },
+     "top": {}
+    }
+   }
+  },
+  "hq3qc9tzr2p": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 95,
+      "dribbling": 77,
+      "mental": 90,
+      "pace": 84,
+      "passing": 85,
+      "physical": 90,
+      "shooting": 77,
+      "stamina": 86
+     },
+     "ovr": 89,
+     "pos": "הגנתי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 86,
+     "stars": 3,
+     "stats": {
+      "defending": 95,
+      "dribbling": 77,
+      "mental": 90,
+      "pace": 84,
+      "passing": 85,
+      "physical": 90,
+      "shooting": 77
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "הגנתי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "defending": 92,
+      "dribbling": 82,
+      "mental": 82,
+      "pace": 91,
+      "passing": 82,
+      "physical": 93,
+      "shooting": 82
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "if1m0z6u98w": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 78,
+      "dribbling": 83,
+      "mental": 97,
+      "pace": 75,
+      "passing": 98,
+      "physical": 74,
+      "shooting": 85
+     },
+     "ovr": 88,
+     "pos": "שחקן שלם",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": null,
+     "stars": 2.5,
+     "stats": {
+      "defending": 78,
+      "dribbling": 83,
+      "mental": 97,
+      "pace": 75,
+      "passing": 98,
+      "physical": 74,
+      "shooting": 85
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 88,
+     "pos": "שחקן שלם",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 2.5,
+     "stats": {
+      "defending": 91,
+      "dribbling": 89,
+      "mental": 81,
+      "pace": 81,
+      "passing": 81,
+      "physical": 86,
+      "shooting": 90
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 88,
+     "pos": "שוער",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 2.5,
+     "stats": {
+      "gkConc": 83,
+      "gkFeet": 83,
+      "mental": 83,
+      "physical": 83,
+      "reflexes": 83
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 88,
+     "pos": "שוער",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 2.5,
+     "stats": {
+      "gkConc": 83,
+      "gkFeet": 83,
+      "mental": 83,
+      "physical": 83,
+      "reflexes": 83
+     },
+     "top": {}
+    }
+   }
+  },
+  "j1oa5xgh59r": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 90,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 94,
+      "dribbling": 88,
+      "mental": 88,
+      "passing": 86,
+      "physical": 93,
+      "shooting": 80,
+      "stamina": 86
+     },
+     "ovr": 90,
+     "pos": "הגנתי",
+     "raw": 90,
+     "rounds": 0,
+     "scaled": 90,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "card",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 86,
+     "stars": 3.5,
+     "stats": {
+      "defending": 94,
+      "dribbling": 88,
+      "mental": 88,
+      "pace": 92,
+      "passing": 86,
+      "physical": 93,
+      "shooting": 80
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 90,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 90,
+     "pos": "הגנתי",
+     "raw": 90,
+     "rounds": 0,
+     "scaled": 90,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 92,
+     "stars": 3.5,
+     "stats": {
+      "defending": 93,
+      "dribbling": 83,
+      "mental": 83,
+      "pace": 92,
+      "passing": 83,
+      "physical": 94,
+      "shooting": 83
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 90,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 90,
+     "pos": "שוער",
+     "raw": 90,
+     "rounds": 0,
+     "scaled": 90,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 92,
+     "stars": 3.5,
+     "stats": {
+      "gkConc": 85,
+      "gkFeet": 85,
+      "mental": 85,
+      "physical": 85,
+      "reflexes": 85
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 90,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 90,
+     "pos": "שוער",
+     "raw": 90,
+     "rounds": 0,
+     "scaled": 90,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 92,
+     "stars": 3.5,
+     "stats": {
+      "gkConc": 85,
+      "gkFeet": 85,
+      "mental": 85,
+      "physical": 85,
+      "reflexes": 85
+     },
+     "top": {}
+    }
+   }
+  },
+  "jixjjwvvjxb": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 97,
+      "dribbling": 79,
+      "mental": 87,
+      "pace": 85,
+      "passing": 84,
+      "physical": 92,
+      "shooting": 82,
+      "stamina": 86
+     },
+     "ovr": 89,
+     "pos": "הגנתי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 86,
+     "stars": 3,
+     "stats": {
+      "defending": 97,
+      "dribbling": 79,
+      "mental": 87,
+      "pace": 85,
+      "passing": 84,
+      "physical": 92,
+      "shooting": 82
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "הגנתי",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "defending": 92,
+      "dribbling": 82,
+      "mental": 82,
+      "pace": 91,
+      "passing": 82,
+      "physical": 93,
+      "shooting": 82
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "kx3tc10vmnl": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 55,
+      "mental": 44,
+      "passing": 74,
+      "shooting": 86
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.5345238095238096,
+       "d": 0,
+       "e": 0.8,
+       "ovr": 96,
+       "personal": 0.6857142857142857,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 88,
+      "dribbling": 90,
+      "mental": 87,
+      "pace": 89,
+      "passing": 89,
+      "physical": 95,
+      "shooting": 92,
+      "stamina": 92
+     },
+     "ovr": 96,
+     "pos": "שחקן שלם",
+     "raw": 96,
+     "rounds": 1,
+     "scaled": 96,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 92,
+     "stars": 5,
+     "stats": {
+      "defending": 88,
+      "dribbling": 90,
+      "mental": 87,
+      "pace": 89,
+      "passing": 89,
+      "physical": 95,
+      "shooting": 92
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 55,
+      "mental": 44,
+      "passing": 74,
+      "shooting": 86
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.5345238095238096,
+       "d": 0,
+       "e": 0.8,
+       "ovr": 96,
+       "personal": 0.6857142857142857,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 96,
+     "pos": "שחקן שלם",
+     "raw": 96,
+     "rounds": 1,
+     "scaled": 96,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": 98,
+     "stars": 5,
+     "stats": {
+      "defending": 97,
+      "dribbling": 97,
+      "mental": 85,
+      "pace": 98,
+      "passing": 90,
+      "physical": 99,
+      "shooting": 99
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 64,
+      "gkFeet": 67,
+      "mental": 52,
+      "reflexes": 87
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.5516666666666667,
+       "d": 0,
+       "e": 0.8,
+       "ovr": 96,
+       "personal": 0.72,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 96,
+     "pos": "שוער",
+     "raw": 96,
+     "rounds": 1,
+     "scaled": 96,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 98,
+     "stars": 5,
+     "stats": {
+      "gkConc": 90,
+      "gkFeet": 91,
+      "mental": 88,
+      "physical": 91,
+      "reflexes": 94
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 64,
+      "gkFeet": 67,
+      "mental": 52,
+      "reflexes": 87
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 96,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit",
+      "def",
+      "att"
+     ],
+     "complete": true,
+     "hist": [
+      {
+       "c": 0.5516666666666667,
+       "d": 0,
+       "e": 0.8,
+       "ovr": 96,
+       "personal": 0.72,
+       "r": "wvwdfkwkos1",
+       "team": 0.3833333333333334,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 96,
+     "pos": "שוער",
+     "raw": 96,
+     "rounds": 1,
+     "scaled": 96,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 98,
+     "stars": 5,
+     "stats": {
+      "gkConc": 90,
+      "gkFeet": 91,
+      "mental": 88,
+      "physical": 91,
+      "reflexes": 94
+     },
+     "top": {}
+    }
+   }
+  },
+  "lskqb1qh59r": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 80,
+      "dribbling": 90,
+      "mental": 83,
+      "pace": 83,
+      "passing": 81,
+      "physical": 83,
+      "shooting": 88,
+      "stamina": 75
+     },
+     "ovr": 89,
+     "pos": "שחקן שלם",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 75,
+     "stars": 3,
+     "stats": {
+      "defending": 80,
+      "dribbling": 90,
+      "mental": 83,
+      "pace": 83,
+      "passing": 81,
+      "physical": 83,
+      "shooting": 88
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שחקן שלם",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "defending": 92,
+      "dribbling": 90,
+      "mental": 82,
+      "pace": 91,
+      "passing": 82,
+      "physical": 93,
+      "shooting": 91
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "lunzvcjz6rw": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 61,
+      "mental": 76,
+      "passing": 63,
+      "shooting": 93
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.7023809523809523,
+       "d": 0,
+       "e": 0.6285714285714286,
+       "ovr": 89,
+       "personal": 0.7547619047619047,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 75,
+      "dribbling": 89,
+      "mental": 75,
+      "pace": 89,
+      "passing": 78,
+      "physical": 70,
+      "shooting": 87,
+      "stamina": 82
+     },
+     "ovr": 89,
+     "pos": "התקפי",
+     "raw": 89,
+     "rounds": 1,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 82,
+     "stars": 3,
+     "stats": {
+      "defending": 75,
+      "dribbling": 89,
+      "mental": 75,
+      "pace": 89,
+      "passing": 78,
+      "physical": 70,
+      "shooting": 87
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 61,
+      "mental": 76,
+      "passing": 63,
+      "shooting": 93
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.7023809523809523,
+       "d": 0,
+       "e": 0.6285714285714286,
+       "ovr": 89,
+       "personal": 0.7547619047619047,
+       "r": "wvwdfkwkos1",
+       "team": 0.65,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "התקפי",
+     "raw": 89,
+     "rounds": 1,
+     "scaled": 89,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "defending": 81,
+      "dribbling": 90,
+      "mental": 83,
+      "pace": 91,
+      "passing": 81,
+      "physical": 90,
+      "shooting": 95
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "gkConc": 96,
+      "gkFeet": 67,
+      "mental": 67,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 89,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 82
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "gkConc": 96,
+      "gkFeet": 67,
+      "mental": 67,
+      "reflexes": 61
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "auto",
+      "gkFeet": "auto",
+      "mental": "auto",
+      "physical": "card",
+      "reflexes": "auto"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 89,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 82
+     },
+     "top": {}
+    }
+   }
+  },
+  "nrwl330h59r": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 81,
+      "dribbling": 87,
+      "mental": 70,
+      "pace": 69,
+      "passing": 70,
+      "physical": 85,
+      "shooting": 83,
+      "stamina": 75
+     },
+     "ovr": 85,
+     "pos": "מאוזן",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 75,
+     "stars": 1,
+     "stats": {
+      "defending": 81,
+      "dribbling": 87,
+      "mental": 70,
+      "pace": 69,
+      "passing": 70,
+      "physical": 85,
+      "shooting": 83
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "מאוזן",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "defending": 80,
+      "dribbling": 80,
+      "mental": 80,
+      "pace": 80,
+      "passing": 80,
+      "physical": 80,
+      "shooting": 80
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "שוער",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 80,
+      "gkFeet": 80,
+      "mental": 80,
+      "physical": 80,
+      "reflexes": 80
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "שוער",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 80,
+      "gkFeet": 80,
+      "mental": 80,
+      "physical": 80,
+      "reflexes": 80
+     },
+     "top": {}
+    }
+   }
+  },
+  "od6r0b9xqkg": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 70,
+      "mental": 88,
+      "passing": 53,
+      "shooting": 55
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.44761904761904764,
+       "d": 0,
+       "e": 0.6285714285714286,
+       "ovr": 89,
+       "personal": 0.4285714285714286,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 94,
+      "dribbling": 73,
+      "mental": 92,
+      "pace": 85,
+      "passing": 81,
+      "physical": 85,
+      "shooting": 85,
+      "stamina": 92
+     },
+     "ovr": 89,
+     "pos": "הגנתי",
+     "raw": 89,
+     "rounds": 1,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 92,
+     "stars": 3,
+     "stats": {
+      "defending": 94,
+      "dribbling": 73,
+      "mental": 92,
+      "pace": 85,
+      "passing": 81,
+      "physical": 85,
+      "shooting": 85
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 70,
+      "mental": 88,
+      "passing": 53,
+      "shooting": 55
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.44761904761904764,
+       "d": 0,
+       "e": 0.6285714285714286,
+       "ovr": 89,
+       "personal": 0.4285714285714286,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "הגנתי",
+     "raw": 89,
+     "rounds": 1,
+     "scaled": 89,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "defending": 92,
+      "dribbling": 82,
+      "mental": 85,
+      "pace": 91,
+      "passing": 79,
+      "physical": 93,
+      "shooting": 80
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "def",
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 91,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "s19yt5ih59r": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 82,
+      "dribbling": 84,
+      "mental": 75,
+      "pace": 82,
+      "passing": 82,
+      "physical": 91,
+      "shooting": 91,
+      "stamina": 81
+     },
+     "ovr": 89,
+     "pos": "מאוזן",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 81,
+     "stars": 3,
+     "stats": {
+      "defending": 82,
+      "dribbling": 84,
+      "mental": 75,
+      "pace": 82,
+      "passing": 82,
+      "physical": 91,
+      "shooting": 91
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "מאוזן",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "defending": 84,
+      "dribbling": 84,
+      "mental": 84,
+      "pace": 84,
+      "passing": 84,
+      "physical": 84,
+      "shooting": 84
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "sw12v72zxeb": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {
+      "defending": 74,
+      "mental": 88,
+      "passing": 42,
+      "shooting": 55
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 83,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.4619047619047619,
+       "d": 1,
+       "e": 0.2,
+       "ovr": 84,
+       "personal": 0.4571428571428571,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 79,
+      "dribbling": 73,
+      "mental": 78,
+      "pace": 86,
+      "passing": 74,
+      "physical": 78,
+      "shooting": 74,
+      "stamina": 76
+     },
+     "ovr": 84,
+     "pos": "מאוזן",
+     "raw": 84,
+     "rounds": 1,
+     "scaled": 84,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 76,
+     "stars": 0.5,
+     "stats": {
+      "defending": 79,
+      "dribbling": 73,
+      "mental": 78,
+      "pace": 86,
+      "passing": 74,
+      "physical": 78,
+      "shooting": 74
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {
+      "defending": 74,
+      "mental": 88,
+      "passing": 42,
+      "shooting": 55
+     },
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 83,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [
+      {
+       "c": 0.4619047619047619,
+       "d": 1,
+       "e": 0.2,
+       "ovr": 84,
+       "personal": 0.4571428571428571,
+       "r": "wvwdfkwkos1",
+       "team": 0.4666666666666667,
+       "tight": true
+      }
+     ],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 84,
+     "pos": "מאוזן",
+     "raw": 84,
+     "rounds": 1,
+     "scaled": 84,
+     "src": {
+      "defending": "auto",
+      "dribbling": "card",
+      "mental": "auto",
+      "pace": "card",
+      "passing": "auto",
+      "physical": "card",
+      "shooting": "auto"
+     },
+     "stamina": null,
+     "stars": 0.5,
+     "stats": {
+      "defending": 80,
+      "dribbling": 79,
+      "mental": 82,
+      "pace": 79,
+      "passing": 74,
+      "physical": 79,
+      "shooting": 77
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 83,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 83,
+     "pos": "שוער",
+     "raw": 83,
+     "rounds": 0,
+     "scaled": 83,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 0.5,
+     "stats": {
+      "gkConc": 78,
+      "gkFeet": 78,
+      "mental": 78,
+      "physical": 78,
+      "reflexes": 78
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 83,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 83,
+     "pos": "שוער",
+     "raw": 83,
+     "rounds": 0,
+     "scaled": 83,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 0.5,
+     "stats": {
+      "gkConc": 78,
+      "gkFeet": 78,
+      "mental": 78,
+      "physical": 78,
+      "reflexes": 78
+     },
+     "top": {}
+    }
+   }
+  },
+  "uy0fw20p5zb": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 82,
+      "dribbling": 77,
+      "mental": 78,
+      "pace": 85,
+      "passing": 79,
+      "physical": 78,
+      "shooting": 77,
+      "stamina": 79
+     },
+     "ovr": 85,
+     "pos": "מאוזן",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 79,
+     "stars": 1,
+     "stats": {
+      "defending": 82,
+      "dribbling": 77,
+      "mental": 78,
+      "pace": 85,
+      "passing": 79,
+      "physical": 78,
+      "shooting": 77
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "מאוזן",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "defending": 80,
+      "dribbling": 80,
+      "mental": 80,
+      "pace": 80,
+      "passing": 80,
+      "physical": 80,
+      "shooting": 80
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "שוער",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 80,
+      "gkFeet": 80,
+      "mental": 80,
+      "physical": 80,
+      "reflexes": 80
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 85,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 85,
+     "pos": "שוער",
+     "raw": 85,
+     "rounds": 0,
+     "scaled": 85,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 1,
+     "stats": {
+      "gkConc": 80,
+      "gkFeet": 80,
+      "mental": 80,
+      "physical": 80,
+      "reflexes": 80
+     },
+     "top": {}
+    }
+   }
+  },
+  "y5wyg7wp5zb": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 81,
+      "dribbling": 88,
+      "mental": 80,
+      "pace": 83,
+      "passing": 80,
+      "physical": 77,
+      "shooting": 81,
+      "stamina": 85
+     },
+     "ovr": 87,
+     "pos": "מאוזן",
+     "raw": 87,
+     "rounds": 0,
+     "scaled": 87,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 85,
+     "stars": 2,
+     "stats": {
+      "defending": 81,
+      "dribbling": 88,
+      "mental": 80,
+      "pace": 83,
+      "passing": 80,
+      "physical": 77,
+      "shooting": 81
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "מאוזן",
+     "raw": 87,
+     "rounds": 0,
+     "scaled": 87,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 2,
+     "stats": {
+      "defending": 82,
+      "dribbling": 82,
+      "mental": 82,
+      "pace": 82,
+      "passing": 82,
+      "physical": 82,
+      "shooting": 82
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "שוער",
+     "raw": 87,
+     "rounds": 0,
+     "scaled": 87,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 2,
+     "stats": {
+      "gkConc": 82,
+      "gkFeet": 82,
+      "mental": 82,
+      "physical": 82,
+      "reflexes": 82
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 87,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 87,
+     "pos": "שוער",
+     "raw": 87,
+     "rounds": 0,
+     "scaled": 87,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 2,
+     "stats": {
+      "gkConc": 82,
+      "gkFeet": 82,
+      "mental": 82,
+      "physical": 82,
+      "reflexes": 82
+     },
+     "top": {}
+    }
+   }
+  },
+  "yrw1x5nwyvu": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 88,
+      "dribbling": 90,
+      "mental": 88,
+      "pace": 76,
+      "passing": 77,
+      "physical": 82,
+      "shooting": 87,
+      "stamina": 69
+     },
+     "ovr": 89,
+     "pos": "שחקן שלם",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 69,
+     "stars": 3,
+     "stats": {
+      "defending": 88,
+      "dribbling": 90,
+      "mental": 88,
+      "pace": 76,
+      "passing": 77,
+      "physical": 82,
+      "shooting": 87
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שחקן שלם",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "defending": 92,
+      "dribbling": 90,
+      "mental": 82,
+      "pace": 82,
+      "passing": 82,
+      "physical": 87,
+      "shooting": 91
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 89,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "att",
+      "def"
+     ],
+     "complete": true,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 89,
+     "pos": "שוער",
+     "raw": 89,
+     "rounds": 0,
+     "scaled": 89,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": null,
+     "stars": 3,
+     "stats": {
+      "gkConc": 84,
+      "gkFeet": 84,
+      "mental": 84,
+      "physical": 84,
+      "reflexes": 84
+     },
+     "top": {}
+    }
+   }
+  },
+  "yvzxz01va8o": {
+   "f": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {
+      "defending": 84,
+      "dribbling": 86,
+      "mental": 82,
+      "pace": 87,
+      "passing": 82,
+      "physical": 75,
+      "shooting": 81,
+      "stamina": 93
+     },
+     "ovr": 88,
+     "pos": "מנוע",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "defending": "man",
+      "dribbling": "man",
+      "mental": "man",
+      "pace": "man",
+      "passing": "man",
+      "physical": "man",
+      "shooting": "man"
+     },
+     "stamina": 93,
+     "stars": 2.5,
+     "stats": {
+      "defending": 84,
+      "dribbling": 86,
+      "mental": 82,
+      "pace": 87,
+      "passing": 82,
+      "physical": 75,
+      "shooting": 81
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "pace",
+      "shooting",
+      "passing",
+      "dribbling",
+      "defending",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 88,
+     "pos": "מנוע",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "defending": "card",
+      "dribbling": "card",
+      "mental": "card",
+      "pace": "card",
+      "passing": "card",
+      "physical": "card",
+      "shooting": "card"
+     },
+     "stamina": 90,
+     "stars": 2.5,
+     "stats": {
+      "defending": 81,
+      "dribbling": 81,
+      "mental": 81,
+      "pace": 90,
+      "passing": 81,
+      "physical": 89,
+      "shooting": 81
+     },
+     "top": {}
+    }
+   },
+   "g": {
+    "admin": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 88,
+     "pos": "שוער",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 90,
+     "stars": 2.5,
+     "stats": {
+      "gkConc": 83,
+      "gkFeet": 83,
+      "mental": 83,
+      "physical": 83,
+      "reflexes": 83
+     },
+     "top": {}
+    },
+    "member": {
+     "attS": null,
+     "auto": {},
+     "aw": {
+      "ast": 0,
+      "champ": 0,
+      "mvp": 0,
+      "top": 0
+     },
+     "base": 88,
+     "blendW": 0,
+     "bonus": 0,
+     "capped": false,
+     "cards": [
+      "fit"
+     ],
+     "complete": false,
+     "hist": [],
+     "keys": [
+      "gkConc",
+      "reflexes",
+      "gkFeet",
+      "physical",
+      "mental"
+     ],
+     "man": {},
+     "ovr": 88,
+     "pos": "שוער",
+     "raw": 88,
+     "rounds": 0,
+     "scaled": 88,
+     "src": {
+      "gkConc": "card",
+      "gkFeet": "card",
+      "mental": "card",
+      "physical": "card",
+      "reflexes": "card"
+     },
+     "stamina": 90,
+     "stars": 2.5,
+     "stats": {
+      "gkConc": 83,
+      "gkFeet": 83,
+      "mental": 83,
+      "physical": 83,
+      "reflexes": 83
+     },
+     "top": {}
+    }
+   }
+  }
+ }
+}

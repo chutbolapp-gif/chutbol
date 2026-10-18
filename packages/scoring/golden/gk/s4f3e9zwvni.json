@@ -1,0 +1,19 @@
+{
+ "gkOrder": null,
+ "leagueId": "v2qbymr09us",
+ "nextGk": null,
+ "nextPair": [],
+ "roundId": "s4f3e9zwvni",
+ "status": "setup",
+ "teams": {
+  "5s1iicdwvni": {
+   "auto": null,
+   "counts": {}
+  },
+  "q6ysb89wvni": {
+   "auto": null,
+   "counts": {}
+  }
+ },
+ "voided": false
+}

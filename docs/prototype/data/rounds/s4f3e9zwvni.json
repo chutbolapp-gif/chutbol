@@ -1,0 +1,33 @@
+{
+  "attendees": [
+    "w0k8zrh0och"
+  ],
+  "created": 1792302971454,
+  "id": "s4f3e9zwvni",
+  "leagueId": "v2qbymr09us",
+  "liveId": null,
+  "manualOrder": [],
+  "matches": [],
+  "nextPair": [],
+  "number": 1,
+  "queue": [],
+  "season": "עונה 27/28",
+  "status": "setup",
+  "streak": {},
+  "teams": [
+    {
+      "color": "#3BA7F5",
+      "gk": null,
+      "id": "5s1iicdwvni",
+      "name": "כחולים",
+      "players": []
+    },
+    {
+      "color": "#EF4B4B",
+      "gk": null,
+      "id": "q6ysb89wvni",
+      "name": "אדומים",
+      "players": []
+    }
+  ]
+}

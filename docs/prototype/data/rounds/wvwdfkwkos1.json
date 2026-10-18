@@ -1,0 +1,1678 @@
+{
+  "attendees": [
+    "9vmkqfxwfg6",
+    "acyd628za4z",
+    "3b15k7kxd41",
+    "1pcc3xntq7u",
+    "c3unvq2twnh",
+    "414xzk0xnha",
+    "od6r0b9xqkg",
+    "eu68xcpvg1w",
+    "kx3tc10vmnl",
+    "2i29lvdtl7t",
+    "cd0aqiuw0tj",
+    "lunzvcjz6rw",
+    "7ztgzlhumty",
+    "6kfvvyvuyl1",
+    "sw12v72zxeb"
+  ],
+  "clips": [
+    {
+      "id": "uctlye4jzn2",
+      "kind": "match",
+      "label": "",
+      "mid": "64pzjonfjss",
+      "url": "https://drive.google.com/file/d/1BACaMAZafwgVrziDdgNqRq3wxSIH8Tr3/view?usp=drivesdk"
+    },
+    {
+      "id": "4ayiqzt9bnb",
+      "kind": "round",
+      "label": "",
+      "url": "https://drive.google.com/file/d/1r7xKkK-S5BFH5p9spTQewA-Raaa_nTpc/view?usp=drivesdk"
+    }
+  ],
+  "created": 1791900974449,
+  "gotrCountdown": true,
+  "gotrOrder": [
+    "b63gebwoub5",
+    "fu4blccn81b",
+    "2axg6ie4ldn",
+    "9ngzipxccny",
+    "4k4n2p6utnm"
+  ],
+  "hlTl": {
+    "at": 1792059878454,
+    "name": "soccerfriends-round6.mp4",
+    "tl": [
+      {
+        "a": "2i29lvdtl7t",
+        "e": "fu4blccn81b",
+        "m": "64pzjonfjss",
+        "n": 2,
+        "p": "c3unvq2twnh",
+        "t": 9.5,
+        "type": "goal"
+      },
+      {
+        "a": null,
+        "e": "2axg6ie4ldn",
+        "m": "i899fvbuzrf",
+        "n": 3,
+        "p": "1pcc3xntq7u",
+        "t": 19.6,
+        "type": "goal"
+      },
+      {
+        "a": null,
+        "e": "titnf66m0zk",
+        "m": "j89qjigky3u",
+        "n": 5,
+        "p": "eu68xcpvg1w",
+        "t": 29.6,
+        "type": "goal"
+      },
+      {
+        "a": "acyd628za4z",
+        "e": "lfpw0d2nxd5",
+        "m": "j89qjigky3u",
+        "n": 5,
+        "p": "kx3tc10vmnl",
+        "t": 39.7,
+        "type": "goal"
+      },
+      {
+        "a": "od6r0b9xqkg",
+        "e": "4u76k6cuehg",
+        "m": "j89qjigky3u",
+        "n": 5,
+        "p": "3b15k7kxd41",
+        "t": 49.7,
+        "type": "goal"
+      },
+      {
+        "a": null,
+        "e": "q68rczpcim7",
+        "m": "wchmiiv8g2p",
+        "n": 7,
+        "p": "acyd628za4z",
+        "t": 59.7,
+        "type": "goal"
+      },
+      {
+        "a": "7ztgzlhumty",
+        "e": "z3dzp54dmqq",
+        "m": "wchmiiv8g2p",
+        "n": 7,
+        "p": "lunzvcjz6rw",
+        "t": 69.8,
+        "type": "goal"
+      },
+      {
+        "a": null,
+        "e": "d3bebrbisy1",
+        "m": "wchmiiv8g2p",
+        "n": 7,
+        "p": "c3unvq2twnh",
+        "t": 79.8,
+        "type": "goal"
+      },
+      {
+        "a": "cd0aqiuw0tj",
+        "e": "eyumh7noth7",
+        "m": "3mvpp8kkaqn",
+        "n": 8,
+        "p": "c3unvq2twnh",
+        "t": 89.8,
+        "type": "goal"
+      },
+      {
+        "a": "414xzk0xnha",
+        "e": "4k4n2p6utnm",
+        "m": "3mvpp8kkaqn",
+        "n": 8,
+        "p": "eu68xcpvg1w",
+        "t": 99.9,
+        "type": "goal"
+      },
+      {
+        "a": "kx3tc10vmnl",
+        "e": "vtv0lbo6074",
+        "m": "6tpyc7nzeh6",
+        "n": 9,
+        "p": "c3unvq2twnh",
+        "t": 109.9,
+        "type": "goal"
+      },
+      {
+        "a": "7ztgzlhumty",
+        "e": "mdlzz6o6f5h",
+        "m": "6tpyc7nzeh6",
+        "n": 9,
+        "p": "lunzvcjz6rw",
+        "t": 120,
+        "type": "goal"
+      },
+      {
+        "a": "lunzvcjz6rw",
+        "e": "3rnymouhjmp",
+        "m": "w425xkgehyu",
+        "n": 10,
+        "p": "9vmkqfxwfg6",
+        "t": 130,
+        "type": "goal"
+      },
+      {
+        "a": null,
+        "e": "pus5braj4kf",
+        "m": "w425xkgehyu",
+        "n": 10,
+        "p": "414xzk0xnha",
+        "t": 140,
+        "type": "goal"
+      },
+      {
+        "a": "414xzk0xnha",
+        "e": "aweqp44xn7l",
+        "m": "5yxltacqust",
+        "n": 11,
+        "p": "od6r0b9xqkg",
+        "t": 150.1,
+        "type": "goal"
+      },
+      {
+        "a": null,
+        "e": "ca0wb8gybwb",
+        "m": "5yxltacqust",
+        "n": 11,
+        "p": "cd0aqiuw0tj",
+        "t": 160.1,
+        "type": "goal"
+      },
+      {
+        "a": "acyd628za4z",
+        "e": "9ngzipxccny",
+        "m": "it3gjzw4vu6",
+        "n": 12,
+        "p": "kx3tc10vmnl",
+        "t": 170.1,
+        "type": "goal"
+      },
+      {
+        "a": "1pcc3xntq7u",
+        "e": "9h9t78mfyv3",
+        "m": "it3gjzw4vu6",
+        "n": 12,
+        "p": "9vmkqfxwfg6",
+        "t": 180.2,
+        "type": "goal"
+      },
+      {
+        "a": "7ztgzlhumty",
+        "e": "3fv70omlk8q",
+        "m": "zazdsdrk7z5",
+        "n": 13,
+        "p": "1pcc3xntq7u",
+        "t": 190.2,
+        "type": "goal"
+      },
+      {
+        "a": "eu68xcpvg1w",
+        "e": "oixyf5js7zu",
+        "m": "zazdsdrk7z5",
+        "n": 13,
+        "p": "sw12v72zxeb",
+        "t": 200.2,
+        "type": "goal"
+      },
+      {
+        "a": "eu68xcpvg1w",
+        "e": "jbxipis53d5",
+        "m": "n8davpe2089",
+        "n": 14,
+        "p": "414xzk0xnha",
+        "t": 210.2,
+        "type": "goal"
+      },
+      {
+        "a": "3b15k7kxd41",
+        "e": "77l1qws6n1y",
+        "m": "n8davpe2089",
+        "n": 14,
+        "p": "414xzk0xnha",
+        "t": 220.3,
+        "type": "goal"
+      },
+      {
+        "a": "3b15k7kxd41",
+        "e": "9lry0fcjwd8",
+        "m": "bumacsoa3mz",
+        "n": 15,
+        "p": "414xzk0xnha",
+        "t": 230.3,
+        "type": "goal"
+      },
+      {
+        "a": "9vmkqfxwfg6",
+        "e": "dcpr9twnmrz",
+        "m": "bumacsoa3mz",
+        "n": 15,
+        "p": "lunzvcjz6rw",
+        "t": 240.3,
+        "type": "goal"
+      },
+      {
+        "a": "1pcc3xntq7u",
+        "e": "b63gebwoub5",
+        "m": "bumacsoa3mz",
+        "n": 15,
+        "p": "lunzvcjz6rw",
+        "t": 250.3,
+        "type": "goal"
+      }
+    ]
+  },
+  "id": "wvwdfkwkos1",
+  "lastGk": {
+    "eodwllgkos2": "6kfvvyvuyl1",
+    "ovscw0ekos2": "eu68xcpvg1w",
+    "uafr8yekos2": "kx3tc10vmnl"
+  },
+  "leagueId": "27yhw7ktexr",
+  "liveId": null,
+  "manualOrder": [],
+  "matches": [
+    {
+      "away": "ovscw0ekos2",
+      "dur": 7,
+      "endedAt": 1791999557461,
+      "events": [
+        {
+          "at": 1791999197714,
+          "id": "nfxdle41yc2",
+          "in": "cd0aqiuw0tj",
+          "min": 3,
+          "out": "od6r0b9xqkg",
+          "team": "ovscw0ekos2",
+          "type": "sub",
+          "wasGk": false
+        },
+        {
+          "at": 1791999202717,
+          "id": "epvce8r2270",
+          "min": 3,
+          "p": "cd0aqiuw0tj",
+          "prev": "eu68xcpvg1w",
+          "team": "ovscw0ekos2",
+          "type": "gk"
+        },
+        {
+          "at": 1791999308720,
+          "id": "ot6700q4bzk",
+          "min": 4,
+          "p": "eu68xcpvg1w",
+          "prev": "cd0aqiuw0tj",
+          "team": "ovscw0ekos2",
+          "type": "gk"
+        },
+        {
+          "at": 1791999323653,
+          "id": "fq0qnti4nid",
+          "in": "od6r0b9xqkg",
+          "min": 4,
+          "out": "cd0aqiuw0tj",
+          "team": "ovscw0ekos2",
+          "type": "sub",
+          "wasGk": false
+        },
+        {
+          "at": 1791999425398,
+          "id": "mdmmego6u0l",
+          "min": 6,
+          "p": "6kfvvyvuyl1",
+          "team": "eodwllgkos2",
+          "type": "key"
+        },
+        {
+          "at": 1791999499756,
+          "id": "h6de36h8fe4",
+          "min": 7,
+          "p": "kx3tc10vmnl",
+          "team": "eodwllgkos2",
+          "type": "save"
+        }
+      ],
+      "gk0": {
+        "eodwllgkos2": "kx3tc10vmnl",
+        "ovscw0ekos2": "eu68xcpvg1w"
+      },
+      "home": "eodwllgkos2",
+      "id": "9ecxi9sysvm",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "kx3tc10vmnl",
+          "on": [
+            "kx3tc10vmnl",
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "ovscw0ekos2": {
+          "gk": "eu68xcpvg1w",
+          "on": [
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        }
+      },
+      "n": 1,
+      "ratings": {
+        "1pcc3xntq7u": 5,
+        "3b15k7kxd41": 5,
+        "414xzk0xnha": 5,
+        "6kfvvyvuyl1": 5,
+        "7ztgzlhumty": 5,
+        "9vmkqfxwfg6": 5,
+        "cd0aqiuw0tj": 5,
+        "eu68xcpvg1w": 6.5,
+        "kx3tc10vmnl": 7,
+        "lunzvcjz6rw": 5,
+        "od6r0b9xqkg": 5,
+        "sw12v72zxeb": 5
+      },
+      "startedAt": 1791999050674,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 340,
+        "ovscw0ekos2": 240
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 19,
+      "vidUrl": "https://drive.google.com/file/d/1P1TBbW4zRRFmQaEqDjjIej3x4AVbp5s0/view"
+    },
+    {
+      "away": "ovscw0ekos2",
+      "dur": 7,
+      "endedAt": 1792000454343,
+      "events": [
+        {
+          "a": "2i29lvdtl7t",
+          "at": 1792000174697,
+          "gka": "6kfvvyvuyl1",
+          "id": "fu4blccn81b",
+          "min": 6,
+          "p": "c3unvq2twnh",
+          "pen": false,
+          "team": "uafr8yekos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "ovscw0ekos2": "6kfvvyvuyl1",
+        "uafr8yekos2": "acyd628za4z"
+      },
+      "home": "uafr8yekos2",
+      "id": "64pzjonfjss",
+      "lu": {
+        "ovscw0ekos2": {
+          "gk": "6kfvvyvuyl1",
+          "on": [
+            "6kfvvyvuyl1",
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        },
+        "uafr8yekos2": {
+          "gk": "acyd628za4z",
+          "on": [
+            "kx3tc10vmnl",
+            "cd0aqiuw0tj",
+            "2i29lvdtl7t",
+            "c3unvq2twnh",
+            "acyd628za4z"
+          ]
+        }
+      },
+      "n": 2,
+      "ratings": {
+        "2i29lvdtl7t": 6,
+        "3b15k7kxd41": 4.5,
+        "414xzk0xnha": 4.5,
+        "6kfvvyvuyl1": 4,
+        "acyd628za4z": 7,
+        "c3unvq2twnh": 6.5,
+        "cd0aqiuw0tj": 5.5,
+        "eu68xcpvg1w": 4.5,
+        "kx3tc10vmnl": 5.5,
+        "od6r0b9xqkg": 4.5,
+        "sw12v72zxeb": 4.5
+      },
+      "startedAt": 1791999832060,
+      "status": "done",
+      "str": {
+        "ovscw0ekos2": 260,
+        "uafr8yekos2": 250
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 25,
+      "vidSplit": 533,
+      "vidUrl": "https://drive.google.com/file/d/15awu_7wlcEPiZ6vEWcofhAnaCCkvZhIs/view",
+      "vidUrl2": "https://drive.google.com/file/d/1LvgNNLVFh56nmKU64dnzQTF10_KyWUHV/view"
+    },
+    {
+      "away": "eodwllgkos2",
+      "dur": 7,
+      "endedAt": 1792001127606,
+      "events": [
+        {
+          "a": null,
+          "at": 1792000974397,
+          "gka": "c3unvq2twnh",
+          "id": "2axg6ie4ldn",
+          "min": 6,
+          "p": "1pcc3xntq7u",
+          "pen": false,
+          "team": "eodwllgkos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "eodwllgkos2": "7ztgzlhumty",
+        "uafr8yekos2": "c3unvq2twnh"
+      },
+      "home": "uafr8yekos2",
+      "id": "i899fvbuzrf",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "7ztgzlhumty",
+          "on": [
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "uafr8yekos2": {
+          "gk": "c3unvq2twnh",
+          "on": [
+            "kx3tc10vmnl",
+            "cd0aqiuw0tj",
+            "2i29lvdtl7t",
+            "c3unvq2twnh",
+            "acyd628za4z"
+          ]
+        }
+      },
+      "n": 3,
+      "ratings": {
+        "1pcc3xntq7u": 6.5,
+        "2i29lvdtl7t": 4.5,
+        "6kfvvyvuyl1": 5.5,
+        "7ztgzlhumty": 7,
+        "9vmkqfxwfg6": 5.5,
+        "acyd628za4z": 4.5,
+        "c3unvq2twnh": 4,
+        "cd0aqiuw0tj": 4.5,
+        "kx3tc10vmnl": 4.5,
+        "lunzvcjz6rw": 5.5
+      },
+      "startedAt": 1792000552588,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 240,
+        "uafr8yekos2": 250
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 33,
+      "vidSplit": 394,
+      "vidUrl": "https://drive.google.com/file/d/1CMHMI6K9LuByOQjyvJgGM-X1EFK7WKEE/view",
+      "vidUrl2": "https://drive.google.com/file/d/1fSlzLqDNPbCrwv2ztYb3DZYAZNW2ZtjZ/view"
+    },
+    {
+      "away": "ovscw0ekos2",
+      "dur": 7,
+      "endedAt": 1792001696309,
+      "events": [
+        {
+          "at": 1792001399423,
+          "id": "14pcifwd56n",
+          "min": 3,
+          "p": "3b15k7kxd41",
+          "team": "ovscw0ekos2",
+          "type": "save"
+        }
+      ],
+      "gk0": {
+        "eodwllgkos2": "lunzvcjz6rw",
+        "ovscw0ekos2": "3b15k7kxd41"
+      },
+      "home": "eodwllgkos2",
+      "id": "u0437ll92vc",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "lunzvcjz6rw",
+          "on": [
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "ovscw0ekos2": {
+          "gk": "3b15k7kxd41",
+          "on": [
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        }
+      },
+      "n": 4,
+      "ratings": {
+        "1pcc3xntq7u": 5,
+        "3b15k7kxd41": 7,
+        "414xzk0xnha": 5,
+        "6kfvvyvuyl1": 5,
+        "7ztgzlhumty": 5,
+        "9vmkqfxwfg6": 5,
+        "eu68xcpvg1w": 5,
+        "lunzvcjz6rw": 6.5,
+        "od6r0b9xqkg": 5,
+        "sw12v72zxeb": 5
+      },
+      "startedAt": 1792001209801,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 240,
+        "ovscw0ekos2": 240
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 3,
+      "vidUrl": "https://drive.google.com/file/d/1stGJ179MC8rXYQl3hPFWZyodeabCpeYF/view"
+    },
+    {
+      "away": "uafr8yekos2",
+      "dur": 7,
+      "endedAt": 1792002208321,
+      "events": [
+        {
+          "a": null,
+          "at": 1792001793685,
+          "gka": "cd0aqiuw0tj",
+          "id": "titnf66m0zk",
+          "min": 1,
+          "p": "eu68xcpvg1w",
+          "pen": false,
+          "team": "ovscw0ekos2",
+          "type": "goal"
+        },
+        {
+          "a": "acyd628za4z",
+          "at": 1792001892388,
+          "gka": "414xzk0xnha",
+          "id": "lfpw0d2nxd5",
+          "min": 2,
+          "p": "kx3tc10vmnl",
+          "pen": false,
+          "team": "uafr8yekos2",
+          "type": "goal"
+        },
+        {
+          "a": "od6r0b9xqkg",
+          "at": 1792002196143,
+          "gka": "cd0aqiuw0tj",
+          "id": "4u76k6cuehg",
+          "min": 6,
+          "p": "3b15k7kxd41",
+          "pen": false,
+          "team": "ovscw0ekos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "ovscw0ekos2": "414xzk0xnha",
+        "uafr8yekos2": "cd0aqiuw0tj"
+      },
+      "home": "ovscw0ekos2",
+      "id": "j89qjigky3u",
+      "lu": {
+        "ovscw0ekos2": {
+          "gk": "414xzk0xnha",
+          "on": [
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        },
+        "uafr8yekos2": {
+          "gk": "cd0aqiuw0tj",
+          "on": [
+            "kx3tc10vmnl",
+            "cd0aqiuw0tj",
+            "2i29lvdtl7t",
+            "c3unvq2twnh",
+            "acyd628za4z"
+          ]
+        }
+      },
+      "n": 5,
+      "ratings": {
+        "2i29lvdtl7t": 4.5,
+        "3b15k7kxd41": 6.5,
+        "414xzk0xnha": 5,
+        "acyd628za4z": 5,
+        "c3unvq2twnh": 4.5,
+        "cd0aqiuw0tj": 4,
+        "eu68xcpvg1w": 6.5,
+        "kx3tc10vmnl": 5.5,
+        "od6r0b9xqkg": 6,
+        "sw12v72zxeb": 5.5
+      },
+      "startedAt": 1792001763499,
+      "status": "done",
+      "str": {
+        "ovscw0ekos2": 240,
+        "uafr8yekos2": 250
+      },
+      "timer": {
+        "acc": 337440,
+        "run": false
+      },
+      "vidOff": 2,
+      "vidUrl": "https://drive.google.com/file/d/1dEc22rZZB3a3m60dCrR0y8lIHx6vMYA9/view"
+    },
+    {
+      "away": "eodwllgkos2",
+      "dur": 7,
+      "endedAt": 1792002774273,
+      "events": [],
+      "gk0": {
+        "eodwllgkos2": "6kfvvyvuyl1",
+        "ovscw0ekos2": "kx3tc10vmnl"
+      },
+      "home": "ovscw0ekos2",
+      "id": "5c70ebuvs8h",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "6kfvvyvuyl1",
+          "on": [
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "ovscw0ekos2": {
+          "gk": "kx3tc10vmnl",
+          "on": [
+            "kx3tc10vmnl",
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        }
+      },
+      "n": 6,
+      "ratings": {
+        "1pcc3xntq7u": 5,
+        "3b15k7kxd41": 5,
+        "414xzk0xnha": 5,
+        "6kfvvyvuyl1": 6.5,
+        "7ztgzlhumty": 5,
+        "9vmkqfxwfg6": 5,
+        "eu68xcpvg1w": 5,
+        "kx3tc10vmnl": 6.5,
+        "lunzvcjz6rw": 5,
+        "od6r0b9xqkg": 5,
+        "sw12v72zxeb": 5
+      },
+      "startedAt": 1792002269105,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 240,
+        "ovscw0ekos2": 340
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 5,
+      "vidUrl": "https://drive.google.com/file/d/1JWvpp53sXub0_eH_FwwfCWlOZC_6X_sT/view"
+    },
+    {
+      "away": "uafr8yekos2",
+      "dur": 7,
+      "endedAt": 1792003350177,
+      "events": [
+        {
+          "a": null,
+          "at": 1792003030112,
+          "gka": "414xzk0xnha",
+          "id": "q68rczpcim7",
+          "min": 4,
+          "p": "acyd628za4z",
+          "pen": false,
+          "team": "uafr8yekos2",
+          "type": "goal"
+        },
+        {
+          "a": "7ztgzlhumty",
+          "at": 1792003084045,
+          "gka": "kx3tc10vmnl",
+          "id": "z3dzp54dmqq",
+          "min": 4,
+          "p": "lunzvcjz6rw",
+          "pen": false,
+          "team": "eodwllgkos2",
+          "type": "goal"
+        },
+        {
+          "a": "cd0aqiuw0tj",
+          "at": 1792003332259,
+          "gka": "414xzk0xnha",
+          "id": "d3bebrbisy1",
+          "min": 8,
+          "p": "c3unvq2twnh",
+          "pen": false,
+          "team": "uafr8yekos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "eodwllgkos2": "414xzk0xnha",
+        "uafr8yekos2": "kx3tc10vmnl"
+      },
+      "home": "eodwllgkos2",
+      "id": "wchmiiv8g2p",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "414xzk0xnha",
+          "on": [
+            "414xzk0xnha",
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "uafr8yekos2": {
+          "gk": "kx3tc10vmnl",
+          "on": [
+            "kx3tc10vmnl",
+            "cd0aqiuw0tj",
+            "2i29lvdtl7t",
+            "c3unvq2twnh",
+            "acyd628za4z"
+          ]
+        }
+      },
+      "n": 7,
+      "ratings": {
+        "1pcc3xntq7u": 4.5,
+        "2i29lvdtl7t": 5.5,
+        "414xzk0xnha": 4,
+        "6kfvvyvuyl1": 4.5,
+        "7ztgzlhumty": 5,
+        "9vmkqfxwfg6": 4.5,
+        "acyd628za4z": 6.5,
+        "c3unvq2twnh": 8.5,
+        "cd0aqiuw0tj": 7,
+        "kx3tc10vmnl": 5,
+        "lunzvcjz6rw": 5.5
+      },
+      "startedAt": 1792002859873,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 310,
+        "uafr8yekos2": 250
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 0,
+      "vidUrl": "https://drive.google.com/file/d/1vxzSiA7QAgV4TP1nnyWr5PuzzQUZ8Hlv/view"
+    },
+    {
+      "away": "ovscw0ekos2",
+      "dur": 7,
+      "endedAt": 1792003934184,
+      "events": [
+        {
+          "a": "cd0aqiuw0tj",
+          "at": 1792003611668,
+          "gka": "eu68xcpvg1w",
+          "id": "eyumh7noth7",
+          "min": 4,
+          "p": "c3unvq2twnh",
+          "pen": false,
+          "team": "uafr8yekos2",
+          "type": "goal"
+        },
+        {
+          "at": 1792003714835,
+          "id": "naarqqbqrrn",
+          "min": 5,
+          "p": "6kfvvyvuyl1",
+          "team": "uafr8yekos2",
+          "type": "save"
+        },
+        {
+          "at": 1792003743953,
+          "id": "cpgel77re8h",
+          "min": 6,
+          "p": "6kfvvyvuyl1",
+          "team": "uafr8yekos2",
+          "type": "save"
+        },
+        {
+          "at": 1792003804223,
+          "id": "c6vqudvsoqn",
+          "min": 7,
+          "p": "6kfvvyvuyl1",
+          "team": "uafr8yekos2",
+          "type": "save"
+        },
+        {
+          "a": "414xzk0xnha",
+          "at": 1792003875511,
+          "gka": "6kfvvyvuyl1",
+          "id": "4k4n2p6utnm",
+          "min": 8,
+          "p": "eu68xcpvg1w",
+          "pen": false,
+          "team": "ovscw0ekos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "ovscw0ekos2": "eu68xcpvg1w",
+        "uafr8yekos2": "6kfvvyvuyl1"
+      },
+      "home": "uafr8yekos2",
+      "id": "3mvpp8kkaqn",
+      "lu": {
+        "ovscw0ekos2": {
+          "gk": "eu68xcpvg1w",
+          "on": [
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        },
+        "uafr8yekos2": {
+          "gk": "6kfvvyvuyl1",
+          "on": [
+            "6kfvvyvuyl1",
+            "kx3tc10vmnl",
+            "cd0aqiuw0tj",
+            "2i29lvdtl7t",
+            "c3unvq2twnh",
+            "acyd628za4z"
+          ]
+        }
+      },
+      "n": 8,
+      "ratings": {
+        "2i29lvdtl7t": 5,
+        "3b15k7kxd41": 5,
+        "414xzk0xnha": 5.5,
+        "6kfvvyvuyl1": 6,
+        "acyd628za4z": 5,
+        "c3unvq2twnh": 6,
+        "cd0aqiuw0tj": 5.5,
+        "eu68xcpvg1w": 5.5,
+        "kx3tc10vmnl": 5,
+        "od6r0b9xqkg": 5,
+        "sw12v72zxeb": 5
+      },
+      "startedAt": 1792003412832,
+      "status": "done",
+      "str": {
+        "ovscw0ekos2": 240,
+        "uafr8yekos2": 270
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 7,
+      "vidUrl": "https://drive.google.com/file/d/1QMR7Ut-Jjw_uHiUwQUc9zKujGtgyQSwR/view"
+    },
+    {
+      "away": "eodwllgkos2",
+      "dur": 7,
+      "endedAt": 1792004625072,
+      "events": [
+        {
+          "a": "kx3tc10vmnl",
+          "at": 1792004411829,
+          "gka": "414xzk0xnha",
+          "id": "vtv0lbo6074",
+          "min": 5,
+          "p": "c3unvq2twnh",
+          "pen": false,
+          "team": "uafr8yekos2",
+          "type": "goal"
+        },
+        {
+          "a": "7ztgzlhumty",
+          "at": 1792004433452,
+          "gka": "acyd628za4z",
+          "id": "mdlzz6o6f5h",
+          "min": 5,
+          "p": "lunzvcjz6rw",
+          "pen": false,
+          "team": "eodwllgkos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "eodwllgkos2": "414xzk0xnha",
+        "uafr8yekos2": "acyd628za4z"
+      },
+      "home": "uafr8yekos2",
+      "id": "6tpyc7nzeh6",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "414xzk0xnha",
+          "on": [
+            "414xzk0xnha",
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "uafr8yekos2": {
+          "gk": "acyd628za4z",
+          "on": [
+            "kx3tc10vmnl",
+            "cd0aqiuw0tj",
+            "2i29lvdtl7t",
+            "c3unvq2twnh",
+            "acyd628za4z"
+          ]
+        }
+      },
+      "n": 9,
+      "ratings": {
+        "1pcc3xntq7u": 5,
+        "2i29lvdtl7t": 5,
+        "414xzk0xnha": 4.5,
+        "6kfvvyvuyl1": 5,
+        "7ztgzlhumty": 5.5,
+        "9vmkqfxwfg6": 5,
+        "acyd628za4z": 4.5,
+        "c3unvq2twnh": 6,
+        "cd0aqiuw0tj": 5,
+        "kx3tc10vmnl": 5.5,
+        "lunzvcjz6rw": 6
+      },
+      "startedAt": 1792004117514,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 310,
+        "uafr8yekos2": 250
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 42,
+      "vidUrl": "https://drive.google.com/file/d/1i7ZackoJirjN6EPzidETJpRuf20wYOVR/view"
+    },
+    {
+      "away": "ovscw0ekos2",
+      "dur": 7,
+      "endedAt": 1792005303734,
+      "events": [
+        {
+          "a": "lunzvcjz6rw",
+          "at": 1792004959263,
+          "gka": "kx3tc10vmnl",
+          "id": "3rnymouhjmp",
+          "min": 3,
+          "p": "9vmkqfxwfg6",
+          "pen": false,
+          "team": "eodwllgkos2",
+          "type": "goal"
+        },
+        {
+          "a": null,
+          "at": 1792005021409,
+          "gka": "7ztgzlhumty",
+          "id": "pus5braj4kf",
+          "min": 4,
+          "p": "414xzk0xnha",
+          "pen": false,
+          "team": "ovscw0ekos2",
+          "type": "goal"
+        },
+        {
+          "at": 1792005140101,
+          "id": "cveezfxlbid",
+          "min": 5,
+          "p": "1pcc3xntq7u",
+          "prev": "7ztgzlhumty",
+          "team": "eodwllgkos2",
+          "type": "gk"
+        }
+      ],
+      "gk0": {
+        "eodwllgkos2": "7ztgzlhumty",
+        "ovscw0ekos2": "kx3tc10vmnl"
+      },
+      "home": "eodwllgkos2",
+      "id": "w425xkgehyu",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "1pcc3xntq7u",
+          "on": [
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "ovscw0ekos2": {
+          "gk": "kx3tc10vmnl",
+          "on": [
+            "kx3tc10vmnl",
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        }
+      },
+      "n": 10,
+      "ratings": {
+        "1pcc3xntq7u": 5.5,
+        "3b15k7kxd41": 5,
+        "414xzk0xnha": 6,
+        "6kfvvyvuyl1": 5,
+        "7ztgzlhumty": 4.5,
+        "9vmkqfxwfg6": 6,
+        "eu68xcpvg1w": 5,
+        "kx3tc10vmnl": 4.5,
+        "lunzvcjz6rw": 5.5,
+        "od6r0b9xqkg": 5,
+        "sw12v72zxeb": 5
+      },
+      "startedAt": 1792004821879,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 240,
+        "ovscw0ekos2": 340
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 4,
+      "vidUrl": "https://drive.google.com/file/d/1jJoMg4IXrNzgEzRPZydElHagGfr5YyDl/view"
+    },
+    {
+      "away": "uafr8yekos2",
+      "dur": 7,
+      "endedAt": 1792005911254,
+      "events": [
+        {
+          "at": 1792005472059,
+          "id": "8ebzbx4sfnf",
+          "min": 2,
+          "p": "3b15k7kxd41",
+          "team": "ovscw0ekos2",
+          "type": "save"
+        },
+        {
+          "a": "414xzk0xnha",
+          "at": 1792005702106,
+          "gka": "c3unvq2twnh",
+          "id": "aweqp44xn7l",
+          "min": 5,
+          "p": "od6r0b9xqkg",
+          "pen": false,
+          "team": "ovscw0ekos2",
+          "type": "goal"
+        },
+        {
+          "a": null,
+          "at": 1792005744715,
+          "gka": "3b15k7kxd41",
+          "id": "ca0wb8gybwb",
+          "min": 6,
+          "p": "cd0aqiuw0tj",
+          "pen": false,
+          "team": "uafr8yekos2",
+          "type": "goal"
+        },
+        {
+          "at": 1792005805056,
+          "id": "1kg3u09zklc",
+          "min": 7,
+          "p": "3b15k7kxd41",
+          "team": "ovscw0ekos2",
+          "type": "save"
+        }
+      ],
+      "gk0": {
+        "ovscw0ekos2": "3b15k7kxd41",
+        "uafr8yekos2": "c3unvq2twnh"
+      },
+      "home": "ovscw0ekos2",
+      "id": "5yxltacqust",
+      "lu": {
+        "ovscw0ekos2": {
+          "gk": "3b15k7kxd41",
+          "on": [
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        },
+        "uafr8yekos2": {
+          "gk": "c3unvq2twnh",
+          "on": [
+            "kx3tc10vmnl",
+            "cd0aqiuw0tj",
+            "2i29lvdtl7t",
+            "c3unvq2twnh",
+            "acyd628za4z"
+          ]
+        }
+      },
+      "n": 11,
+      "ratings": {
+        "2i29lvdtl7t": 5,
+        "3b15k7kxd41": 5.5,
+        "414xzk0xnha": 5.5,
+        "acyd628za4z": 5,
+        "c3unvq2twnh": 4.5,
+        "cd0aqiuw0tj": 6,
+        "eu68xcpvg1w": 5,
+        "kx3tc10vmnl": 5,
+        "od6r0b9xqkg": 6,
+        "sw12v72zxeb": 5
+      },
+      "startedAt": 1792005398382,
+      "status": "done",
+      "str": {
+        "ovscw0ekos2": 240,
+        "uafr8yekos2": 250
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 23,
+      "vidUrl": "https://drive.google.com/file/d/1F019UCFDdUh8xd6o4EylZvG-F9GLcBZt/view"
+    },
+    {
+      "away": "eodwllgkos2",
+      "dur": 7,
+      "endedAt": 1792006656386,
+      "events": [
+        {
+          "a": "acyd628za4z",
+          "at": 1792006349611,
+          "gka": "414xzk0xnha",
+          "id": "9ngzipxccny",
+          "min": 5,
+          "p": "kx3tc10vmnl",
+          "pen": false,
+          "team": "uafr8yekos2",
+          "type": "goal"
+        },
+        {
+          "a": "1pcc3xntq7u",
+          "at": 1792006552455,
+          "gka": "cd0aqiuw0tj",
+          "id": "9h9t78mfyv3",
+          "min": 8,
+          "p": "9vmkqfxwfg6",
+          "pen": false,
+          "team": "eodwllgkos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "eodwllgkos2": "414xzk0xnha",
+        "uafr8yekos2": "cd0aqiuw0tj"
+      },
+      "home": "uafr8yekos2",
+      "id": "it3gjzw4vu6",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "414xzk0xnha",
+          "on": [
+            "414xzk0xnha",
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "uafr8yekos2": {
+          "gk": "cd0aqiuw0tj",
+          "on": [
+            "kx3tc10vmnl",
+            "cd0aqiuw0tj",
+            "2i29lvdtl7t",
+            "c3unvq2twnh",
+            "acyd628za4z"
+          ]
+        }
+      },
+      "n": 12,
+      "ratings": {
+        "1pcc3xntq7u": 5.5,
+        "2i29lvdtl7t": 5,
+        "414xzk0xnha": 4.5,
+        "6kfvvyvuyl1": 5,
+        "7ztgzlhumty": 5,
+        "9vmkqfxwfg6": 6,
+        "acyd628za4z": 5.5,
+        "c3unvq2twnh": 5,
+        "cd0aqiuw0tj": 4.5,
+        "kx3tc10vmnl": 6,
+        "lunzvcjz6rw": 5
+      },
+      "startedAt": 1792006052910,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 310,
+        "uafr8yekos2": 250
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 9,
+      "vidUrl": "https://drive.google.com/file/d/1E2oF8mEJishRj41Hc6dJhqIBthcuSSrg/view"
+    },
+    {
+      "away": "ovscw0ekos2",
+      "dur": 7,
+      "endedAt": 1792007458885,
+      "events": [
+        {
+          "a": "7ztgzlhumty",
+          "at": 1792006814364,
+          "gka": "414xzk0xnha",
+          "id": "3fv70omlk8q",
+          "min": 1,
+          "p": "1pcc3xntq7u",
+          "pen": false,
+          "team": "eodwllgkos2",
+          "type": "goal"
+        },
+        {
+          "a": "eu68xcpvg1w",
+          "at": 1792007129328,
+          "gka": "6kfvvyvuyl1",
+          "id": "oixyf5js7zu",
+          "min": 3,
+          "p": "sw12v72zxeb",
+          "pen": false,
+          "team": "ovscw0ekos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "eodwllgkos2": "6kfvvyvuyl1",
+        "ovscw0ekos2": "414xzk0xnha"
+      },
+      "home": "eodwllgkos2",
+      "id": "zazdsdrk7z5",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "6kfvvyvuyl1",
+          "on": [
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "ovscw0ekos2": {
+          "gk": "414xzk0xnha",
+          "on": [
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        }
+      },
+      "n": 13,
+      "ratings": {
+        "1pcc3xntq7u": 6,
+        "3b15k7kxd41": 5,
+        "414xzk0xnha": 4.5,
+        "6kfvvyvuyl1": 4.5,
+        "7ztgzlhumty": 5.5,
+        "9vmkqfxwfg6": 5,
+        "eu68xcpvg1w": 5.5,
+        "lunzvcjz6rw": 5,
+        "od6r0b9xqkg": 5,
+        "sw12v72zxeb": 6
+      },
+      "startedAt": 1792006768482,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 240,
+        "ovscw0ekos2": 240
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 47,
+      "vidSplit": 259,
+      "vidUrl": "https://drive.google.com/file/d/1ksHwWExqjiwf2nn6mWg6IXYRoEm6cIJH/view",
+      "vidUrl2": "https://drive.google.com/file/d/1Wz6CZFAH5nxASCs8BFyB5TOV69okCVog/view"
+    },
+    {
+      "away": "uafr8yekos2",
+      "dur": 7,
+      "endedAt": 1792007818422,
+      "events": [
+        {
+          "at": 1792007683839,
+          "id": "dt03yqi3u9r",
+          "min": 2,
+          "p": "6kfvvyvuyl1",
+          "team": "ovscw0ekos2",
+          "type": "save"
+        },
+        {
+          "a": "eu68xcpvg1w",
+          "at": 1792007737579,
+          "gka": "kx3tc10vmnl",
+          "id": "jbxipis53d5",
+          "min": 3,
+          "p": "414xzk0xnha",
+          "pen": false,
+          "team": "ovscw0ekos2",
+          "type": "goal"
+        },
+        {
+          "a": "3b15k7kxd41",
+          "at": 1792007808840,
+          "gka": "kx3tc10vmnl",
+          "id": "77l1qws6n1y",
+          "min": 4,
+          "p": "414xzk0xnha",
+          "pen": false,
+          "team": "ovscw0ekos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "ovscw0ekos2": "6kfvvyvuyl1",
+        "uafr8yekos2": "kx3tc10vmnl"
+      },
+      "home": "ovscw0ekos2",
+      "id": "n8davpe2089",
+      "lu": {
+        "ovscw0ekos2": {
+          "gk": "6kfvvyvuyl1",
+          "on": [
+            "6kfvvyvuyl1",
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        },
+        "uafr8yekos2": {
+          "gk": "kx3tc10vmnl",
+          "on": [
+            "kx3tc10vmnl",
+            "cd0aqiuw0tj",
+            "2i29lvdtl7t",
+            "c3unvq2twnh",
+            "acyd628za4z"
+          ]
+        }
+      },
+      "n": 14,
+      "ratings": {
+        "2i29lvdtl7t": 4,
+        "3b15k7kxd41": 7,
+        "414xzk0xnha": 8.5,
+        "6kfvvyvuyl1": 7.5,
+        "acyd628za4z": 4,
+        "c3unvq2twnh": 4,
+        "cd0aqiuw0tj": 4,
+        "eu68xcpvg1w": 7,
+        "kx3tc10vmnl": 4,
+        "od6r0b9xqkg": 6.5,
+        "sw12v72zxeb": 6.5
+      },
+      "startedAt": 1792007598249,
+      "status": "done",
+      "str": {
+        "ovscw0ekos2": 260,
+        "uafr8yekos2": 250
+      },
+      "timer": {
+        "acc": 189650,
+        "run": false
+      },
+      "vidOff": 20,
+      "vidUrl": "https://drive.google.com/file/d/1gG_XbOjd6VVdroJ94xnpITyNaULw_FnD/view"
+    },
+    {
+      "away": "eodwllgkos2",
+      "dur": 7,
+      "endedAt": 1792008667694,
+      "events": [
+        {
+          "at": 1792008080335,
+          "id": "xxdnob6cc7j",
+          "min": 2,
+          "p": "6kfvvyvuyl1",
+          "team": "eodwllgkos2",
+          "type": "save"
+        },
+        {
+          "a": "3b15k7kxd41",
+          "at": 1792008428275,
+          "gka": "6kfvvyvuyl1",
+          "id": "9lry0fcjwd8",
+          "min": 7,
+          "p": "414xzk0xnha",
+          "pen": false,
+          "team": "ovscw0ekos2",
+          "type": "goal"
+        },
+        {
+          "at": 1792008544247,
+          "id": "n9i02ttma5z",
+          "min": 7,
+          "p": "3b15k7kxd41",
+          "prev": "eu68xcpvg1w",
+          "team": "ovscw0ekos2",
+          "type": "gk"
+        },
+        {
+          "a": "9vmkqfxwfg6",
+          "at": 1792008600096,
+          "gka": "3b15k7kxd41",
+          "id": "dcpr9twnmrz",
+          "min": 8,
+          "p": "lunzvcjz6rw",
+          "pen": false,
+          "team": "eodwllgkos2",
+          "type": "goal"
+        },
+        {
+          "a": "1pcc3xntq7u",
+          "at": 1792008648221,
+          "gka": "3b15k7kxd41",
+          "id": "b63gebwoub5",
+          "min": 8,
+          "p": "lunzvcjz6rw",
+          "pen": false,
+          "team": "eodwllgkos2",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "eodwllgkos2": "6kfvvyvuyl1",
+        "ovscw0ekos2": "eu68xcpvg1w"
+      },
+      "home": "ovscw0ekos2",
+      "id": "bumacsoa3mz",
+      "lu": {
+        "eodwllgkos2": {
+          "gk": "6kfvvyvuyl1",
+          "on": [
+            "7ztgzlhumty",
+            "lunzvcjz6rw",
+            "9vmkqfxwfg6",
+            "1pcc3xntq7u",
+            "6kfvvyvuyl1"
+          ]
+        },
+        "ovscw0ekos2": {
+          "gk": "3b15k7kxd41",
+          "on": [
+            "414xzk0xnha",
+            "od6r0b9xqkg",
+            "eu68xcpvg1w",
+            "sw12v72zxeb",
+            "3b15k7kxd41"
+          ]
+        }
+      },
+      "n": 15,
+      "ratings": {
+        "1pcc3xntq7u": 7,
+        "3b15k7kxd41": 4,
+        "414xzk0xnha": 5.5,
+        "6kfvvyvuyl1": 5.5,
+        "7ztgzlhumty": 5.5,
+        "9vmkqfxwfg6": 6,
+        "eu68xcpvg1w": 5.5,
+        "lunzvcjz6rw": 9.5,
+        "od6r0b9xqkg": 4.5,
+        "sw12v72zxeb": 4.5
+      },
+      "startedAt": 1792007975915,
+      "status": "done",
+      "str": {
+        "eodwllgkos2": 240,
+        "ovscw0ekos2": 240
+      },
+      "timer": {
+        "acc": 420000,
+        "run": false
+      },
+      "vidOff": 3,
+      "vidUrl": "https://drive.google.com/file/d/1hlDAotKdEd5vAScc5XuR7kfMH-Ta6yOr/view"
+    }
+  ],
+  "nextGk": {},
+  "nextPair": [
+    "eodwllgkos2",
+    "uafr8yekos2"
+  ],
+  "number": 6,
+  "queue": [
+    "ovscw0ekos2"
+  ],
+  "season": "עונה 26/27",
+  "status": "done",
+  "streak": {
+    "eodwllgkos2": 1,
+    "ovscw0ekos2": 0,
+    "uafr8yekos2": 0
+  },
+  "teams": [
+    {
+      "color": "#FF8C3A",
+      "gk": null,
+      "id": "uafr8yekos2",
+      "name": "כתומים",
+      "players": [
+        "kx3tc10vmnl",
+        "cd0aqiuw0tj",
+        "2i29lvdtl7t",
+        "c3unvq2twnh",
+        "acyd628za4z"
+      ]
+    },
+    {
+      "color": "#2A2F3A",
+      "gk": null,
+      "id": "eodwllgkos2",
+      "name": "שחורים",
+      "players": [
+        "7ztgzlhumty",
+        "lunzvcjz6rw",
+        "9vmkqfxwfg6",
+        "1pcc3xntq7u",
+        "6kfvvyvuyl1"
+      ]
+    },
+    {
+      "color": "#F4F6FA",
+      "gk": null,
+      "id": "ovscw0ekos2",
+      "name": "לבנים",
+      "players": [
+        "414xzk0xnha",
+        "od6r0b9xqkg",
+        "eu68xcpvg1w",
+        "sw12v72zxeb",
+        "3b15k7kxd41"
+      ]
+    }
+  ],
+  "voided": false
+}

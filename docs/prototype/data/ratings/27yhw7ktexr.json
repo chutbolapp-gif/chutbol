@@ -1,0 +1,531 @@
+{
+  "attr": {
+    "02v1odnqz6f": {
+      "f": {
+        "defending": 80,
+        "dribbling": 79,
+        "mental": 80,
+        "pace": 78,
+        "passing": 79,
+        "physical": 79,
+        "shooting": 78,
+        "stamina": 77
+      }
+    },
+    "17ug7dgurfn": {
+      "f": {
+        "defending": 79,
+        "dribbling": 95,
+        "mental": 83,
+        "pace": 87,
+        "passing": 77,
+        "physical": 84,
+        "shooting": 88,
+        "stamina": 87
+      }
+    },
+    "1f48c8f1arv": {
+      "f": {
+        "defending": 90,
+        "dribbling": 94,
+        "mental": 92,
+        "pace": 93,
+        "passing": 84,
+        "physical": 79,
+        "shooting": 88,
+        "stamina": 91
+      }
+    },
+    "1pcc3xntq7u": {
+      "f": {
+        "defending": 87,
+        "dribbling": 76,
+        "mental": 84,
+        "pace": 76,
+        "passing": 80,
+        "physical": 83,
+        "shooting": 84,
+        "stamina": 78
+      }
+    },
+    "1ujsmcph59r": {
+      "f": {
+        "defending": 89,
+        "dribbling": 67,
+        "mental": 79,
+        "pace": 80,
+        "passing": 75,
+        "physical": 80,
+        "shooting": 77,
+        "stamina": 80
+      }
+    },
+    "2i29lvdtl7t": {
+      "f": {
+        "attack": 78,
+        "control": 60,
+        "defence": 73,
+        "defending": 83,
+        "dribbling": 82,
+        "level": 80,
+        "mental": 92,
+        "pace": 84,
+        "passing": 90,
+        "physical": 88,
+        "scoring": 79,
+        "shooting": 84,
+        "stamina": 84
+      }
+    },
+    "34ds6z8zoc1": {
+      "f": {
+        "defending": 80,
+        "dribbling": 87,
+        "mental": 80,
+        "pace": 91,
+        "passing": 85,
+        "physical": 79,
+        "shooting": 82,
+        "stamina": 75
+      }
+    },
+    "3b15k7kxd41": {
+      "f": {
+        "defending": 88,
+        "dribbling": 85,
+        "mental": 79,
+        "pace": 87,
+        "passing": 80,
+        "physical": 80,
+        "shooting": 81,
+        "stamina": 90
+      }
+    },
+    "3vqbnihm0wf": {
+      "f": {
+        "defending": 84,
+        "dribbling": 88,
+        "mental": 85,
+        "pace": 85,
+        "passing": 82,
+        "physical": 83,
+        "shooting": 89,
+        "stamina": 82
+      }
+    },
+    "414xzk0xnha": {
+      "f": {
+        "defending": 91,
+        "dribbling": 80,
+        "mental": 80,
+        "pace": 88,
+        "passing": 86,
+        "physical": 82,
+        "shooting": 89,
+        "stamina": 89
+      }
+    },
+    "501z1iqp5zb": {
+      "f": {
+        "defending": 80,
+        "dribbling": 82,
+        "mental": 87,
+        "pace": 80,
+        "passing": 83,
+        "physical": 85,
+        "shooting": 92,
+        "stamina": 75
+      }
+    },
+    "54jloiph59r": {
+      "f": {
+        "defending": 94,
+        "dribbling": 79,
+        "mental": 83,
+        "pace": 80,
+        "passing": 84,
+        "physical": 94,
+        "shooting": 80,
+        "stamina": 86
+      }
+    },
+    "6kfvvyvuyl1": {
+      "f": {
+        "defending": 93,
+        "dribbling": 65,
+        "mental": 83,
+        "pace": 71,
+        "passing": 79,
+        "physical": 95,
+        "shooting": 86,
+        "stamina": 71
+      },
+      "g": {
+        "gkConc": 90,
+        "mental": 85,
+        "physical": 90
+      }
+    },
+    "7ztgzlhumty": {
+      "f": {
+        "attack": 59,
+        "defence": 79,
+        "defending": 82,
+        "dribbling": 93,
+        "level": 90,
+        "mental": 83,
+        "pace": 85,
+        "passing": 83,
+        "physical": 74,
+        "scoring": 84,
+        "shooting": 85,
+        "stamina": 83
+      }
+    },
+    "8ppg4b0h59r": {
+      "f": {
+        "defending": 84,
+        "dribbling": 92,
+        "mental": 85,
+        "pace": 89,
+        "passing": 82,
+        "physical": 75,
+        "shooting": 88,
+        "stamina": 89
+      }
+    },
+    "9vmkqfxwfg6": {
+      "f": {
+        "defending": 75,
+        "dribbling": 88,
+        "mental": 78,
+        "pace": 78,
+        "passing": 78,
+        "physical": 78,
+        "shooting": 79,
+        "stamina": 73
+      }
+    },
+    "acyd628za4z": {
+      "f": {
+        "defending": 82,
+        "dribbling": 89,
+        "mental": 79,
+        "passing": 82,
+        "physical": 88,
+        "shooting": 85,
+        "stamina": 82
+      }
+    },
+    "bo8ffiqzlny": {
+      "f": {
+        "defending": 74,
+        "dribbling": 86,
+        "mental": 76,
+        "pace": 86,
+        "passing": 83,
+        "physical": 78,
+        "shooting": 78,
+        "stamina": 81
+      }
+    },
+    "c2fzla4h59r": {
+      "f": {
+        "defending": 94,
+        "dribbling": 94,
+        "mental": 79,
+        "pace": 96,
+        "passing": 86,
+        "physical": 95,
+        "shooting": 92,
+        "stamina": 92
+      }
+    },
+    "c2u2g0el8s7": {
+      "f": {
+        "defending": 94,
+        "dribbling": 94,
+        "mental": 98,
+        "pace": 91,
+        "passing": 93,
+        "physical": 95,
+        "shooting": 93,
+        "stamina": 96
+      }
+    },
+    "c3unvq2twnh": {
+      "f": {
+        "defending": 67,
+        "dribbling": 77,
+        "mental": 89,
+        "pace": 70,
+        "passing": 76,
+        "physical": 88,
+        "shooting": 92,
+        "stamina": 66
+      }
+    },
+    "cd0aqiuw0tj": {
+      "f": {
+        "defending": 77,
+        "dribbling": 87,
+        "mental": 86,
+        "pace": 82,
+        "passing": 85,
+        "physical": 77,
+        "shooting": 79,
+        "stamina": 85
+      }
+    },
+    "eu68xcpvg1w": {
+      "f": {
+        "defending": 70,
+        "dribbling": 73,
+        "mental": 85,
+        "pace": 68,
+        "passing": 83,
+        "physical": 85,
+        "shooting": 95,
+        "stamina": 70
+      }
+    },
+    "hq3qc9tzr2p": {
+      "f": {
+        "defending": 95,
+        "dribbling": 77,
+        "mental": 90,
+        "pace": 84,
+        "passing": 85,
+        "physical": 90,
+        "shooting": 77,
+        "stamina": 86
+      }
+    },
+    "if1m0z6u98w": {
+      "f": {
+        "defending": 78,
+        "dribbling": 83,
+        "mental": 97,
+        "pace": 75,
+        "passing": 98,
+        "physical": 74,
+        "shooting": 85
+      }
+    },
+    "j1oa5xgh59r": {
+      "f": {
+        "defending": 94,
+        "dribbling": 88,
+        "mental": 88,
+        "passing": 86,
+        "physical": 93,
+        "shooting": 80,
+        "stamina": 86
+      }
+    },
+    "jixjjwvvjxb": {
+      "f": {
+        "defending": 97,
+        "dribbling": 79,
+        "mental": 87,
+        "pace": 85,
+        "passing": 84,
+        "physical": 92,
+        "shooting": 82,
+        "stamina": 86
+      }
+    },
+    "kx3tc10vmnl": {
+      "f": {
+        "defending": 88,
+        "dribbling": 90,
+        "mental": 87,
+        "pace": 89,
+        "passing": 89,
+        "physical": 95,
+        "shooting": 92,
+        "stamina": 92
+      }
+    },
+    "lskqb1qh59r": {
+      "f": {
+        "defending": 80,
+        "dribbling": 90,
+        "mental": 83,
+        "pace": 83,
+        "passing": 81,
+        "physical": 83,
+        "shooting": 88,
+        "stamina": 75
+      }
+    },
+    "lunzvcjz6rw": {
+      "f": {
+        "defending": 75,
+        "dribbling": 89,
+        "mental": 75,
+        "pace": 89,
+        "passing": 78,
+        "physical": 70,
+        "shooting": 87,
+        "stamina": 82
+      }
+    },
+    "nrwl330h59r": {
+      "f": {
+        "defending": 81,
+        "dribbling": 87,
+        "mental": 70,
+        "pace": 69,
+        "passing": 70,
+        "physical": 85,
+        "shooting": 83,
+        "stamina": 75
+      }
+    },
+    "od6r0b9xqkg": {
+      "f": {
+        "defending": 94,
+        "dribbling": 73,
+        "mental": 92,
+        "pace": 85,
+        "passing": 81,
+        "physical": 85,
+        "shooting": 85,
+        "stamina": 92
+      }
+    },
+    "s19yt5ih59r": {
+      "f": {
+        "defending": 82,
+        "dribbling": 84,
+        "mental": 75,
+        "pace": 82,
+        "passing": 82,
+        "physical": 91,
+        "shooting": 91,
+        "stamina": 81
+      }
+    },
+    "sw12v72zxeb": {
+      "f": {
+        "defending": 79,
+        "dribbling": 73,
+        "mental": 78,
+        "pace": 86,
+        "passing": 74,
+        "physical": 78,
+        "shooting": 74,
+        "stamina": 76
+      }
+    },
+    "uy0fw20p5zb": {
+      "f": {
+        "defending": 82,
+        "dribbling": 77,
+        "mental": 78,
+        "pace": 85,
+        "passing": 79,
+        "physical": 78,
+        "shooting": 77,
+        "stamina": 79
+      }
+    },
+    "y5wyg7wp5zb": {
+      "f": {
+        "defending": 81,
+        "dribbling": 88,
+        "mental": 80,
+        "pace": 83,
+        "passing": 80,
+        "physical": 77,
+        "shooting": 81,
+        "stamina": 85
+      }
+    },
+    "yrw1x5nwyvu": {
+      "f": {
+        "defending": 88,
+        "dribbling": 90,
+        "mental": 88,
+        "pace": 76,
+        "passing": 77,
+        "physical": 82,
+        "shooting": 87,
+        "stamina": 69
+      }
+    },
+    "yvzxz01va8o": {
+      "f": {
+        "defending": 84,
+        "dribbling": 86,
+        "mental": 82,
+        "pace": 87,
+        "passing": 82,
+        "physical": 75,
+        "shooting": 81,
+        "stamina": 93
+      }
+    }
+  },
+  "id": "27yhw7ktexr",
+  "r": {
+    "02v1odnqz6f": 1,
+    "17ug7dgurfn": 3,
+    "1f48c8f1arv": 4.5,
+    "1pcc3xntq7u": 1.5,
+    "1ujsmcph59r": 0.5,
+    "2i29lvdtl7t": 1.5,
+    "34ds6z8zoc1": 1.5,
+    "3b15k7kxd41": 3,
+    "3vqbnihm0wf": 3,
+    "414xzk0xnha": 3.5,
+    "501z1iqp5zb": 3,
+    "54jloiph59r": 2.5,
+    "6kfvvyvuyl1": 1,
+    "7ztgzlhumty": 4,
+    "8ppg4b0h59r": 3,
+    "9vmkqfxwfg6": 2,
+    "acyd628za4z": 2,
+    "bo8ffiqzlny": 1.5,
+    "c2fzla4h59r": 5,
+    "c2u2g0el8s7": 5,
+    "c3unvq2twnh": 1,
+    "cd0aqiuw0tj": 1.5,
+    "eu68xcpvg1w": 1.5,
+    "hq3qc9tzr2p": 3,
+    "if1m0z6u98w": 2.5,
+    "j1oa5xgh59r": 3.5,
+    "jixjjwvvjxb": 3,
+    "kx3tc10vmnl": 5,
+    "lskqb1qh59r": 3,
+    "lunzvcjz6rw": 3,
+    "nrwl330h59r": 1,
+    "od6r0b9xqkg": 3,
+    "s19yt5ih59r": 3,
+    "sw12v72zxeb": 0.5,
+    "uy0fw20p5zb": 1,
+    "y5wyg7wp5zb": 2,
+    "yrw1x5nwyvu": 3,
+    "yvzxz01va8o": 2.5
+  },
+  "rounds": {
+    "xhagsgly6o6": {
+      "17ug7dgurfn": 3,
+      "1ujsmcph59r": 1,
+      "2i29lvdtl7t": 2,
+      "3b15k7kxd41": 3,
+      "501z1iqp5zb": 3,
+      "54jloiph59r": 2,
+      "9vmkqfxwfg6": 2,
+      "c2u2g0el8s7": 5,
+      "c3unvq2twnh": 1,
+      "hq3qc9tzr2p": 3,
+      "if1m0z6u98w": 3,
+      "kx3tc10vmnl": 5,
+      "lskqb1qh59r": 3,
+      "sw12v72zxeb": 1,
+      "uy0fw20p5zb": 1
+    }
+  }
+}

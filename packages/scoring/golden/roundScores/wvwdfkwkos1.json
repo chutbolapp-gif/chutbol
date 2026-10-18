@@ -1,0 +1,392 @@
+{
+ "all": {
+  "1pcc3xntq7u": {
+   "avg": 5.6,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 6,
+   "n": 10,
+   "score": 5.75,
+   "sv": 0
+  },
+  "2i29lvdtl7t": {
+   "avg": 4.944444444444445,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 9,
+   "score": 4.944444444444445,
+   "sv": 0
+  },
+  "3b15k7kxd41": {
+   "avg": 5.7272727272727275,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 8,
+   "n": 11,
+   "score": 6.027272727272727,
+   "sv": 0
+  },
+  "414xzk0xnha": {
+   "avg": 5.642857142857143,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 9,
+   "n": 14,
+   "score": 5.942857142857143,
+   "sv": 0
+  },
+  "6kfvvyvuyl1": {
+   "avg": 5.576923076923077,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 7.5,
+   "n": 13,
+   "score": 5.726923076923077,
+   "sv": 0
+  },
+  "7ztgzlhumty": {
+   "avg": 5.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 5,
+   "n": 10,
+   "score": 5.65,
+   "sv": 0
+  },
+  "9vmkqfxwfg6": {
+   "avg": 5.45,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 4.5,
+   "n": 10,
+   "score": 5.6000000000000005,
+   "sv": 0
+  },
+  "acyd628za4z": {
+   "avg": 5.277777777777778,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 2.5,
+   "n": 9,
+   "score": 5.277777777777778,
+   "sv": 0
+  },
+  "c3unvq2twnh": {
+   "avg": 5.722222222222222,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 6.5,
+   "n": 9,
+   "score": 5.722222222222222,
+   "sv": 0
+  },
+  "cd0aqiuw0tj": {
+   "avg": 5.45,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 4.5,
+   "n": 10,
+   "score": 5.45,
+   "sv": 0
+  },
+  "eu68xcpvg1w": {
+   "avg": 5.681818181818182,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 7.5,
+   "n": 11,
+   "score": 5.9818181818181815,
+   "sv": 0
+  },
+  "kx3tc10vmnl": {
+   "avg": 5.541666666666667,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 6.5,
+   "n": 12,
+   "score": 5.541666666666667,
+   "sv": 0
+  },
+  "lunzvcjz6rw": {
+   "avg": 5.95,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 9.5,
+   "n": 10,
+   "score": 6.1000000000000005,
+   "sv": 0
+  },
+  "od6r0b9xqkg": {
+   "avg": 5.363636363636363,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 4,
+   "n": 11,
+   "score": 5.663636363636363,
+   "sv": 0
+  },
+  "sw12v72zxeb": {
+   "avg": 5.318181818181818,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 3.5,
+   "n": 11,
+   "score": 5.618181818181818,
+   "sv": 0
+  }
+ },
+ "field": {
+  "1pcc3xntq7u": {
+   "avg": 5.666666666666667,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 6,
+   "n": 9,
+   "score": 5.816666666666667,
+   "sv": 0
+  },
+  "2i29lvdtl7t": {
+   "avg": 4.944444444444445,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -0.5,
+   "n": 9,
+   "score": 4.944444444444445,
+   "sv": 0
+  },
+  "3b15k7kxd41": {
+   "avg": 5.5,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 4,
+   "n": 8,
+   "score": 5.8,
+   "sv": 0
+  },
+  "414xzk0xnha": {
+   "avg": 5.777777777777778,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 7,
+   "n": 9,
+   "score": 6.0777777777777775,
+   "sv": 0
+  },
+  "6kfvvyvuyl1": {
+   "avg": 5.142857142857143,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 1,
+   "n": 7,
+   "score": 5.292857142857144,
+   "sv": 0
+  },
+  "7ztgzlhumty": {
+   "avg": 5.375,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 3,
+   "n": 8,
+   "score": 5.525,
+   "sv": 0
+  },
+  "9vmkqfxwfg6": {
+   "avg": 5.45,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 4.5,
+   "n": 10,
+   "score": 5.6000000000000005,
+   "sv": 0
+  },
+  "acyd628za4z": {
+   "avg": 5.071428571428571,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 0.5,
+   "n": 7,
+   "score": 5.071428571428571,
+   "sv": 0
+  },
+  "c3unvq2twnh": {
+   "avg": 5.785714285714286,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 5.5,
+   "n": 7,
+   "score": 5.785714285714286,
+   "sv": 0
+  },
+  "cd0aqiuw0tj": {
+   "avg": 5.357142857142857,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 2.5,
+   "n": 7,
+   "score": 5.357142857142857,
+   "sv": 0
+  },
+  "eu68xcpvg1w": {
+   "avg": 5.5625,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 4.5,
+   "n": 8,
+   "score": 5.8625,
+   "sv": 0
+  },
+  "kx3tc10vmnl": {
+   "avg": 5.285714285714286,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 2,
+   "n": 7,
+   "score": 5.285714285714286,
+   "sv": 0
+  },
+  "lunzvcjz6rw": {
+   "avg": 5.888888888888889,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 8,
+   "n": 9,
+   "score": 6.03888888888889,
+   "sv": 0
+  },
+  "od6r0b9xqkg": {
+   "avg": 5.363636363636363,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 4,
+   "n": 11,
+   "score": 5.663636363636363,
+   "sv": 0
+  },
+  "sw12v72zxeb": {
+   "avg": 5.318181818181818,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 3.5,
+   "n": 11,
+   "score": 5.618181818181818,
+   "sv": 0
+  }
+ },
+ "gk": {
+  "1pcc3xntq7u": {
+   "avg": 5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0,
+   "n": 1,
+   "q": false,
+   "score": 5.15,
+   "sv": 0
+  },
+  "3b15k7kxd41": {
+   "avg": 6.333333333333333,
+   "bonus": 0.3,
+   "conc": 3,
+   "contrib": 4,
+   "n": 3,
+   "q": true,
+   "score": 6.633333333333333,
+   "sv": 3
+  },
+  "414xzk0xnha": {
+   "avg": 5.4,
+   "bonus": 0.3,
+   "conc": 6,
+   "contrib": 2,
+   "n": 5,
+   "q": true,
+   "score": 5.7,
+   "sv": 0
+  },
+  "6kfvvyvuyl1": {
+   "avg": 6.083333333333333,
+   "bonus": 0.15,
+   "conc": 4,
+   "contrib": 6.5,
+   "n": 6,
+   "q": true,
+   "score": 6.233333333333333,
+   "sv": 5
+  },
+  "7ztgzlhumty": {
+   "avg": 6,
+   "bonus": 0.15,
+   "conc": 1,
+   "contrib": 2,
+   "n": 2,
+   "q": false,
+   "score": 6.15,
+   "sv": 0
+  },
+  "acyd628za4z": {
+   "avg": 6,
+   "bonus": 0,
+   "conc": 1,
+   "contrib": 2,
+   "n": 2,
+   "q": false,
+   "score": 6,
+   "sv": 0
+  },
+  "c3unvq2twnh": {
+   "avg": 5.5,
+   "bonus": 0,
+   "conc": 2,
+   "contrib": 1,
+   "n": 2,
+   "q": false,
+   "score": 5.5,
+   "sv": 0
+  },
+  "cd0aqiuw0tj": {
+   "avg": 5.666666666666667,
+   "bonus": 0,
+   "conc": 3,
+   "contrib": 2,
+   "n": 3,
+   "q": true,
+   "score": 5.666666666666667,
+   "sv": 0
+  },
+  "eu68xcpvg1w": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 1,
+   "contrib": 3,
+   "n": 3,
+   "q": true,
+   "score": 6.3,
+   "sv": 0
+  },
+  "kx3tc10vmnl": {
+   "avg": 5.9,
+   "bonus": 0,
+   "conc": 4,
+   "contrib": 4.5,
+   "n": 5,
+   "q": true,
+   "score": 5.9,
+   "sv": 1
+  },
+  "lunzvcjz6rw": {
+   "avg": 6.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 1.5,
+   "n": 1,
+   "q": false,
+   "score": 6.65,
+   "sv": 0
+  }
+ },
+ "leagueId": "27yhw7ktexr",
+ "roundId": "wvwdfkwkos1",
+ "status": "done",
+ "voided": false
+}

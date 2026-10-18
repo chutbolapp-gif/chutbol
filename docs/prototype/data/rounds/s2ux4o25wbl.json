@@ -1,0 +1,208 @@
+{
+  "attendees": [
+    "cbqqz6d0kb7",
+    "w0k8zrh0och",
+    "kempvz40qu0",
+    "x9b39ir0tn7",
+    "4jerivf0w49",
+    "bnk4jmk0zaf",
+    "rjuvxyf12lw",
+    "4eo7c9e158z",
+    "j4gjjbo19sg",
+    "dv45mie1ck5",
+    "tbm4rnf1fcl",
+    "tmbr9ar1hza",
+    "8kir9it1krl",
+    "zp95osq1ngt",
+    "bfe8fkc1rww",
+    "htbsh0c37rw",
+    "x3pbgt83c03",
+    "ax4iy7s3fpi",
+    "wo0v5l13kbq",
+    "4syq3s63olp"
+  ],
+  "created": 1792261401825,
+  "id": "s2ux4o25wbl",
+  "lastGk": {
+    "3ycunyn5wbl": "4jerivf0w49",
+    "k5re88i5wbl": "4eo7c9e158z"
+  },
+  "leagueId": "v2qbymr09us",
+  "liveId": null,
+  "manualOrder": [],
+  "matches": [
+    {
+      "away": "k5re88i5wbl",
+      "dur": 7,
+      "endedAt": 1792261739463,
+      "events": [
+        {
+          "a": "cbqqz6d0kb7",
+          "at": 1792261662171,
+          "gka": "4eo7c9e158z",
+          "id": "aad5r9rbnew",
+          "min": 4,
+          "p": "j4gjjbo19sg",
+          "pen": false,
+          "team": "3ycunyn5wbl",
+          "type": "goal"
+        },
+        {
+          "at": 1792261683313,
+          "id": "af1ky28bxip",
+          "min": 4,
+          "p": "wo0v5l13kbq",
+          "prev": "4eo7c9e158z",
+          "team": "k5re88i5wbl",
+          "type": "gk"
+        },
+        {
+          "a": "4eo7c9e158z",
+          "at": 1792261700190,
+          "gka": "4jerivf0w49",
+          "id": "rana2o6ch43",
+          "min": 5,
+          "p": "w0k8zrh0och",
+          "pen": false,
+          "team": "k5re88i5wbl",
+          "type": "goal"
+        },
+        {
+          "a": "rjuvxyf12lw",
+          "at": 1792261724284,
+          "gka": "wo0v5l13kbq",
+          "id": "80avqyiczzg",
+          "min": 5,
+          "p": "bnk4jmk0zaf",
+          "pen": false,
+          "team": "3ycunyn5wbl",
+          "type": "goal"
+        }
+      ],
+      "gk0": {
+        "3ycunyn5wbl": "4jerivf0w49",
+        "k5re88i5wbl": "4eo7c9e158z"
+      },
+      "home": "3ycunyn5wbl",
+      "id": "t7tnpe26p5s",
+      "lu": {
+        "3ycunyn5wbl": {
+          "gk": "4jerivf0w49",
+          "on": [
+            "bfe8fkc1rww",
+            "j4gjjbo19sg",
+            "4jerivf0w49",
+            "bnk4jmk0zaf",
+            "cbqqz6d0kb7",
+            "rjuvxyf12lw",
+            "ax4iy7s3fpi",
+            "tbm4rnf1fcl",
+            "tmbr9ar1hza",
+            "x3pbgt83c03"
+          ]
+        },
+        "k5re88i5wbl": {
+          "gk": "wo0v5l13kbq",
+          "on": [
+            "x9b39ir0tn7",
+            "htbsh0c37rw",
+            "w0k8zrh0och",
+            "dv45mie1ck5",
+            "4eo7c9e158z",
+            "wo0v5l13kbq",
+            "4syq3s63olp",
+            "kempvz40qu0",
+            "zp95osq1ngt",
+            "8kir9it1krl"
+          ]
+        }
+      },
+      "n": 1,
+      "ratings": {
+        "4eo7c9e158z": 6,
+        "4jerivf0w49": 5.5,
+        "4syq3s63olp": 4.5,
+        "8kir9it1krl": 4.5,
+        "ax4iy7s3fpi": 6,
+        "bfe8fkc1rww": 6,
+        "bnk4jmk0zaf": 7,
+        "cbqqz6d0kb7": 6.5,
+        "dv45mie1ck5": 4.5,
+        "htbsh0c37rw": 4.5,
+        "j4gjjbo19sg": 7,
+        "kempvz40qu0": 4.5,
+        "rjuvxyf12lw": 6.5,
+        "tbm4rnf1fcl": 6,
+        "tmbr9ar1hza": 6,
+        "w0k8zrh0och": 5.5,
+        "wo0v5l13kbq": 5.5,
+        "x3pbgt83c03": 6,
+        "x9b39ir0tn7": 4.5,
+        "zp95osq1ngt": 4.5
+      },
+      "startedAt": 1792261439200,
+      "status": "done",
+      "str": {
+        "3ycunyn5wbl": 600,
+        "k5re88i5wbl": 600
+      },
+      "timer": {
+        "acc": 274521,
+        "run": false
+      }
+    }
+  ],
+  "nextGk": {},
+  "nextOut": {},
+  "nextPair": [
+    "3ycunyn5wbl",
+    "k5re88i5wbl"
+  ],
+  "number": 2,
+  "queue": [],
+  "season": "עונה 26/27",
+  "status": "done",
+  "streak": {
+    "3ycunyn5wbl": 1,
+    "k5re88i5wbl": 1
+  },
+  "teams": [
+    {
+      "color": "#3BA7F5",
+      "gk": null,
+      "id": "k5re88i5wbl",
+      "name": "כחולים",
+      "players": [
+        "x9b39ir0tn7",
+        "htbsh0c37rw",
+        "w0k8zrh0och",
+        "dv45mie1ck5",
+        "4eo7c9e158z",
+        "wo0v5l13kbq",
+        "4syq3s63olp",
+        "kempvz40qu0",
+        "zp95osq1ngt",
+        "8kir9it1krl"
+      ]
+    },
+    {
+      "color": "#EF4B4B",
+      "gk": null,
+      "id": "3ycunyn5wbl",
+      "name": "אדומים",
+      "players": [
+        "bfe8fkc1rww",
+        "j4gjjbo19sg",
+        "4jerivf0w49",
+        "bnk4jmk0zaf",
+        "cbqqz6d0kb7",
+        "rjuvxyf12lw",
+        "ax4iy7s3fpi",
+        "tbm4rnf1fcl",
+        "tmbr9ar1hza",
+        "x3pbgt83c03"
+      ]
+    }
+  ],
+  "voided": false
+}
