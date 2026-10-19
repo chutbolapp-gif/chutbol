@@ -24,7 +24,17 @@ the remote project (apps/mobile/.env).
 
 ## Remote project (yjsjkziinpjaiduufbbp, eu-west-1)
 
-Only after the local tests pass:
+Only after the local tests pass. Without `supabase login` (used for stage 1a): put the Session pooler
+connection string with the password in `supabase/.env.db.local` (gitignored), then:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File scripts/db-push-remote.ps1 -DryRun   # what would change
+powershell -ExecutionPolicy Bypass -File scripts/db-push-remote.ps1           # migrations + seed
+powershell -ExecutionPolicy Bypass -File scripts/db-push-remote.ps1 -Test     # pgTAP on the remote (rolled back)
+```
+
+Auth settings (phone provider, test numbers) are then set by hand in the dashboard. With a working
+`supabase login` the CLI can do both:
 
 ```powershell
 pnpm exec supabase login                              # once, in the browser
