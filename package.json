@@ -10,14 +10,20 @@
     "golden": "node scripts/extract-golden/index.mjs",
     "golden:check": "node scripts/extract-golden/index.mjs --check",
     "fixtures": "node scripts/make-fixtures/index.mjs",
-    "deps":"node scripts/extract-golden/index.mjs --deps-only",
+    "deps": "node scripts/extract-golden/index.mjs --deps-only",
+    "import:seed": "vite-node scripts/import-prototype/index.ts",
+    "db:test": "supabase test db",
     "test": "pnpm -r test",
     "typecheck": "pnpm -r typecheck"
   },
   "devDependencies": {
-    "espree": "^10.4.0",
+    "@chutbol/scoring": "workspace:*",
+    "@chutbol/shared": "workspace:*",
     "eslint-scope": "^8.4.0",
-    "typescript": "^5.9.3"
+    "espree": "^10.4.0",
+    "supabase": "^2.121.0",
+    "typescript": "^5.9.3",
+    "vite-node": "3.2.4"
   },
   "pnpm": {
     "onlyBuiltDependencies": [

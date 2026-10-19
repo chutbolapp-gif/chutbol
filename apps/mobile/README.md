@@ -15,11 +15,19 @@ Bundle check: `node node_modules/expo/bin/cli export --platform android` (or `we
 
 ## Layout
 
-- `src/app/` – routes (Expo Router). `index.tsx` home, `demo/ratings.tsx` the stage 0b scoring demo.
+- `src/app/` – routes (Expo Router): `index.tsx` my leagues (or redirect to login), `login.tsx` +
+  `verify.tsx` phone OTP, `league/[id].tsx` rounds, `round/[id].tsx` table, players of the round, match ratings.
+- `src/lib/supabase.ts` – the Supabase client (public key only, session in AsyncStorage). `src/auth/` – session.
+- `src/data/queries.ts` – reads (TanStack Query); rows become scoring shapes via `@chutbol/shared` (`roundFromRows`).
+  `src/data/roundView.ts` – what the round screen shows, computed with `@chutbol/scoring` (pure, tested).
 - `src/i18n/` – `he.ts` (default) and `en.ts`; `i18n.ts` (no React Native, also used by tests);
   `language.ts` (saved choice, layout direction, reload); `LanguageProvider.tsx`.
-- `src/demo/round.ts` – real round 6 from `docs/prototype/data`, scored with `@chutbol/scoring`.
-  Dev only: it bundles the league's ratings doc (admin-only stars). Remove in stage 1a.
+
+## Supabase
+
+Copy `.env.example` to `.env` (gitignored) and put the project's **public** key in it
+(dashboard: Project Settings → API Keys, the publishable or anon key). Restart Expo after changing
+`.env`. Login in development: test numbers from `supabase/README.md`, code 123456.
 
 ## Language and direction
 
