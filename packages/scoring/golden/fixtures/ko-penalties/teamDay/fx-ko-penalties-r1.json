@@ -1,0 +1,16 @@
+{
+ "leagueId": "fx-ko-penalties",
+ "roundId": "fx-ko-penalties-r1",
+ "status": "done",
+ "teamDay": {
+  "score": {
+   "tA": 1.1666666666666665,
+   "tB": 0.33333333333333337,
+   "tC": 0.6944444444444444,
+   "tD": 0.7222222222222222
+  },
+  "spread": 0.3333333333333333,
+  "tight": false
+ },
+ "voided": false
+}

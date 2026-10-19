@@ -1,0 +1,29 @@
+{
+ "gkOrder": null,
+ "leagueId": "fx-tight-round",
+ "nextGk": {},
+ "nextPair": [],
+ "roundId": "fx-tight-round-r1",
+ "status": "done",
+ "teams": {
+  "tA": {
+   "auto": null,
+   "counts": {
+    "a1": 4
+   }
+  },
+  "tB": {
+   "auto": null,
+   "counts": {
+    "b1": 4
+   }
+  },
+  "tC": {
+   "auto": null,
+   "counts": {
+    "c1": 4
+   }
+  }
+ },
+ "voided": false
+}

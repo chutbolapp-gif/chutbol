@@ -1,0 +1,29 @@
+{
+ "gkOrder": null,
+ "leagueId": "fx-voided-round",
+ "nextGk": {},
+ "nextPair": [],
+ "roundId": "fx-voided-round-r1",
+ "status": "done",
+ "teams": {
+  "tA": {
+   "auto": null,
+   "counts": {
+    "a1": 2
+   }
+  },
+  "tB": {
+   "auto": null,
+   "counts": {
+    "b1": 2
+   }
+  },
+  "tC": {
+   "auto": null,
+   "counts": {
+    "c1": 2
+   }
+  }
+ },
+ "voided": true
+}

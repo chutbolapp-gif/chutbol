@@ -1,0 +1,240 @@
+{
+ "id": "fx-draw-0-0-r1",
+ "leagueId": "fx-draw-0-0",
+ "number": 1,
+ "season": "עונה 26/27",
+ "created": 1790000000000,
+ "status": "done",
+ "voided": false,
+ "attendees": [
+  "a1",
+  "a2",
+  "a3",
+  "a4",
+  "a5",
+  "b1",
+  "b2",
+  "b3",
+  "b4",
+  "b5",
+  "c1",
+  "c2",
+  "c3",
+  "c4",
+  "c5"
+ ],
+ "teams": [
+  {
+   "id": "tA",
+   "name": "כתומים",
+   "color": "#FF8C3A",
+   "gk": null,
+   "players": [
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "a5"
+   ]
+  },
+  {
+   "id": "tB",
+   "name": "כחולים",
+   "color": "#3A8CFF",
+   "gk": null,
+   "players": [
+    "b1",
+    "b2",
+    "b3",
+    "b4",
+    "b5"
+   ]
+  },
+  {
+   "id": "tC",
+   "name": "ירוקים",
+   "color": "#2EC27E",
+   "gk": null,
+   "players": [
+    "c1",
+    "c2",
+    "c3",
+    "c4",
+    "c5"
+   ]
+  }
+ ],
+ "manualOrder": [
+  "tA",
+  "tC",
+  "tB"
+ ],
+ "nextPair": [],
+ "nextGk": {},
+ "matches": [
+  {
+   "id": "m1",
+   "n": 1,
+   "home": "tA",
+   "away": "tB",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790000600000,
+   "lu": {
+    "tA": {
+     "gk": "a1",
+     "on": [
+      "a1",
+      "a2",
+      "a3",
+      "a4",
+      "a5"
+     ]
+    },
+    "tB": {
+     "gk": "b1",
+     "on": [
+      "b1",
+      "b2",
+      "b3",
+      "b4",
+      "b5"
+     ]
+    }
+   },
+   "gk0": {
+    "tA": "a1",
+    "tB": "b1"
+   },
+   "events": [],
+   "timer": {
+    "acc": 420000,
+    "run": false
+   },
+   "endedAt": 1790001020000
+  },
+  {
+   "id": "m2",
+   "n": 2,
+   "home": "tA",
+   "away": "tC",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790001200000,
+   "lu": {
+    "tA": {
+     "gk": "a1",
+     "on": [
+      "a1",
+      "a2",
+      "a3",
+      "a4",
+      "a5"
+     ]
+    },
+    "tC": {
+     "gk": "c1",
+     "on": [
+      "c1",
+      "c2",
+      "c3",
+      "c4",
+      "c5"
+     ]
+    }
+   },
+   "gk0": {
+    "tA": "a1",
+    "tC": "c1"
+   },
+   "events": [],
+   "timer": {
+    "acc": 100000,
+    "run": false
+   },
+   "endedAt": 1790001300000
+  },
+  {
+   "id": "m3",
+   "n": 3,
+   "home": "tB",
+   "away": "tC",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790001800000,
+   "lu": {
+    "tB": {
+     "gk": "b1",
+     "on": [
+      "b1",
+      "b2",
+      "b3",
+      "b4",
+      "b5"
+     ]
+    },
+    "tC": {
+     "gk": "c1",
+     "on": [
+      "c1",
+      "c2",
+      "c3",
+      "c4",
+      "c5"
+     ]
+    }
+   },
+   "gk0": {
+    "tB": "b1",
+    "tC": "c1"
+   },
+   "events": [],
+   "timer": {
+    "acc": 150000,
+    "run": false
+   },
+   "endedAt": 1790001950000
+  },
+  {
+   "id": "m4",
+   "n": 4,
+   "home": "tC",
+   "away": "tA",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790002400000,
+   "lu": {
+    "tC": {
+     "gk": "c1",
+     "on": [
+      "c1",
+      "c2",
+      "c3",
+      "c4",
+      "c5"
+     ]
+    },
+    "tA": {
+     "gk": "a1",
+     "on": [
+      "a1",
+      "a2",
+      "a3",
+      "a4",
+      "a5"
+     ]
+    }
+   },
+   "gk0": {
+    "tC": "c1",
+    "tA": "a1"
+   },
+   "events": [],
+   "timer": {
+    "acc": 240000,
+    "run": false
+   },
+   "endedAt": 1790002640000
+  }
+ ]
+}

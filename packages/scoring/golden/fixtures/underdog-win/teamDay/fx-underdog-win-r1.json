@@ -1,0 +1,15 @@
+{
+ "leagueId": "fx-underdog-win",
+ "roundId": "fx-underdog-win-r1",
+ "status": "done",
+ "teamDay": {
+  "score": {
+   "tA": 1,
+   "tB": 0.08333333333333333,
+   "tC": 0.16666666666666666
+  },
+  "spread": 0.5925925925925926,
+  "tight": false
+ },
+ "voided": false
+}

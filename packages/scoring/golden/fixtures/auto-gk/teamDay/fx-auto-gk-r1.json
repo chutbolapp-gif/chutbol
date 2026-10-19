@@ -1,0 +1,15 @@
+{
+ "leagueId": "fx-auto-gk",
+ "roundId": "fx-auto-gk-r1",
+ "status": "live",
+ "teamDay": {
+  "score": {
+   "tA": 0.875,
+   "tB": 0.25,
+   "tC": 0.875
+  },
+  "spread": 0.5,
+  "tight": false
+ },
+ "voided": false
+}

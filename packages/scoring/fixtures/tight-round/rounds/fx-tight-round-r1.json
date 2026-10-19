@@ -1,0 +1,423 @@
+{
+ "id": "fx-tight-round-r1",
+ "leagueId": "fx-tight-round",
+ "number": 1,
+ "season": "עונה 26/27",
+ "created": 1790000000000,
+ "status": "done",
+ "voided": false,
+ "attendees": [
+  "a1",
+  "a2",
+  "a3",
+  "a4",
+  "a5",
+  "b1",
+  "b2",
+  "b3",
+  "b4",
+  "b5",
+  "c1",
+  "c2",
+  "c3",
+  "c4",
+  "c5"
+ ],
+ "teams": [
+  {
+   "id": "tA",
+   "name": "כתומים",
+   "color": "#FF8C3A",
+   "gk": null,
+   "players": [
+    "a1",
+    "a2",
+    "a3",
+    "a4",
+    "a5"
+   ]
+  },
+  {
+   "id": "tB",
+   "name": "כחולים",
+   "color": "#3A8CFF",
+   "gk": null,
+   "players": [
+    "b1",
+    "b2",
+    "b3",
+    "b4",
+    "b5"
+   ]
+  },
+  {
+   "id": "tC",
+   "name": "ירוקים",
+   "color": "#2EC27E",
+   "gk": null,
+   "players": [
+    "c1",
+    "c2",
+    "c3",
+    "c4",
+    "c5"
+   ]
+  }
+ ],
+ "manualOrder": [],
+ "nextPair": [],
+ "nextGk": {},
+ "matches": [
+  {
+   "id": "m1",
+   "n": 1,
+   "home": "tA",
+   "away": "tB",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790000600000,
+   "lu": {
+    "tA": {
+     "gk": "a1",
+     "on": [
+      "a1",
+      "a2",
+      "a3",
+      "a4",
+      "a5"
+     ]
+    },
+    "tB": {
+     "gk": "b1",
+     "on": [
+      "b1",
+      "b2",
+      "b3",
+      "b4",
+      "b5"
+     ]
+    }
+   },
+   "gk0": {
+    "tA": "a1",
+    "tB": "b1"
+   },
+   "events": [
+    {
+     "id": "e1-1",
+     "type": "goal",
+     "team": "tA",
+     "p": "a4",
+     "a": null,
+     "pen": false,
+     "min": 4,
+     "at": 1790000800000,
+     "gka": "b1"
+    }
+   ],
+   "timer": {
+    "acc": 420000,
+    "run": false
+   },
+   "endedAt": 1790001020000
+  },
+  {
+   "id": "m2",
+   "n": 2,
+   "home": "tB",
+   "away": "tC",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790001200000,
+   "lu": {
+    "tB": {
+     "gk": "b1",
+     "on": [
+      "b1",
+      "b2",
+      "b3",
+      "b4",
+      "b5"
+     ]
+    },
+    "tC": {
+     "gk": "c1",
+     "on": [
+      "c1",
+      "c2",
+      "c3",
+      "c4",
+      "c5"
+     ]
+    }
+   },
+   "gk0": {
+    "tB": "b1",
+    "tC": "c1"
+   },
+   "events": [
+    {
+     "id": "e2-1",
+     "type": "goal",
+     "team": "tB",
+     "p": "b2",
+     "a": "b3",
+     "pen": false,
+     "min": 3,
+     "at": 1790001350000,
+     "gka": "c1"
+    }
+   ],
+   "timer": {
+    "acc": 420000,
+    "run": false
+   },
+   "endedAt": 1790001620000
+  },
+  {
+   "id": "m3",
+   "n": 3,
+   "home": "tC",
+   "away": "tA",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790001800000,
+   "lu": {
+    "tC": {
+     "gk": "c1",
+     "on": [
+      "c1",
+      "c2",
+      "c3",
+      "c4",
+      "c5"
+     ]
+    },
+    "tA": {
+     "gk": "a1",
+     "on": [
+      "a1",
+      "a2",
+      "a3",
+      "a4",
+      "a5"
+     ]
+    }
+   },
+   "gk0": {
+    "tC": "c1",
+    "tA": "a1"
+   },
+   "events": [
+    {
+     "id": "e3-1",
+     "type": "goal",
+     "team": "tC",
+     "p": "c4",
+     "a": null,
+     "pen": false,
+     "min": 6,
+     "at": 1790002120000,
+     "gka": "a1"
+    }
+   ],
+   "timer": {
+    "acc": 420000,
+    "run": false
+   },
+   "endedAt": 1790002220000
+  },
+  {
+   "id": "m4",
+   "n": 4,
+   "home": "tA",
+   "away": "tB",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790002400000,
+   "lu": {
+    "tA": {
+     "gk": "a1",
+     "on": [
+      "a1",
+      "a2",
+      "a3",
+      "a4",
+      "a5"
+     ]
+    },
+    "tB": {
+     "gk": "b1",
+     "on": [
+      "b1",
+      "b2",
+      "b3",
+      "b4",
+      "b5"
+     ]
+    }
+   },
+   "gk0": {
+    "tA": "a1",
+    "tB": "b1"
+   },
+   "events": [
+    {
+     "id": "e4-1",
+     "type": "goal",
+     "team": "tB",
+     "p": "b2",
+     "a": null,
+     "pen": false,
+     "min": 2,
+     "at": 1790002460000,
+     "gka": "a1"
+    },
+    {
+     "id": "e4-2",
+     "type": "goal",
+     "team": "tA",
+     "p": "a5",
+     "a": null,
+     "pen": false,
+     "min": 4,
+     "at": 1790002580000,
+     "gka": "b1"
+    }
+   ],
+   "timer": {
+    "acc": 420000,
+    "run": false
+   },
+   "endedAt": 1790002820000
+  },
+  {
+   "id": "m5",
+   "n": 5,
+   "home": "tB",
+   "away": "tC",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790003000000,
+   "lu": {
+    "tB": {
+     "gk": "b1",
+     "on": [
+      "b1",
+      "b2",
+      "b3",
+      "b4",
+      "b5"
+     ]
+    },
+    "tC": {
+     "gk": "c1",
+     "on": [
+      "c1",
+      "c2",
+      "c3",
+      "c4",
+      "c5"
+     ]
+    }
+   },
+   "gk0": {
+    "tB": "b1",
+    "tC": "c1"
+   },
+   "events": [
+    {
+     "id": "e5-1",
+     "type": "goal",
+     "team": "tC",
+     "p": "c3",
+     "a": null,
+     "pen": false,
+     "min": 2,
+     "at": 1790003100000,
+     "gka": "b1"
+    },
+    {
+     "id": "e5-2",
+     "type": "goal",
+     "team": "tB",
+     "p": "b3",
+     "a": "b2",
+     "pen": false,
+     "min": 5,
+     "at": 1790003260000,
+     "gka": "c1"
+    }
+   ],
+   "timer": {
+    "acc": 420000,
+    "run": false
+   },
+   "endedAt": 1790003420000
+  },
+  {
+   "id": "m6",
+   "n": 6,
+   "home": "tC",
+   "away": "tA",
+   "dur": 7,
+   "status": "done",
+   "startedAt": 1790003600000,
+   "lu": {
+    "tC": {
+     "gk": "c1",
+     "on": [
+      "c1",
+      "c2",
+      "c3",
+      "c4",
+      "c5"
+     ]
+    },
+    "tA": {
+     "gk": "a1",
+     "on": [
+      "a1",
+      "a2",
+      "a3",
+      "a4",
+      "a5"
+     ]
+    }
+   },
+   "gk0": {
+    "tC": "c1",
+    "tA": "a1"
+   },
+   "events": [
+    {
+     "id": "e6-1",
+     "type": "goal",
+     "team": "tA",
+     "p": "a4",
+     "a": "a5",
+     "pen": false,
+     "min": 2,
+     "at": 1790003690000,
+     "gka": "c1"
+    },
+    {
+     "id": "e6-2",
+     "type": "goal",
+     "team": "tC",
+     "p": "c2",
+     "a": null,
+     "pen": false,
+     "min": 5,
+     "at": 1790003840000,
+     "gka": "a1"
+    }
+   ],
+   "timer": {
+    "acc": 420000,
+    "run": false
+   },
+   "endedAt": 1790004020000
+  }
+ ]
+}

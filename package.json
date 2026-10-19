@@ -9,7 +9,8 @@
   "scripts": {
     "golden": "node scripts/extract-golden/index.mjs",
     "golden:check": "node scripts/extract-golden/index.mjs --check",
-    "deps": "node scripts/extract-golden/index.mjs --deps-only",
+    "fixtures": "node scripts/make-fixtures/index.mjs",
+    "deps":"node scripts/extract-golden/index.mjs --deps-only",
     "test": "pnpm -r test",
     "typecheck": "pnpm -r typecheck"
   },

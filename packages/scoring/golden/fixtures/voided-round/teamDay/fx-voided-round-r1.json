@@ -1,0 +1,15 @@
+{
+ "leagueId": "fx-voided-round",
+ "roundId": "fx-voided-round-r1",
+ "status": "done",
+ "teamDay": {
+  "score": {
+   "tA": 1,
+   "tB": 0.08333333333333331,
+   "tC": 0.3333333333333333
+  },
+  "spread": 0.8333333333333334,
+  "tight": false
+ },
+ "voided": true
+}

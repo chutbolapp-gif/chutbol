@@ -1,0 +1,50 @@
+{
+ "gkOrder": {
+  "tA": [
+   "a4",
+   "a2",
+   "zz",
+   "a1"
+  ],
+  "tB": [
+   "b2",
+   "b1",
+   "b3",
+   "b4",
+   "b5"
+  ]
+ },
+ "leagueId": "fx-auto-gk",
+ "nextGk": {
+  "tB": "a2"
+ },
+ "nextPair": [
+  "tA",
+  "tB"
+ ],
+ "roundId": "fx-auto-gk-r1",
+ "status": "live",
+ "teams": {
+  "tA": {
+   "auto": "a3",
+   "counts": {
+    "a1": 1,
+    "a4": 1
+   }
+  },
+  "tB": {
+   "auto": "b3",
+   "counts": {
+    "b1": 1,
+    "b2": 1
+   }
+  },
+  "tC": {
+   "auto": null,
+   "counts": {
+    "c1": 2
+   }
+  }
+ },
+ "voided": false
+}

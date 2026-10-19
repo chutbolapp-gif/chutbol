@@ -1,0 +1,15 @@
+{
+ "leagueId": "fx-gk-under-minute",
+ "roundId": "fx-gk-under-minute-r1",
+ "status": "done",
+ "teamDay": {
+  "score": {
+   "tA": 1,
+   "tB": 0.5,
+   "tC": 0.41666666666666663
+  },
+  "spread": 0.5,
+  "tight": false
+ },
+ "voided": false
+}

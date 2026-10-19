@@ -1,0 +1,29 @@
+{
+ "gkOrder": null,
+ "leagueId": "fx-underdog-win",
+ "nextGk": {},
+ "nextPair": [],
+ "roundId": "fx-underdog-win-r1",
+ "status": "done",
+ "teams": {
+  "tA": {
+   "auto": null,
+   "counts": {
+    "a1": 9
+   }
+  },
+  "tB": {
+   "auto": null,
+   "counts": {
+    "b1": 4
+   }
+  },
+  "tC": {
+   "auto": null,
+   "counts": {
+    "c1": 5
+   }
+  }
+ },
+ "voided": false
+}

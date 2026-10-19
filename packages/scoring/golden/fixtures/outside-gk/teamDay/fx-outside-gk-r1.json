@@ -1,0 +1,15 @@
+{
+ "leagueId": "fx-outside-gk",
+ "roundId": "fx-outside-gk-r1",
+ "status": "done",
+ "teamDay": {
+  "score": {
+   "tA": 0.5833333333333333,
+   "tB": 0,
+   "tC": 0.9166666666666667
+  },
+  "spread": 1,
+  "tight": false
+ },
+ "voided": false
+}

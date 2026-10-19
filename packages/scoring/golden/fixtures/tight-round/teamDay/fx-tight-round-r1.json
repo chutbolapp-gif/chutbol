@@ -1,0 +1,15 @@
+{
+ "leagueId": "fx-tight-round",
+ "roundId": "fx-tight-round-r1",
+ "status": "done",
+ "teamDay": {
+  "score": {
+   "tA": 0.9583333333333333,
+   "tB": 0.75,
+   "tC": 0.5416666666666666
+  },
+  "spread": 0,
+  "tight": true
+ },
+ "voided": false
+}

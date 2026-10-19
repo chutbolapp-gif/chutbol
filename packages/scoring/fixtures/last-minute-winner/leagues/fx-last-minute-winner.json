@@ -1,0 +1,83 @@
+{
+ "id": "fx-last-minute-winner",
+ "name": "fixture last-minute-winner",
+ "season": "עונה 26/27",
+ "created": 1789913600000,
+ "roundOffset": 0,
+ "players": [
+  {
+   "id": "a1",
+   "name": "a1"
+  },
+  {
+   "id": "a2",
+   "name": "a2"
+  },
+  {
+   "id": "a3",
+   "name": "a3"
+  },
+  {
+   "id": "a4",
+   "name": "a4"
+  },
+  {
+   "id": "a5",
+   "name": "a5"
+  },
+  {
+   "id": "b1",
+   "name": "b1"
+  },
+  {
+   "id": "b2",
+   "name": "b2"
+  },
+  {
+   "id": "b3",
+   "name": "b3"
+  },
+  {
+   "id": "b4",
+   "name": "b4"
+  },
+  {
+   "id": "b5",
+   "name": "b5"
+  },
+  {
+   "id": "c1",
+   "name": "c1"
+  },
+  {
+   "id": "c2",
+   "name": "c2"
+  },
+  {
+   "id": "c3",
+   "name": "c3"
+  },
+  {
+   "id": "c4",
+   "name": "c4"
+  },
+  {
+   "id": "c5",
+   "name": "c5"
+  }
+ ],
+ "settings": {
+  "fee": 20,
+  "goalLimit": 2,
+  "lead": 10,
+  "minHours": 2,
+  "minMatches": 10,
+  "minutes": 7,
+  "perTeam": 5,
+  "pts1": 3,
+  "pts2": 1,
+  "seasonRounds": 25,
+  "teams": 3,
+  "tieRule": "fewer"
+ }
+}

@@ -1,0 +1,285 @@
+{
+ "all": {
+  "a1": {
+   "avg": 6,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 2,
+   "n": 2,
+   "score": 6.15,
+   "sv": 0
+  },
+  "a2": {
+   "avg": 5.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 1,
+   "n": 2,
+   "score": 5.65,
+   "sv": 0
+  },
+  "a3": {
+   "avg": 5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0,
+   "n": 2,
+   "score": 5.15,
+   "sv": 0
+  },
+  "a4": {
+   "avg": 5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0,
+   "n": 2,
+   "score": 5.15,
+   "sv": 0
+  },
+  "a5": {
+   "avg": 5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0,
+   "n": 2,
+   "score": 5.15,
+   "sv": 0
+  },
+  "b1": {
+   "avg": 5.5,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 1,
+   "n": 2,
+   "score": 5.5,
+   "sv": 0
+  },
+  "b2": {
+   "avg": 4.5,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -1,
+   "n": 2,
+   "score": 4.5,
+   "sv": 0
+  },
+  "b3": {
+   "avg": 4.5,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -1,
+   "n": 2,
+   "score": 4.5,
+   "sv": 0
+  },
+  "b4": {
+   "avg": 4.5,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -1,
+   "n": 2,
+   "score": 4.5,
+   "sv": 0
+  },
+  "b5": {
+   "avg": 4.5,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -1,
+   "n": 2,
+   "score": 4.5,
+   "sv": 0
+  },
+  "c2": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 2,
+   "n": 2,
+   "score": 6.3,
+   "sv": 0
+  },
+  "c3": {
+   "avg": 5.75,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1.5,
+   "n": 2,
+   "score": 6.05,
+   "sv": 0
+  },
+  "c4": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 2,
+   "n": 2,
+   "score": 6.3,
+   "sv": 0
+  },
+  "c5": {
+   "avg": 5.5,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 2,
+   "score": 5.8,
+   "sv": 0
+  },
+  "x1": {
+   "avg": 7,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 4,
+   "n": 2,
+   "score": 7,
+   "sv": 0
+  }
+ },
+ "field": {
+  "a2": {
+   "avg": 5.5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 1,
+   "n": 2,
+   "score": 5.65,
+   "sv": 0
+  },
+  "a3": {
+   "avg": 5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0,
+   "n": 2,
+   "score": 5.15,
+   "sv": 0
+  },
+  "a4": {
+   "avg": 5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0,
+   "n": 2,
+   "score": 5.15,
+   "sv": 0
+  },
+  "a5": {
+   "avg": 5,
+   "bonus": 0.15,
+   "conc": 0,
+   "contrib": 0,
+   "n": 2,
+   "score": 5.15,
+   "sv": 0
+  },
+  "b2": {
+   "avg": 4.5,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -1,
+   "n": 2,
+   "score": 4.5,
+   "sv": 0
+  },
+  "b3": {
+   "avg": 4.5,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -1,
+   "n": 2,
+   "score": 4.5,
+   "sv": 0
+  },
+  "b4": {
+   "avg": 4.5,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -1,
+   "n": 2,
+   "score": 4.5,
+   "sv": 0
+  },
+  "b5": {
+   "avg": 4.5,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": -1,
+   "n": 2,
+   "score": 4.5,
+   "sv": 0
+  },
+  "c2": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 2,
+   "n": 2,
+   "score": 6.3,
+   "sv": 0
+  },
+  "c3": {
+   "avg": 5.75,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1.5,
+   "n": 2,
+   "score": 6.05,
+   "sv": 0
+  },
+  "c4": {
+   "avg": 6,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 2,
+   "n": 2,
+   "score": 6.3,
+   "sv": 0
+  },
+  "c5": {
+   "avg": 5.5,
+   "bonus": 0.3,
+   "conc": 0,
+   "contrib": 1,
+   "n": 2,
+   "score": 5.8,
+   "sv": 0
+  }
+ },
+ "gk": {
+  "a1": {
+   "avg": 6,
+   "bonus": 0.15,
+   "conc": 1,
+   "contrib": 2,
+   "n": 2,
+   "q": true,
+   "score": 6.15,
+   "sv": 0
+  },
+  "b1": {
+   "avg": 5.5,
+   "bonus": 0,
+   "conc": 2,
+   "contrib": 1,
+   "n": 2,
+   "q": true,
+   "score": 5.5,
+   "sv": 0
+  },
+  "x1": {
+   "avg": 7,
+   "bonus": 0,
+   "conc": 0,
+   "contrib": 4,
+   "n": 2,
+   "q": true,
+   "score": 7,
+   "sv": 2
+  }
+ },
+ "leagueId": "fx-outside-gk",
+ "roundId": "fx-outside-gk-r1",
+ "status": "done",
+ "voided": false
+}

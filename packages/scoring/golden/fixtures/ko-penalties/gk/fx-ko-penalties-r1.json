@@ -1,0 +1,35 @@
+{
+ "gkOrder": null,
+ "leagueId": "fx-ko-penalties",
+ "nextGk": {},
+ "nextPair": [],
+ "roundId": "fx-ko-penalties-r1",
+ "status": "done",
+ "teams": {
+  "tA": {
+   "auto": null,
+   "counts": {
+    "a1": 2
+   }
+  },
+  "tB": {
+   "auto": null,
+   "counts": {
+    "b1": 1
+   }
+  },
+  "tC": {
+   "auto": null,
+   "counts": {
+    "c1": 1
+   }
+  },
+  "tD": {
+   "auto": null,
+   "counts": {
+    "d1": 2
+   }
+  }
+ },
+ "voided": false
+}

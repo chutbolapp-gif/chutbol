@@ -1,0 +1,15 @@
+{
+ "leagueId": "fx-mvp-tie",
+ "roundId": "fx-mvp-tie-r1",
+ "status": "done",
+ "teamDay": {
+  "score": {
+   "tA": 1,
+   "tB": 0.75,
+   "tC": 0.16666666666666669
+  },
+  "spread": 0.6666666666666666,
+  "tight": false
+ },
+ "voided": false
+}

@@ -1,0 +1,31 @@
+{
+ "gkOrder": null,
+ "leagueId": "fx-gk-under-minute",
+ "nextGk": {},
+ "nextPair": [],
+ "roundId": "fx-gk-under-minute-r1",
+ "status": "done",
+ "teams": {
+  "tA": {
+   "auto": null,
+   "counts": {
+    "a1": 2
+   }
+  },
+  "tB": {
+   "auto": null,
+   "counts": {
+    "b1": 1,
+    "b2": 1
+   }
+  },
+  "tC": {
+   "auto": null,
+   "counts": {
+    "c1": 2,
+    "c2": 1
+   }
+  }
+ },
+ "voided": false
+}

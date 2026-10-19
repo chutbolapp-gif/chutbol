@@ -1,0 +1,29 @@
+{
+ "gkOrder": null,
+ "leagueId": "fx-last-minute-winner",
+ "nextGk": {},
+ "nextPair": [],
+ "roundId": "fx-last-minute-winner-r1",
+ "status": "done",
+ "teams": {
+  "tA": {
+   "auto": null,
+   "counts": {
+    "a1": 3
+   }
+  },
+  "tB": {
+   "auto": null,
+   "counts": {
+    "b1": 2
+   }
+  },
+  "tC": {
+   "auto": null,
+   "counts": {
+    "c1": 3
+   }
+  }
+ },
+ "voided": false
+}

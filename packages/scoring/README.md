@@ -12,5 +12,6 @@ Pure scoring functions ported from the prototype (`docs/prototype/soccerfriends.
   - `_meta.json` – hashes of the prototype and every input file
 - Policy: the current formula is the truth. Stored ratings are recomputed (the prototype's own
   `updateRatings`) before anything that reads them.
-- `fixtures/<name>/{leagues,rounds,ratings}` – synthetic edge cases (step 4). Each gets golden
-  output under `golden/fixtures/<name>/`.
+- `fixtures/<name>/{leagues,rounds,ratings}` – synthetic edge cases, written by `pnpm fixtures`
+  (scripts/make-fixtures, where each case is described). Each gets golden output under
+  `golden/fixtures/<name>/`. After changing a case: `pnpm fixtures`, then `pnpm golden`.
