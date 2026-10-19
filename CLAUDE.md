@@ -30,7 +30,8 @@ Hebrew first (RTL), English second. All user-facing text via i18n keys.
 - After any SDK change: delete pnpm-lock.yaml and every node_modules (root, apps/*, packages/*), then `pnpm install`. Otherwise pnpm keeps old-SDK peer packages (e.g. @expo/log-box) from the lockfile and Metro fails with UnableToResolveError.
 - Stages 0 to 1b must run in Expo Go: no libraries that need custom native code (no MMKV, RevenueCat, Sentry native yet). Local storage: expo-sqlite / AsyncStorage.
 - Move to an EAS development build at stage 1c (live match), when native modules are needed.
-- Phone login in development uses Supabase test phone numbers with a fixed OTP. No SMS provider until beta.
+- Phone login in development uses Supabase test phone numbers with a fixed OTP. No SMS provider until beta. Test numbers and who they are: supabase/README.md (050-0000001 = admin of league A, code 123456). On the remote project they are set by hand in the dashboard (Authentication → Phone), with a placeholder Twilio provider.
+- Supabase: local stack needs Docker Desktop running (`node node_modules/supabase/dist/supabase.js start -x realtime,storage-api,imgproxy,mailpit,postgres-meta,studio,edge-runtime,logflare,vector,supavisor`, then `... test db`). Remote project yjsjkziinpjaiduufbbp: `supabase login` does not work on this machine, so push with scripts/db-push-remote.ps1 (connection string in gitignored supabase/.env.db.local). Push only after local tests pass. supabase/seed.sql is generated (`pnpm import:seed`); never edit it by hand.
 - RTL: Hebrew is the default direction. Switching language between RTL and LTR requires an app reload; handle it explicitly.
 
 ## Working rules
