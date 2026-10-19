@@ -291,12 +291,15 @@ max_frequency = "5s"
 # uri = "pg-functions://<database>/<schema>/<hook_name>"
 
 # Configure one of the supported SMS providers: `twilio`, `twilio_verify`, `messagebird`, `textlocal`, `vonage`.
+#
+# Dev: a placeholder provider, because phone login is disabled without one. The values are fake
+# and nothing is ever sent: only the test numbers above can log in (their code is fixed).
+# Beta: replace with a real provider; keep the real auth token out of git (env(...)).
 [auth.sms.twilio]
-enabled = false
-account_sid = ""
-message_service_sid = ""
-# DO NOT commit your Twilio auth token to git. Use environment variable substitution instead:
-auth_token = "env(SUPABASE_AUTH_SMS_TWILIO_AUTH_TOKEN)"
+enabled = true
+account_sid = "dev-placeholder-no-sms"
+message_service_sid = "dev-placeholder-no-sms"
+auth_token = "dev-placeholder-no-sms"
 
 # Multi-factor-authentication is available to Supabase Pro plan.
 [auth.mfa]
