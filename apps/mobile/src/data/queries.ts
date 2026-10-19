@@ -24,7 +24,8 @@ export function useMyLeagues() {
     queryFn: async (): Promise<MyLeague[]> => {
       const rows = must(await supabase
         .from('league_members')
-        .select('id, role, league:leagues(id, name, season)')
+        // explicit FK: member_secrets also links members to leagues, so the plain embed is ambiguous
+        .select('id, role, league:leagues!league_members_league_id_fkey(id, name, season)')
         .eq('profile_id', userId!));
       return (rows as unknown as { id: Id; role: MemberRow['role']; league: MyLeague['league'] }[])
         .map(r => ({ memberId: r.id, role: r.role, league: r.league }))
