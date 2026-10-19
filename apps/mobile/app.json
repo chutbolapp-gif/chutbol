@@ -27,7 +27,13 @@
     },
     "plugins": [
       "expo-router",
-      ["expo-localization", { "supportsRTL": true }]
+      [
+        "expo-localization",
+        {
+          "supportsRTL": true
+        }
+      ],
+      "expo-status-bar"
     ],
     "experiments": {
       "typedRoutes": true

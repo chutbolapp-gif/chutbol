@@ -26,6 +26,8 @@ Hebrew first (RTL), English second. All user-facing text via i18n keys.
 - One phone "owns" the live match (holds the lock). A second admin sees it read-only until they take over.
 
 ## Dev environment
+- Expo SDK is pinned to 57 (owner's phone: Expo Go SDK 57, tested on a real Android phone 2026-10-19). Do not upgrade expo or run `expo install expo@latest` until Expo Go on the owner's phone supports the new SDK; ask first.
+- After any SDK change: delete pnpm-lock.yaml and every node_modules (root, apps/*, packages/*), then `pnpm install`. Otherwise pnpm keeps old-SDK peer packages (e.g. @expo/log-box) from the lockfile and Metro fails with UnableToResolveError.
 - Stages 0 to 1b must run in Expo Go: no libraries that need custom native code (no MMKV, RevenueCat, Sentry native yet). Local storage: expo-sqlite / AsyncStorage.
 - Move to an EAS development build at stage 1c (live match), when native modules are needed.
 - Phone login in development uses Supabase test phone numbers with a fixed OTP. No SMS provider until beta.

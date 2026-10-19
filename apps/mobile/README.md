@@ -1,6 +1,6 @@
 # @chutbol/mobile
 
-Expo (SDK 58) + Expo Router app. Runs in Expo Go: no libraries with custom native code until stage 1c.
+Expo (SDK 57, pinned to match Expo Go on the test phone) + Expo Router app. Runs in Expo Go: no libraries with custom native code until stage 1c.
 
 ## Run
 
