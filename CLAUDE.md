@@ -35,5 +35,5 @@ Hebrew first (RTL), English second. All user-facing text via i18n keys.
 - The owner prefers autonomous work (Auto mode): decide technical details yourself, run everything, and do not ask for approval on technical choices.
 - Stop and ask ONLY for product decisions: the prototype looks wrong, two behaviours are possible and players would see a difference, or a result makes no football sense. Ask in simple Hebrew, recommendation first.
 - Commit to Git after every step that works (tests and typecheck green).
-- Keep the owner informed in Hebrew, in plain words; code, comments and commit messages in English.
+- Always reply to the owner in Hebrew, in plain, simple words: explain what you are doing and what you need from them. Code, comments and commit messages stay in English.
 - Windows note: running pnpm through Git Bash is very slow here (minutes); use PowerShell, or call node / vitest / tsc directly.
