@@ -13,7 +13,7 @@ Hebrew first (RTL), English second. All user-facing text via i18n keys.
 - Port rateMatch, roundScores, playerOVR, teamDay, gkCounts/autoGk together with their FULL dependency tree (standings, roundAwards, roundAttrs, ratingAgg, roundRaw, teamStrength, initialLineup, matchGks, starBase, pCards, manualAttr, leagueRounds, teamOf and anything else they call, plus constants like OVR_K, OVR_MIN/MAX, STAR_OVR, and the OVRC cache). The full, generated list is docs/scoring-deps.md. GF, GKS, LP and TD are local variables inside rateMatch/playerOVR, not globals.
 - Pure functions only: no globals, no UI state (the prototype's playerOVR reads S.admin; pass that in as an explicit argument), no I/O, no Date.now(). Inputs and outputs are typed in packages/shared.
 - Every change must keep all golden tests green. Never "fix" a formula to make a test pass; if the prototype looks wrong, stop and ask.
-- Real data covers only one played evening (round 6), so add synthetic edge-case fixtures: 0-0, MOTM tie, outside GK, keeper with under one minute, knockout on penalties, tight round, voided round.
+- Real data covers only one played evening (round 6), so synthetic edge-case fixtures live in packages/scoring/fixtures (written by `pnpm fixtures`, scripts/make-fixtures). Prototype behaviours the owner chose to keep are listed in docs/scoring-data-needs.md.
 
 ## Data rules
 - Postgres RLS filters ROWS, not columns. Secret data lives in separate tables that only admins can read: member_secrets (stars, cards, balance, phone), rating_parts, unpublished OVR. Never put a secret column in a table that members can read.
@@ -32,6 +32,8 @@ Hebrew first (RTL), English second. All user-facing text via i18n keys.
 - RTL: Hebrew is the default direction. Switching language between RTL and LTR requires an app reload; handle it explicitly.
 
 ## Working rules
-- Small, reviewed steps: show a plan first, then code, then run tests and the app.
-- One task per conversation. Commit to Git after every step that works.
+- The owner prefers autonomous work (Auto mode): decide technical details yourself, run everything, and do not ask for approval on technical choices.
+- Stop and ask ONLY for product decisions: the prototype looks wrong, two behaviours are possible and players would see a difference, or a result makes no football sense. Ask in simple Hebrew, recommendation first.
+- Commit to Git after every step that works (tests and typecheck green).
 - Keep the owner informed in Hebrew, in plain words; code, comments and commit messages in English.
+- Windows note: running pnpm through Git Bash is very slow here (minutes); use PowerShell, or call node / vitest / tsc directly.
